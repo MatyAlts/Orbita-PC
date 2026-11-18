@@ -1,0 +1,23 @@
+2026-11-18 13:35:41.941 I core       t00259 module 'rexfilesystem' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexfilesystem.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.943 I core       t00259 module 'rexhid' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.943 I core       t00259 module 'rexapu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.944 I core       t00259 module 'rexui' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.945 I core       t00259 module 'rexgpu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.945 I core       t00259 module 'rexxam' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxam.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.945 I core       t00259 module 'rexxbdm' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxbdm.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.945 I core       t00259 module 'rexkernel' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexkernel.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.946 I core       t00259 open file limit is 1048575, hard limit unlimited
+2026-11-18 13:35:41.954 I core       t00259 module 'rexapu-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.955 I core       t00259 module 'rexhid-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.956 I core       t00259 module 'rexui-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.959 I core       t00259 module 'rexgpu-xenos-vulkan' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu-xenos-vulkan.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:41.992 W hid        t00259 SDL GameControllerDB: file '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/gamecontrollerdb.txt' does not exist.
+2026-11-18 13:35:41.992 I hid        t00259 SDL input driver initialized
+2026-11-18 13:35:42.292 I ui         t00259 SDL video driver: cocoa
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+2026-11-18 13:35:42.805 I ui         t00259 Loaded Vulkan runtime from /Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libvulkan.1.dylib
+2026-11-18 13:35:42.809 E ui         t00259 Failed to create a Vulkan instance: ErrorIncompatibleDriver
+2026-11-18 13:35:42.953 E core       t00259 modules failed: module 'rexgpu' failed to init, Unable to create graphics provider
+[ERROR] orbita
+
+modules failed: module 'rexgpu' failed to init, Unable to create graphics provider

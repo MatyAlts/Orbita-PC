@@ -1,0 +1,21 @@
+diff --git a/XenonUtils/xex.cpp b/XenonUtils/xex.cpp
+index 4e79042..a346624 100644
+--- a/XenonUtils/xex.cpp
++++ b/XenonUtils/xex.cpp
+@@ -149,7 +149,7 @@ Image Xex2LoadImage(const uint8_t* data, size_t dataSize)
+ 
+             uint8_t decryptedKey[KeySize];
+             memcpy(decryptedKey, security->aesKey, KeySize);
+-            AES_init_ctx_iv(&aesContext, Xex2RetailKey, AESBlankIV);
++            AES_init_ctx_iv(&aesContext, AESBlankIV, AESBlankIV);
+             AES_CBC_decrypt_buffer(&aesContext, decryptedKey, KeySize);
+ 
+             decryptedData = std::make_unique<uint8_t[]>(dataSize - header->headerSize);
+@@ -257,6 +257,7 @@ Image Xex2LoadImage(const uint8_t* data, size_t dataSize)
+         }
+     }
+ 
++    if (!result || result[0] != 'M' || result[1] != 'Z') return {};
+     image.data = std::move(result);
+     image.size = security->imageSize;
+ 

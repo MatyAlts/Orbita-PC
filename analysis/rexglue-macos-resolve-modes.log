@@ -1,0 +1,11 @@
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+MSL 131075 function created: false
+Specialization failed: Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}
+MSL 131076 function created: false
+Specialization failed: Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}
+MSL 196608 function created: false
+Specialization failed: Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}
+MSL 196609 function created: false
+Specialization failed: Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}
+MSL 196610 function created: false
+Specialization failed: Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}

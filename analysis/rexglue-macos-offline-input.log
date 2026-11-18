@@ -1,0 +1,89 @@
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+2026-11-18 13:58:46.612 I core       t00259 module 'rexfilesystem' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexfilesystem.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.613 I core       t00259 module 'rexhid' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.614 I core       t00259 module 'rexapu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.615 I core       t00259 module 'rexui' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.616 I core       t00259 module 'rexgpu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.616 I core       t00259 module 'rexxam' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxam.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.616 I core       t00259 module 'rexxbdm' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxbdm.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.616 I core       t00259 module 'rexkernel' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexkernel.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.617 I core       t00259 open file limit is 1048575, hard limit unlimited
+2026-11-18 13:58:46.618 I core       t00259 module 'rexapu-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.619 I core       t00259 module 'rexhid-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.620 I core       t00259 module 'rexui-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.623 I core       t00259 module 'rexgpu-xenos-vulkan' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu-xenos-vulkan.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:58:46.650 W hid        t00259 SDL GameControllerDB: file '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/gamecontrollerdb.txt' does not exist.
+2026-11-18 13:58:46.650 I hid        t00259 SDL input driver initialized
+2026-11-18 13:58:46.975 I ui         t00259 SDL video driver: cocoa
+2026-11-18 13:58:47.014 I ui         t00259 Loaded Vulkan runtime from /Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libvulkan.1.dylib
+nvk: command-pool chunks carved from shared slabs (NVK_CMDMEM_SLAB_KB=1024, 16 chunks per slab, spare 4, keep 1, idle 5000 ms)
+nvk: command-pool chunk recycler off (NVK_CMDMEM_RECYCLE=0, NVK_CMDMEM_LIVE_MAX=512)
+2026-11-18 13:58:47.056 I ui         t00259 Vulkan instance API version 1.4.363. Enabled layers and extensions:
+2026-11-18 13:58:47.056 W ui         t00259 Available Vulkan physical devices (set Config::gpu.vulkan_device to force a device):
+2026-11-18 13:58:47.057 W ui         t00259 * 0: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+2026-11-18 13:58:47.057 I ui         t00259 Vulkan device 'NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))': API 1.3.357, vendor 0x10DE, device 0x1F03, driver version 0x28A2
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message): Inserted device layer "VK_LAYER_LUNARG_screenshot" (/private/tmp/orbita-vulkan-sdk/macOS/lib/libVkLayer_screenshot.dylib) (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message): vkCreateDevice layer callstack setup to: (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Application> (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Loader> (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    VK_LAYER_LUNARG_screenshot (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):            Type: Explicit (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):            Enabled By: Environment Variable VK_LOADER_LAYERS_ENABLE (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):            Manifest: /tmp/orbita-vulkan-sdk/macOS/share/vulkan/explicit_layer.d/VkLayer_screenshot.json (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):            Library:  /private/tmp/orbita-vulkan-sdk/macOS/lib/libVkLayer_screenshot.dylib (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Device> (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):        Using "NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))" with driver: "/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libMoltenVK.dylib" (object 0: Instance 0x7fa9a7038a00)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Vulkan semaphores using Metal implicit guarantees within a single queue. (object 0: Device 0x7fa9a5055458)
+2026-11-18 13:58:47.057 W gpu        t00259 Vulkan Warning ({ Validation }, ID 0: mvk-warn): VK_ERROR_FEATURE_NOT_PRESENT: Non-Apple GPUs do not fully support robustness. (object 0: Device 0x7fa9a5055458)
+2026-11-18 13:58:47.057 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Descriptor sets binding resources using discrete resource indexes. (object 0: Device 0x7fa9a5055458)
+2026-11-18 13:58:47.100 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Created VkDevice to run on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with the following 5 Vulkan extensions enabled:
+	VK_KHR_portability_subset v1
+	VK_KHR_swapchain v70
+	VK_EXT_memory_budget v1
+	VK_EXT_robustness2 v1
+	VK_EXT_shader_stencil_export v1 (object 0: Device 0x7fa9a5055458)
+2026-11-18 13:58:47.102 I system     t00259 Guest memory mapped at virtual base 0x000000012C017000, physical base 0x000000022C017000
+2026-11-18 13:58:47.147 W system     t00259 XEX decoded with a non retail key (1)
+2026-11-18 13:58:47.207 I gpu        t102403 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9a5c91610) on screen Main Screen. (object 0: SwapchainKHR 0x7fa9a60c5810)
+2026-11-18 13:58:47.208 I ui         t102403 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+2026-11-18 13:58:47.233 I gpu        t109059 Vulkan sparse binding is not used for shared memory emulation. Video memory usage may increase significantly because a full 512 MB buffer will be created
+2026-11-18 13:58:47.243 W gpu        t109059 Vulkan geometryShader is not supported by the device. Primitive fallback conversion/expansion paths will be used
+2026-11-18 13:58:47.322 I gpu        t102403 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9a5c91610) on screen Main Screen. (object 0: SwapchainKHR 0x7fa9a8858e10)
+2026-11-18 13:58:47.324 I ui         t102403 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+2026-11-18 13:58:47.695 I gpu        t109059 VulkanTextureCache: Format k_1_5_5_5 (unsigned) is not supported by the device (preferred Vulkan format is 8)
+2026-11-18 13:58:47.695 I gpu        t109059 VulkanTextureCache: Format k_5_6_5 (unsigned) is supported via a fallback format (using the Vulkan format 37 instead of the preferred 4)
+2026-11-18 13:58:47.695 I gpu        t109059 VulkanTextureCache: Format k_6_5_5 (unsigned) is not supported by the device (preferred Vulkan format is 4)
+2026-11-18 13:58:47.695 I gpu        t109059 VulkanTextureCache: Format k_4_4_4_4 (unsigned) is supported via a fallback format (using the Vulkan format 37 instead of the preferred 3)
+2026-11-18 13:58:47.695 I gpu        t109059 VulkanTextureCache: Format k_DXT3A_AS_1_1_1_1 (unsigned) is not supported by the device (preferred Vulkan format is 3)
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+[mvk-error] VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error.
+2026-11-18 13:58:48.367 E gpu        t109059 Vulkan Error ({ Validation }, ID 0: mvk-error): VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error. (object 0: Pipeline 0x7fa99b552850)
+2026-11-18 13:58:48.367 W gpu        t109059 Failed to create the FXAA compute pipeline
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+nvmtl_translate: formatless storage images refused, falling back: sampler operand is a pointer whose exact sampler state was not recovered
+[mvk-error] VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error.
+2026-11-18 13:58:48.610 E gpu        t109059 Vulkan Error ({ Validation }, ID 0: mvk-error): VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error. (object 0: Pipeline 0x7fa9a4fd5d30)
+2026-11-18 13:58:48.610 W gpu        t109059 Failed to create the extreme quality FXAA compute pipeline
+2026-11-18 13:58:49.985 I hid        t108803 New controller connected to user 0.
+2026-11-18 13:58:50.022 W gpu        t109059 Vulkan Warning ({ Validation }, ID 0: mvk-warn): VK_ERROR_FEATURE_NOT_PRESENT: Metal does not support disabling primitive restart. (object 0: Pipeline 0x7fa99c41e610)
+2026-11-18 13:58:50.045 W gpu        t102403 Vulkan Warning ({ Validation }, ID 0: mvk-warn): VK_ERROR_FEATURE_NOT_PRESENT: Metal does not support disabling primitive restart. (object 0: Pipeline 0x7fa9a6177410)
+screenshot: Queued screeshot for frame: 5400
+screenshot: Saved image: /tmp/orbita-vk-confirm/5400.ppm 
+screenshot: Queued screeshot for frame: 7200
+screenshot: Saved image: /tmp/orbita-vk-confirm/7200.ppm 
+screenshot: Queued screeshot for frame: 8000
+screenshot: Saved image: /tmp/orbita-vk-confirm/8000.ppm 
+Orbita offline test X pressed: 1
+screenshot: Queued screeshot for frame: 8800
+screenshot: Saved image: /tmp/orbita-vk-confirm/8800.ppm 
+screenshot: No more frames to capture
+screenshot: Images thread is over
+2026-11-18 14:01:12.456 I system     t102915 Title terminate notification 825B5FB8 with registration 82658508
+2026-11-18 14:01:12.456 I system     t102915 Title terminate notification 825B65C8 with registration 82658518
+2026-11-18 14:01:12.665 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Destroyed VkDevice on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with 5 Vulkan extensions enabled. (object 0: Device 0x7fa9a5055458)

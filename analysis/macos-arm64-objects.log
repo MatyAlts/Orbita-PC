@@ -1,0 +1,560 @@
+In file included from analysis/generated/ppc_recomp.42.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));In file included from 
+      |                                                     ^
+analysis/generated/ppc_recomp.43.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+    257 |  257  |           __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+    __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.40.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.54.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.41.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.45.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.51.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.50.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.44.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.9.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.52.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.46.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.47.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.53.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.8.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.34.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.20.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.21.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.35.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.23.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.37.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.36.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.22.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.26.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.32.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.33.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.27.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.31.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.25.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.19.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.18.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.24.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.30.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.29.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.15.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.14.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.28.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.16.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.17.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.13.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.12.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.10.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.38.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.39.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.11.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.5.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_func_mapping.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.4.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.6.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.49.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.48.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.7.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.2.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.3.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+In file included from analysis/generated/ppc_recomp.0.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+In file included from analysis/generated/ppc_recomp.1.cpp:1:
+In file included from analysis/generated/ppc_recomp_shared.h:4:
+analysis/generated/ppc_context.h:257:53: warning: value size does not match register size specified by the constraint and modifier [-Wasm-operand-widths]
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                                     ^
+analysis/generated/ppc_context.h:257:41: note: use constraint modifier "w"
+  257 |         __asm__ __volatile__("msr fpcr, %0" : : "r"(csr));
+      |                                         ^~
+      |                                         %w0
+1 warning generated.
+1 warning generated.
+1 warning generated.

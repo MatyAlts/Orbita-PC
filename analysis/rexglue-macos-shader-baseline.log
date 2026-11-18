@@ -1,0 +1,4 @@
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+/tmp/orbita-resolve.metal Error Domain=NVMTL Code=3 "unresolved external shader function: llvm.fshl.v4i32" UserInfo={NSLocalizedDescription=unresolved external shader function: llvm.fshl.v4i32}
+/tmp/orbita-full8.metal Error Domain=NVMTL Code=3 "native emitter: llvm.bitreverse.i5 requires matching 32-bit integer scalar/vector operands, got Int(5), Int(5)" UserInfo={NSLocalizedDescription=native emitter: llvm.bitreverse.i5 requires matching 32-bit integer scalar/vector operands, got Int(5), Int(5)}
+/tmp/orbita-fragment-fail-0.metal main0 OK

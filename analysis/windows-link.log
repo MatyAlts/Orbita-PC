@@ -1,0 +1,750 @@
+lld-link: error: undefined symbol: __imp__NtCreateEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290000)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3D70)
+
+lld-link: error: undefined symbol: __imp__XamShowMessageBoxUIEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290000)
+
+lld-link: error: undefined symbol: __imp__NtClose(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290000)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A32C0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3390)
+>>> referenced 6 more times
+
+lld-link: error: undefined symbol: __imp__XexCheckExecutablePrivilege(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290138)
+
+lld-link: error: undefined symbol: __imp__XGetAVPack(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290138)
+
+lld-link: error: undefined symbol: __imp__ExGetXConfigSetting(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290138)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290138)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290610)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__XamLoaderTerminateTitle(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290390)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290390)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) __xstart)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__DbgPrint(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290390)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) __xstart)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B4F28)
+>>> referenced 3 more times
+
+lld-link: error: undefined symbol: __imp__XGetGameRegion(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290610)
+
+lld-link: error: undefined symbol: __imp__ObReferenceObjectByHandle(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822906A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290720)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822907F8)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__KeSetBasePriorityThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822906A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5218)
+
+lld-link: error: undefined symbol: __imp__ObDereferenceObject(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822906A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290720)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822907F8)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__KeQueryBasePriorityThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290720)
+
+lld-link: error: undefined symbol: __imp__NtSuspendThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822907A0)
+
+lld-link: error: undefined symbol: __imp__KeSetAffinityThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822907F8)
+
+lld-link: error: undefined symbol: __imp__RtlEnterCriticalSection(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290AA8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290B10)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B30)
+>>> referenced 393 more times
+
+lld-link: error: undefined symbol: __imp__RtlLeaveCriticalSection(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290AA8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290B10)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B30)
+>>> referenced 495 more times
+
+lld-link: error: undefined symbol: __imp__RtlImageXexHeaderField(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290B80)
+
+lld-link: error: undefined symbol: __imp__HalReturnToFirmware(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290C58)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822ECA00)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822ECA08)
+
+lld-link: error: undefined symbol: __imp__NtAllocateVirtualMemory(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290D68)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290D68)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290D68)
+>>> referenced 11 more times
+
+lld-link: error: undefined symbol: __imp__NtFreeVirtualMemory(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82290D68)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82291FC0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292200)
+>>> referenced 6 more times
+
+lld-link: error: undefined symbol: __imp__RtlCompareMemoryUlong(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822912F0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822912F0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_822912F0)
+>>> referenced 5 more times
+
+lld-link: error: undefined symbol: __imp__KeGetCurrentProcessType(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82291DB0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292568)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292568)
+>>> referenced 54 more times
+
+lld-link: error: undefined symbol: __imp__KeBugCheckEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82291DB0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B30)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B38)
+>>> referenced 4 more times
+
+lld-link: error: undefined symbol: __imp__NtQueryVirtualMemory(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292568)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292568)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292600)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__RtlInitializeCriticalSection(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292568)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292600)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.5.cpp.obj):(__declspec(dllimport) _sub_822EB168)
+>>> referenced 28 more times
+
+lld-link: error: undefined symbol: __imp__RtlRaiseException(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B30)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82292B38)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82293728)
+>>> referenced 2 more times
+
+lld-link: error: undefined symbol: __imp__RtlNtStatusToDosError(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82294020)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646A80)
+
+lld-link: error: undefined symbol: __imp__NtWaitForSingleObjectEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.0.cpp.obj):(__declspec(dllimport) _sub_82294078)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3900)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646B58)
+
+lld-link: error: undefined symbol: __imp__KeBugCheck(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634570)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634620)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634620)
+>>> referenced 7 more times
+
+lld-link: error: undefined symbol: __imp__KeTlsFree(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634850)
+
+lld-link: error: undefined symbol: __imp__KeTlsGetValue(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634898)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634A70)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.19.cpp.obj):(__declspec(dllimport) _sub_823E0D60)
+
+lld-link: error: undefined symbol: __imp__KeTlsSetValue(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634898)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634898)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634898)
+>>> referenced 5 more times
+
+lld-link: error: undefined symbol: __imp__KeTlsAlloc(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.51.cpp.obj):(__declspec(dllimport) _sub_82634AE0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.19.cpp.obj):(__declspec(dllimport) _sub_823E0770)
+
+lld-link: error: undefined symbol: __imp__XeCryptRandom(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.5.cpp.obj):(__declspec(dllimport) _sub_822EC100)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822F0058)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822F0B40)
+>>> referenced 2 more times
+
+lld-link: error: undefined symbol: __imp__XGetVideoMode(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.5.cpp.obj):(__declspec(dllimport) _sub_822EC580)
+
+lld-link: error: undefined symbol: __imp__KeQueryPerformanceFrequency(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A31D0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C10C8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AC2D8)
+
+lld-link: error: undefined symbol: __imp__KeDelayExecutionThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A3228)
+
+lld-link: error: undefined symbol: __imp__RtlInitAnsiString(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A32C0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A32C0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3390)
+>>> referenced 9 more times
+
+lld-link: error: undefined symbol: __imp__NtOpenFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A32C0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3390)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A37F0)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__NtSetInformationFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.38.cpp.obj):(__declspec(dllimport) _sub_825A32C0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3390)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646588)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__MmIsAddressValid(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822ECC58)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822ECC58)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822ECDA8)
+>>> referenced 3 more times
+
+lld-link: error: undefined symbol: __imp__XexGetModuleHandle(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822F13E8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5B18)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DD8)
+>>> referenced 2 more times
+
+lld-link: error: undefined symbol: __imp__XexGetProcedureAddress(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.6.cpp.obj):(__declspec(dllimport) _sub_822F13E8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5B18)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DD8)
+>>> referenced 3 more times
+
+lld-link: error: undefined symbol: __imp__RtlTryEnterCriticalSection(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.19.cpp.obj):(__declspec(dllimport) _sub_823E0CF0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C68E8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82611DF8)
+
+lld-link: error: undefined symbol: __imp__RtlInitializeCriticalSectionAndSpinCount(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.53.cpp.obj):(__declspec(dllimport) _sub_8263AD68)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.53.cpp.obj):(__declspec(dllimport) _sub_8263AD70)
+
+lld-link: error: undefined symbol: __imp__RtlUnwind(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.53.cpp.obj):(__declspec(dllimport) _sub_8263E920)
+
+lld-link: error: undefined symbol: __imp__KeEnableFpuExceptions(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.53.cpp.obj):(__declspec(dllimport) _sub_82641BC8)
+
+lld-link: error: undefined symbol: __imp__NtCreateFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3448)
+
+lld-link: error: undefined symbol: __imp__KeQuerySystemTime(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3550)
+
+lld-link: error: undefined symbol: __imp__XamInputGetState(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3558)
+
+lld-link: error: undefined symbol: __imp__XamLoaderLaunchTitle(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3568)
+
+lld-link: error: undefined symbol: __imp__NtResumeThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3680)
+
+lld-link: error: undefined symbol: __imp__NtQueryFullAttributesFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A36D0)
+
+lld-link: error: undefined symbol: __imp__XamShowKeyboardUI(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3738)
+
+lld-link: error: undefined symbol: __imp__NtQueryVolumeInformationFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A37F0)
+
+lld-link: error: undefined symbol: __imp__NtWriteFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3900)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3900)
+
+lld-link: error: undefined symbol: __imp__MmAllocatePhysicalMemoryEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3C20)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3CA8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C0770)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__MmFreePhysicalMemory(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3D18)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C07F0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C07F0)
+>>> referenced 2 more times
+
+lld-link: error: undefined symbol: __imp__NtClearEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3E10)
+
+lld-link: error: undefined symbol: __imp__NtCreateSemaphore(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3E48)
+
+lld-link: error: undefined symbol: __imp__NtReleaseSemaphore(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3EE0)
+
+lld-link: error: undefined symbol: __imp__NtWaitForMultipleObjectsEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3F18)
+
+lld-link: error: undefined symbol: __imp__NtSetEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A3FD0)
+
+lld-link: error: undefined symbol: __imp__ExCreateThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A5180)
+
+lld-link: error: undefined symbol: __imp__ExTerminateThread(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A5258)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.39.cpp.obj):(__declspec(dllimport) _sub_825A5260)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646850)
+
+lld-link: error: undefined symbol: __imp__VdQueryVideoMode(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BCDA8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BEA08)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6448)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__VdQueryVideoFlags(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BD458)
+
+lld-link: error: undefined symbol: __imp__VdCallGraphicsNotificationRoutines(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BD5F8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6368)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B63E0)
+
+lld-link: error: undefined symbol: roundevenf
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BD658)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BD7E0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BD7E0)
+>>> referenced 6 more times
+
+lld-link: error: undefined symbol: __imp__RtlFillMemoryUlong(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BEF98)
+
+lld-link: error: undefined symbol: __imp__VdInitializeScalerCommandBuffer(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BEF98)
+
+lld-link: error: undefined symbol: __imp__KeEnterCriticalRegion(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF210)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6A58)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6D48)
+
+lld-link: error: undefined symbol: __imp__VdRetrainEDRAMWorker(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF210)
+
+lld-link: error: undefined symbol: __imp__VdRetrainEDRAM(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF210)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF210)
+
+lld-link: error: undefined symbol: __imp__KeLeaveCriticalRegion(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF210)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6A58)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6D48)
+
+lld-link: error: undefined symbol: __imp__KeSetEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BF950)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4340)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4378)
+>>> referenced 13 more times
+
+lld-link: error: undefined symbol: __imp__KeWaitForSingleObject(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BFFC8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4FC0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4FC0)
+>>> referenced 5 more times
+
+lld-link: error: undefined symbol: __imp__KeResetEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825BFFC8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4FC0)
+
+lld-link: error: undefined symbol: __imp__VdGetCurrentDisplayInformation(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C10C8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C1518)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6448)
+
+lld-link: error: undefined symbol: __imp__ObDeleteSymbolicLink(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C10C8)
+
+lld-link: error: undefined symbol: __imp__ObCreateSymbolicLink(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C1518)
+
+lld-link: error: undefined symbol: __imp__sprintf(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C1518)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C1518)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C1518)
+>>> referenced 4 more times
+
+lld-link: error: undefined symbol: __imp__KeLockL2(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C3EB8)
+
+lld-link: error: undefined symbol: __imp__KfAcquireSpinLock(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4208)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AC1A8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AC2D8)
+>>> referenced 6 more times
+
+lld-link: error: undefined symbol: __imp__KfReleaseSpinLock(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4208)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4208)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AC1A8)
+>>> referenced 8 more times
+
+lld-link: error: undefined symbol: __imp__KeUnlockL2(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C4208)
+
+lld-link: error: undefined symbol: __imp__KeInsertQueueDpc(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5160)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B2168)
+
+lld-link: error: undefined symbol: __imp__KeInitializeDpc(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5218)
+
+lld-link: error: undefined symbol: __imp__KeSetCurrentProcessType(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5608)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5608)
+
+lld-link: error: undefined symbol: __imp__XamGetSystemVersion(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5B18)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DD8)
+
+lld-link: error: undefined symbol: __imp__NetDll_WSAStartup(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5B18)
+
+lld-link: error: undefined symbol: __imp__NetDll_socket(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5BD8)
+
+lld-link: error: undefined symbol: __imp__NetDll_closesocket(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5BF0)
+
+lld-link: error: undefined symbol: __imp__NetDll_ioctlsocket(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C00)
+
+lld-link: error: undefined symbol: __imp__NetDll_setsockopt(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C18)
+
+lld-link: error: undefined symbol: __imp__NetDll_getsockopt(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C38)
+
+lld-link: error: undefined symbol: __imp__NetDll_getsockname(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C58)
+
+lld-link: error: undefined symbol: __imp__NetDll_bind(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C70)
+
+lld-link: error: undefined symbol: __imp__NetDll_connect(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5C88)
+
+lld-link: error: undefined symbol: __imp__NetDll_listen(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5CA0)
+
+lld-link: error: undefined symbol: __imp__NetDll_accept(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5CB0)
+
+lld-link: error: undefined symbol: __imp__NetDll_select(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5CC8)
+
+lld-link: error: undefined symbol: __imp__NetDll_recv(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5CE8)
+
+lld-link: error: undefined symbol: __imp__NetDll_recvfrom(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5D00)
+
+lld-link: error: undefined symbol: __imp__NetDll_send(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5D20)
+
+lld-link: error: undefined symbol: __imp__NetDll_sendto(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5D38)
+
+lld-link: error: undefined symbol: __imp__NetDll_WSASendTo(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5D58)
+
+lld-link: error: undefined symbol: __imp__NetDll_inet_addr(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DB0)
+
+lld-link: error: undefined symbol: __imp__NetDll_WSAGetLastError(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DB8)
+
+lld-link: error: undefined symbol: __imp__NetDll_WSACreateEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DC0)
+
+lld-link: error: undefined symbol: __imp__NetDll_WSACloseEvent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DC8)
+
+lld-link: error: undefined symbol: __imp__NetDll___WSAFDIsSet(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DD0)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetStartup(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5DD8)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetDnsLookup(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5EA8)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetDnsRelease(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5EC0)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetGetTitleXnAddr(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5ED0)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetGetEthernetLinkStatus(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5EE0)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetGetOpt(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5EE8)
+
+lld-link: error: undefined symbol: __imp__NetDll_XNetSetOpt(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.42.cpp.obj):(__declspec(dllimport) _sub_825C5F00)
+
+lld-link: error: undefined symbol: __imp___snprintf(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AC530)
+
+lld-link: error: undefined symbol: __imp__VdGetSystemCommandBuffer(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AD070)
+
+lld-link: error: undefined symbol: __imp__VdSwap(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AD070)
+
+lld-link: error: undefined symbol: __imp__VdPersistDisplay(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825AD070)
+
+lld-link: error: undefined symbol: __imp__KeAcquireSpinLockAtRaisedIrql(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B0C78)
+
+lld-link: error: undefined symbol: __imp__KeReleaseSpinLockFromRaisedIrql(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B0C78)
+
+lld-link: error: undefined symbol: __imp__VdSetSystemCommandBufferGpuIdentifierAddress(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B67F0)
+
+lld-link: error: undefined symbol: __imp__MmGetPhysicalAddress(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.44.cpp.obj):(__declspec(dllimport) _sub_825D0858)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.44.cpp.obj):(__declspec(dllimport) _sub_825D0858)
+>>> referenced 8 more times
+
+lld-link: error: undefined symbol: __imp__VdInitializeRingBuffer(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+
+lld-link: error: undefined symbol: __imp__VdEnableRingBufferRPtrWriteBack(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+
+lld-link: error: undefined symbol: __imp__KiApcNormalRoutineNop(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B26A0)
+
+lld-link: error: undefined symbol: __imp___vsnprintf(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B4F28)
+
+lld-link: error: undefined symbol: __imp__ExRegisterTitleTerminateNotification(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B5FB8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B65C8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6618)
+>>> referenced 9 more times
+
+lld-link: error: undefined symbol: __imp__VdSetDisplayModeOverride(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6448)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6448)
+
+lld-link: error: undefined symbol: __imp__VdSetDisplayMode(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6448)
+
+lld-link: error: undefined symbol: __imp__VdShutdownEngines(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B65C8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B67F0)
+
+lld-link: error: undefined symbol: __imp__VdInitializeEngines(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6618)
+
+lld-link: error: undefined symbol: __imp__VdSetGraphicsInterruptCallback(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6618)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B67F0)
+
+lld-link: error: undefined symbol: __imp__VdIsHSIOTrainingSucceeded(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B6C48)
+
+lld-link: error: undefined symbol: __imp__VdGetCurrentDisplayGamma(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B74A0)
+
+lld-link: error: undefined symbol: __imp__VdEnableDisableClockGating(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.41.cpp.obj):(__declspec(dllimport) _sub_825B7AD0)
+
+lld-link: error: undefined symbol: __imp__XamGetCurrentTitleId(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F3A8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F8D0)
+
+lld-link: error: undefined symbol: __imp__EtxProducerLog(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F3A8)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F8D0)
+
+lld-link: error: undefined symbol: __imp__XamContentCreateInternal(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F440)
+
+lld-link: error: undefined symbol: __imp__NtQueryInformationFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F440)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646588)
+
+lld-link: error: undefined symbol: __imp__NtReadFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F440)
+
+lld-link: error: undefined symbol: __imp__XamContentClose(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F440)
+
+lld-link: error: undefined symbol: __imp__XAudioGetSpeakerConfig(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F708)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261F7E0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6BC8)
+
+lld-link: error: undefined symbol: __imp__XamNuiGetDeviceSerialNumber(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FA78)
+
+lld-link: error: undefined symbol: __imp__EtxProducerRegister(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FA78)
+
+lld-link: error: undefined symbol: __imp__XamVoiceGetMicArrayUnderrunStatus(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FC60)
+
+lld-link: error: undefined symbol: __imp__XAudioGetRenderDriverTic(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FC60)
+
+lld-link: error: undefined symbol: __imp__XamVoiceGetMicArrayAudioEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FC60)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82621080)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82621080)
+
+lld-link: error: undefined symbol: __imp__XAudioCaptureRenderDriverFrame(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_8261FC60)
+
+lld-link: error: undefined symbol: __imp__XNotifyGetNext(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82620350)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82612C88)
+
+lld-link: error: undefined symbol: __imp__XAudioUnregisterRenderDriverMECClient(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82620B20)
+
+lld-link: error: undefined symbol: __imp__EtxProducerUnregister(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82620B20)
+
+lld-link: error: undefined symbol: __imp__XAudioRegisterRenderDriverMECClient(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.50.cpp.obj):(__declspec(dllimport) _sub_82621080)
+
+lld-link: error: undefined symbol: __imp__XAudioGetVoiceCategoryVolume(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.43.cpp.obj):(__declspec(dllimport) _sub_825C86D8)
+
+lld-link: error: undefined symbol: __imp__XexUnloadImage(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826462E0)
+
+lld-link: error: undefined symbol: __imp__XexLoadImage(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646388)
+
+lld-link: error: undefined symbol: __imp__NtCancelTimer(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826467A0)
+
+lld-link: error: undefined symbol: __imp__NtSetTimerEx(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826467E0)
+
+lld-link: error: undefined symbol: __imp__NtCreateTimer(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646878)
+
+lld-link: error: undefined symbol: __imp__NtDuplicateObject(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646900)
+
+lld-link: error: undefined symbol: __imp__XamNotifyCreateListener(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646948)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613768)
+
+lld-link: error: undefined symbol: __imp__RtlInitUnicodeString(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826469D0)
+
+lld-link: error: undefined symbol: __imp__RtlUnicodeStringToAnsiString(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826469D0)
+
+lld-link: error: undefined symbol: __imp__RtlFreeAnsiString(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_826469D0)
+
+lld-link: error: undefined symbol: __imp__NtFlushBuffersFile(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646A40)
+
+lld-link: error: undefined symbol: __imp__RtlMultiByteToUnicodeN(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.54.cpp.obj):(__declspec(dllimport) _sub_82646A80)
+
+lld-link: error: undefined symbol: __imp__XMACreateContext(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.44.cpp.obj):(__declspec(dllimport) _sub_825D0858)
+
+lld-link: error: undefined symbol: __imp__MmMapIoSpace(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.44.cpp.obj):(__declspec(dllimport) _sub_825D0858)
+
+lld-link: error: undefined symbol: __imp__XMAReleaseContext(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.44.cpp.obj):(__declspec(dllimport) _sub_825D0968)
+
+lld-link: error: undefined symbol: __imp__XAudioGetDuckerLevel(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82612190)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+
+lld-link: error: undefined symbol: __imp__XamVoiceIsActiveProcess(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82612938)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82617878)
+
+lld-link: error: undefined symbol: __imp__XamUserGetDeviceContext(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613B10)
+
+lld-link: error: undefined symbol: __imp__XamVoiceHeadsetPresent(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+
+lld-link: error: undefined symbol: __imp__XamUserGetSigninState(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+
+lld-link: error: undefined symbol: __imp__XamUserReadProfileSettings(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82614AB0)
+
+lld-link: error: undefined symbol: __imp__XamUserCheckPrivilege(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82613BD0)
+
+lld-link: error: undefined symbol: __imp__XMsgCancelIORequest(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82614210)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82614900)
+
+lld-link: error: undefined symbol: __imp__XamVoiceClose(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82614210)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82614900)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_826149F0)
+
+lld-link: error: undefined symbol: __imp__XamVoiceSubmitPacket(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_826145A0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82619CA0)
+
+lld-link: error: undefined symbol: __imp__XamVoiceCreate(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_826149F0)
+
+lld-link: error: undefined symbol: __imp__XAudioGetDuckerThreshold(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+>>> referenced 1 more times
+
+lld-link: error: undefined symbol: __imp__XAudioGetDuckerHoldTime(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+
+lld-link: error: undefined symbol: __imp__XAudioGetDuckerAttackTime(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+
+lld-link: error: undefined symbol: __imp__XAudioGetDuckerReleaseTime(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+
+lld-link: error: undefined symbol: __imp__XAudioEnableDucker(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82616A10)
+
+lld-link: error: undefined symbol: __imp__XamUserAreUsersFriends(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.49.cpp.obj):(__declspec(dllimport) _sub_82617878)
+
+lld-link: error: undefined symbol: __imp__KeWaitForMultipleObjects(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E2BF0)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6768)
+
+lld-link: error: undefined symbol: __imp__XAudioSubmitRenderDriverFrame(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6768)
+
+lld-link: error: undefined symbol: __imp__XAudioUnregisterRenderDriverClient(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6870)
+
+lld-link: error: undefined symbol: __imp__XAudioRegisterRenderDriverClient(PPCContext&, unsigned char*)
+>>> referenced by liborbita-ppc-windows-x86_64.a(ppc_recomp.46.cpp.obj):(__declspec(dllimport) _sub_825E6BC8)

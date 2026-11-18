@@ -1,0 +1,7 @@
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+nvk: command-pool chunks carved from shared slabs (NVK_CMDMEM_SLAB_KB=1024, 16 chunks per slab, spare 4, keep 1, idle 5000 ms)
+nvk: command-pool chunk recycler off (NVK_CMDMEM_RECYCLE=0, NVK_CMDMEM_LIVE_MAX=512)
+Device: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+Shader library compiled.
+Function pipeline ready. 1024
+Descriptor pipeline ready. 1024

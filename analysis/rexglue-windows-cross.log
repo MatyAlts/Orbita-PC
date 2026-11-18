@@ -1,0 +1,602 @@
+orbita_init.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.13.cpp:12125:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 12125 | DEFINE_REX_FUNC(sub_823ED638) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:170:1: note: expanded from here
+  170 | __imp__sub_823ED638
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.13.cpp:12125:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:170:1: note: expanded from here
+  170 | __imp__sub_823ED638
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.13.cpp:12125:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:170:1: note: expanded from here
+  170 | __imp__sub_823ED638
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.13.cpp:12125:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:170:1: note: expanded from here
+  170 | __imp__sub_823ED638
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.1.cpp:12224:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 12224 | DEFINE_REX_FUNC(sub_823EE5B0) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:59:1: note: expanded from here
+   59 | __imp__sub_823EE5B0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.1.cpp:12224:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:59:1: note: expanded from here
+   59 | __imp__sub_823EE5B0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 33454 | DEFINE_REX_FUNC(sub_8262D438) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.10.cpp:33454:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:152:1: note: expanded from here
+  152 | __imp__sub_8262D438
+      | ^
+orbita_recomp.14.cpp
+orbita_recomp.11.cpp
+orbita_recomp.12.cpp
+6 warnings generated.
+orbita_recomp.0.cpp
+orbita_recomp.10.cpp
+2 warnings generated.
+orbita_recomp.1.cpp
+4 warnings generated.
+orbita_recomp.13.cpp
+orbita_recomp.15.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.19.cpp:30318:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 30318 | DEFINE_REX_FUNC(sub_825ECB90) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:207:1: note: expanded from here
+  207 | __imp__sub_825ECB90
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.19.cpp:30318:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:207:1: note: expanded from here
+  207 | __imp__sub_825ECB90
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.19.cpp:30318:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:207:1: note: expanded from here
+  207 | __imp__sub_825ECB90
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.19.cpp:30318:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:207:1: note: expanded from here
+  207 | __imp__sub_825ECB90
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 33269 | DEFINE_REX_FUNC(sub_82627BF8) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.18.cpp:33269:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:22:1: note: expanded from here
+   22 | __imp__sub_82627BF8
+      | ^
+orbita_recomp.16.cpp
+orbita_recomp.17.cpp
+orbita_recomp.2.cpp
+4 warnings generated.
+orbita_recomp.19.cpp
+orbita_recomp.20.cpp
+12 warnings generated.
+orbita_recomp.18.cpp
+orbita_recomp.21.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 31936 | DEFINE_REX_FUNC(sub_8262F118) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.22.cpp:31936:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:84:1: note: expanded from here
+   84 | __imp__sub_8262F118
+      | ^
+12 warnings generated.
+orbita_recomp.22.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.23.cpp:31048:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 31048 | DEFINE_REX_FUNC(sub_825F3480) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:68:1: note: expanded from here
+   68 | __imp__sub_825F3480
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.23.cpp:31048:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:68:1: note: expanded from here
+   68 | __imp__sub_825F3480
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.23.cpp:31048:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:68:1: note: expanded from here
+   68 | __imp__sub_825F3480
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.23.cpp:31048:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:68:1: note: expanded from here
+   68 | __imp__sub_825F3480
+      | ^
+orbita_recomp.24.cpp
+4 warnings generated.
+orbita_recomp.23.cpp
+orbita_recomp.25.cpp
+orbita_recomp.28.cpp
+orbita_recomp.27.cpp
+orbita_recomp.26.cpp
+orbita_recomp.29.cpp
+orbita_recomp.3.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.32.cpp:29533:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 29533 | DEFINE_REX_FUNC(sub_825C2288) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:147:1: note: expanded from here
+  147 | __imp__sub_825C2288
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 33654 | DEFINE_REX_FUNC(sub_8262F3E0) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.35.cpp:33654:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:202:1: note: expanded from here
+  202 | __imp__sub_8262F3E0
+      | ^
+orbita_recomp.30.cpp
+orbita_recomp.31.cpp
+1 warning generated.
+orbita_recomp.32.cpp
+orbita_recomp.34.cpp
+6 warnings generated.
+orbita_recomp.35.cpp
+orbita_recomp.33.cpp
+orbita_recomp.36.cpp
+orbita_recomp.37.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 32981 | DEFINE_REX_FUNC(sub_8260F120) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.41.cpp:32981:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:85:1: note: expanded from here
+   85 | __imp__sub_8260F120
+      | ^
+orbita_recomp.38.cpp
+orbita_recomp.4.cpp
+orbita_recomp.39.cpp
+orbita_recomp.40.cpp
+orbita_recomp.42.cpp
+orbita_recomp.43.cpp
+8 warnings generated.
+orbita_recomp.41.cpp
+orbita_recomp.44.cpp
+orbita_recomp.45.cpp
+orbita_recomp.46.cpp
+orbita_recomp.47.cpp
+orbita_recomp.48.cpp
+orbita_recomp.49.cpp
+orbita_recomp.5.cpp
+orbita_recomp.50.cpp
+orbita_recomp.51.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.56.cpp:30302:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 30302 | DEFINE_REX_FUNC(sub_825EC748) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:113:1: note: expanded from here
+  113 | __imp__sub_825EC748
+      | ^
+orbita_recomp.52.cpp
+orbita_recomp.53.cpp
+orbita_recomp.54.cpp
+orbita_recomp.55.cpp
+1 warning generated.
+orbita_recomp.56.cpp
+orbita_recomp.57.cpp
+orbita_recomp.58.cpp
+orbita_recomp.59.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.6.cpp:12046:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 12046 | DEFINE_REX_FUNC(sub_823EE7F0) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:16:1: note: expanded from here
+   16 | __imp__sub_823EE7F0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.6.cpp:12046:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:16:1: note: expanded from here
+   16 | __imp__sub_823EE7F0
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.61.cpp:12128:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 12128 | DEFINE_REX_FUNC(sub_823ED548) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:65:1: note: expanded from here
+   65 | __imp__sub_823ED548
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.61.cpp:12128:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:65:1: note: expanded from here
+   65 | __imp__sub_823ED548
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.61.cpp:12128:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:65:1: note: expanded from here
+   65 | __imp__sub_823ED548
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.61.cpp:12128:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:65:1: note: expanded from here
+   65 | __imp__sub_823ED548
+      | ^
+2 warnings generated.
+orbita_recomp.6.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.8.cpp:30576:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+ 30576 | DEFINE_REX_FUNC(sub_825EA888) {
+       | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:181:1: note: expanded from here
+  181 | __imp__sub_825EA888
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.8.cpp:30576:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:181:1: note: expanded from here
+  181 | __imp__sub_825EA888
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.8.cpp:30576:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:181:1: note: expanded from here
+  181 | __imp__sub_825EA888
+      | ^
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_recomp.8.cpp:30576:1: warning: loop not vectorized: the optimizer was unable to perform the requested transformation; the transformation might be disabled or specified as part of an unsupported transformation ordering [-Wpass-failed=transform-warning]
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/generated/default/orbita_pch.h:72:42: note: expanded from macro 'DEFINE_REX_FUNC'
+   72 |   REX_RECOMPILED_CODE_SECTION REX_EXTERN(__imp__##name)
+      |                                          ^
+<scratch space>:181:1: note: expanded from here
+  181 | __imp__sub_825EA888
+      | ^
+orbita_recomp.60.cpp
+orbita_recomp.62.cpp
+4 warnings generated.
+orbita_recomp.61.cpp
+orbita_recomp.63.cpp
+orbita_recomp.7.cpp
+4 warnings generated.
+orbita_recomp.8.cpp
+rexglue_host_alloc_stub.cpp
+orbita_hooks.cpp
+orbita_recomp.9.cpp
+main.cpp
+orbita_register.cpp
+/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/win-amd64-cross/orbita.exe

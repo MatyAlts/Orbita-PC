@@ -1,0 +1,103 @@
+diff --git a/src/kernel/xboxkrnl/xboxkrnl_io.cpp b/src/kernel/xboxkrnl/xboxkrnl_io.cpp
+index 4f5a775..77d5dd0 100644
+--- a/src/kernel/xboxkrnl/xboxkrnl_io.cpp
++++ b/src/kernel/xboxkrnl/xboxkrnl_io.cpp
+@@ -194,9 +194,11 @@ u32 NtCreateFile_entry(MappedU32 handle_out, u32 desired_access,
+ 
+ u32 NtOpenFile_entry(MappedU32 handle_out, u32 desired_access,
+                      GuestPtrT<X_OBJECT_ATTRIBUTES> object_attrs,
+-                     GuestPtrT<X_IO_STATUS_BLOCK> io_status_block, u32 open_options) {
++                     GuestPtrT<X_IO_STATUS_BLOCK> io_status_block, u32 share_access,
++                     u32 open_options) {
+   return NtCreateFile_entry(handle_out, desired_access, object_attrs, io_status_block, nullptr, 0,
+-                            0, std::to_underlying(filesystem::Disposition::kOpen), open_options);
++                            share_access, std::to_underlying(filesystem::Disposition::kOpen),
++                            open_options);
+ }
+ 
+ /**
+diff --git a/src/kernel/xboxkrnl/xboxkrnl_io_info.cpp b/src/kernel/xboxkrnl/xboxkrnl_io_info.cpp
+index 20a8c53..d1736f6 100644
+--- a/src/kernel/xboxkrnl/xboxkrnl_io_info.cpp
++++ b/src/kernel/xboxkrnl/xboxkrnl_io_info.cpp
+@@ -237,8 +237,8 @@ u32 NtSetInformationFile_entry(u32 file_handle, GuestPtrT<X_IO_STATUS_BLOCK> io_
+     }
+     case XFileRenameInformation: {
+       auto info = info_ptr.As<X_FILE_RENAME_INFORMATION*>();
+-      auto target_path = kernel::TranslateAnsiPath(kernel::GetCurrentState().GetAddressSpace(),
+-                                                   &info->ansi_string);
++      auto target_path = StripDosDevicePrefix(kernel::TranslateAnsiPath(
++          kernel::GetCurrentState().GetAddressSpace(), &info->ansi_string));
+       if (!IsValidPath(target_path, PathUse::kNewName)) {
+         return X_STATUS_OBJECT_NAME_INVALID;
+       }
+@@ -249,7 +249,9 @@ u32 NtSetInformationFile_entry(u32 file_handle, GuestPtrT<X_IO_STATUS_BLOCK> io_
+       }
+ 
+       Pinned<FileObject> root;
+-      if (info->root_dir_handle) {
++      // ObDosDevices uses a named VFS mount, rather than a directory handle.
++      constexpr u32 kObDosDevices = 0xFFFFFFFD;
++      if (info->root_dir_handle && info->root_dir_handle != kObDosDevices) {
+         root = kernel::GetCurrent().GetObjectTable().Get<FileObject>(info->root_dir_handle);
+         if (!root) {
+           return X_STATUS_INVALID_HANDLE;
+diff --git a/tests/unit/kernel/files_test.cpp b/tests/unit/kernel/files_test.cpp
+index a2c9d75..063e8d4 100644
+--- a/tests/unit/kernel/files_test.cpp
++++ b/tests/unit/kernel/files_test.cpp
+@@ -1266,3 +1266,54 @@ REX_TEST_CASE("files: GetFileAttributesExA on a missing file sets the last error
+     CHECK(CallingThread(c).GetLastError() == NtToDos(rex::kernel::X_STATUS_OBJECT_NAME_NOT_FOUND));
+   });
+ }
++
++REX_TEST_CASE("files: NtOpenFile separates share access from open options",
++              "[kernel][files][orbita-rename]") {
++  KernelFixture fixture([](const std::filesystem::path& root) {
++    WriteScratch(root, "staged.bin", 16);
++    std::filesystem::create_directory(root / "scratch" / "folder");
++  });
++  MountScratch(fixture);
++  fixture.RunOnGuestThread([](Caller& c) {
++    const u32 handle_ptr = c.Alloc(4);
++    const u32 status = c.Alloc(8);
++    const u32 attrs = c.AllocAttributes("scratch:\\staged.bin");
++    REQUIRE(c.Kernel("NtOpenFile", {handle_ptr, 0x00110000, attrs, status, 7, 0x4020}) == 0);
++    CHECK(c.Kernel("NtClose", {c.Load32(handle_ptr)}) == 0);
++    const u32 folder_attrs = c.AllocAttributes("scratch:\\folder");
++    CHECK(c.Kernel("NtOpenFile", {handle_ptr, kReadWriteAccess, folder_attrs, status, 0, 0x40}) ==
++          rex::kernel::X_STATUS_FILE_IS_A_DIRECTORY);
++  });
++}
++
++REX_TEST_CASE("files: rename accepts the DOS devices root and prefix",
++              "[kernel][files][orbita-rename]") {
++  KernelFixture fixture([](const std::filesystem::path& root) {
++    WriteScratch(root, "staged.bin", 16);
++  });
++  MountScratch(fixture);
++  fixture.RunOnGuestThread([](Caller& c) {
++    const u32 handle_ptr = c.Alloc(4);
++    const u32 status = c.Alloc(8);
++    REQUIRE(c.Kernel("NtCreateFile", {handle_ptr, kReadWriteAccess,
++                                      c.AllocAttributes("scratch:\\staged.bin"), status,
++                                      0, 0, 3, 1, 0x20}) == 0);
++    const u32 handle = c.Load32(handle_ptr);
++    const u32 info = c.Alloc(16);
++    const auto rename = [&](std::string_view target, u32 root) {
++      c.Store32(info, 0);
++      c.Store32(info + 4, root);
++      c.Store32(info + 8, static_cast<u32>(target.size() << 16 | target.size()));
++      c.Store32(info + 12, c.AllocString(target));
++      return c.Kernel("NtSetInformationFile",
++                      {handle, status, info, 16, rex::kernel::XFileRenameInformation});
++    };
++    CHECK(rename("scratch:\\intermediate.bin", 0xFFFFFFFD) == 0);
++    CHECK(rename("\\??\\scratch:\\finished.bin", 0xFFFFFFFD) == 0);
++    CHECK(rename("scratch:\\unreachable.bin", 0xFFFFFFFC) ==
++          rex::kernel::X_STATUS_INVALID_HANDLE);
++    CHECK(c.Kernel("NtClose", {handle}) == 0);
++  });
++  CHECK_FALSE(std::filesystem::exists(fixture.GetRoot() / "scratch" / "staged.bin"));
++  CHECK(std::filesystem::exists(fixture.GetRoot() / "scratch" / "finished.bin"));
++}

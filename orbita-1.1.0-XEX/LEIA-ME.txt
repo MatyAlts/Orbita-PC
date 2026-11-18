@@ -1,0 +1,63 @@
+﻿orbita 1.1.0 (XEX) - jogos da nuvem no seu Xbox 360
+=====================================================
+
+O QUE TEM NESTE ZIP
+  orbita/default.xex             o aplicativo
+  capa-aurora/GC00000000.asset   capa do orbita pronta para o Aurora
+  capa-aurora/orbita-capa.png    a mesma capa em imagem
+
+O QUE VOCE PRECISA
+  - Xbox 360 desbloqueado (RGH ou JTAG) com o Aurora (ou outro dashboard que abra XEX).
+  - Internet, de preferencia no cabo.
+  - Conta da Microsoft. Com assinatura que tenha jogos na nuvem voce joga o catalogo
+    todo; sem assinatura, so os jogos gratis (ex.: Fortnite).
+  - TV em 720p.
+
+
+1) INSTALAR O ORBITA
+  1. Copie a pasta "orbita" inteira para o HD do Xbox, em:
+         Hdd1:/XBOX 360/orbita/
+     Pode ser por FTP (com o Aurora aberto) ou pelo pendrive (o gerenciador de
+     arquivos do Aurora copia do pendrive para o HD).
+  2. No Aurora, se o orbita nao aparecer sozinho na biblioteca:
+     Configuracoes > Conteudo > Caminhos de busca, adicione Hdd1:/XBOX 360/
+     e mande procurar de novo.
+  3. Abra o orbita.
+
+
+2) PRIMEIRA VEZ NO ORBITA
+  1. Entre com a conta da Microsoft: aparece um codigo na tela; abra
+     microsoft.com/link no celular ou PC, digite o codigo e aprove.
+  2. Escolha um jogo e aperte A. Se o xCloud estiver cheio, voce entra numa fila
+     e o jogo abre sozinho quando chegar a sua vez.
+
+  No jogo:
+    Back + R3   menu rapido do orbita (voltar ao menu com o jogo aberto,
+                numeros de desempenho, encerrar)
+    Back + L3   botao Xbox do jogo na nuvem
+    Botao do logo do controle   menu do Xbox 360
+
+  Imagem: em Configuracoes > Rede, o bitrate vai de 1 a 10 Mb/s. Mais alto =
+  imagem mais nitida, se a sua internet aguentar.
+
+
+3) CAPA NO AURORA (opcional)
+  Depois que o orbita ja apareceu na biblioteca do Aurora:
+  1. Pelo FTP, entre em  Game:/Data/GameData/
+     (no Aurora, a pasta "Data" fica dentro da pasta onde o Aurora esta instalado).
+  2. Ache a pasta do orbita: o nome comeca com 00000000_ (por exemplo
+     00000000_00000644). Se tiver mais de uma, e a mais nova, criada quando o
+     orbita entrou na biblioteca.
+  3. Copie o arquivo capa-aurora/GC00000000.asset para dentro dela, substituindo
+     o que estiver la.
+  4. Reinicie o Aurora.
+
+
+ATUALIZACOES
+  As versoes novas chegam pelo proprio orbita:
+  Configuracoes > Conta e sobre > Procurar atualizacao.
+
+
+AVISO
+  O orbita e um cliente nao oficial de cloud gaming para Xbox 360. Nao e
+  afiliado, endossado nem suportado pela Microsoft. Use por sua conta e risco.

@@ -1,0 +1,15 @@
+.DS_Store
+__pycache__/
+*.pyc
+*.dSYM/
+**/XC360/
+**/TOKEN.TXT*
+**/ACCOUNTS.TXT*
+**/BETAKEY.TXT*
+/rexglue/out/*
+!/rexglue/out/online-1.1.26/
+/rexglue/out/online-1.1.26/*
+!/rexglue/out/online-1.1.26/game/
+!/rexglue/out/online-1.1.26/project/
+/rexglue/out/online-1.1.26/project/out/
+/analysis/*.a

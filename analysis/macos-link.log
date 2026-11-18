@@ -1,0 +1,832 @@
+Undefined symbols for architecture x86_64:
+  "__imp__VdSwap(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AD070 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__NtClose(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290000 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825A32C0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825A3390 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A3448 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A37F0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ...
+  "__imp__sprintf(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B4FB0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B4FB0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825BA1C8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C1518 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C1518 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C1518 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ...
+  "__imp__DbgPrint(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290390 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp___xstart in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825B4F28 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B5D78 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B5D78 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B5D78 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ...
+  "__imp__KeLockL2(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C3EB8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__KeTlsFree(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82634850 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+  "__imp__RtlUnwind(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8263E920 in liborbita-ppc-macos-x86_64.a[52](ppc_recomp.53.cpp.o)
+  "__imp___snprintf(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AC530 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__KeBugCheck(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B4408 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B4408 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_82634570 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634620 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634620 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634628 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634628 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ...
+  "__imp__KeSetEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AC1A8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B1DE0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B2168 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825BF950 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4340 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4378 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ...
+  "__imp__KeTlsAlloc(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_823E0770 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_82634AE0 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+  "__imp__KeUnlockL2(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C4208 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtOpenFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A32C0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825A3390 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A37F0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__NtReadFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__NtSetEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3FD0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__XGetAVPack(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290138 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp___vsnprintf(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B4F28 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__NetDll_bind(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C70 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_recv(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5CE8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_send(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5D20 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtWriteFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3900 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A3900 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__KeBugCheckEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82291DB0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B30 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B38 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293428 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293430 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293720 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__KeResetEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BFFC8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4FC0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__MmMapIoSpace(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825D0858 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+  "__imp__NtClearEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3E10 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NtCreateFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3448 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NtSetTimerEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826467E0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__XexLoadImage(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82646388 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__KeTlsGetValue(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_823E0D60 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_82634898 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634A70 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+  "__imp__KeTlsSetValue(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_823E08E0 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_823E08E8 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_823E0D60 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_82634898 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634898 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ___imp__sub_82634898 in liborbita-ppc-macos-x86_64.a[50](ppc_recomp.51.cpp.o)
+      ...
+  "__imp__NetDll_accept(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5CB0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_listen(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5CA0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_select(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5CC8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_sendto(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5D38 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_socket(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5BD8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtCancelTimer(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826467A0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__NtCreateEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290000 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825A3D70 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NtCreateTimer(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82646878 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__XGetVideoMode(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822EC580 in liborbita-ppc-macos-x86_64.a[48](ppc_recomp.5.cpp.o)
+  "__imp__XamVoiceClose(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82614210 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82614900 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_826149F0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XeCryptRandom(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82353F38 in liborbita-ppc-macos-x86_64.a[5](ppc_recomp.10.cpp.o)
+      ___imp__sub_822EC100 in liborbita-ppc-macos-x86_64.a[48](ppc_recomp.5.cpp.o)
+      ___imp__sub_82646098 in liborbita-ppc-macos-x86_64.a[52](ppc_recomp.53.cpp.o)
+      ___imp__sub_822F0058 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822F0B40 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+  "__imp__EtxProducerLog(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F3A8 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F8D0 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__ExCreateThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A5180 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NetDll_connect(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C88 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtResumeThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3680 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__VdRetrainEDRAM(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BF210 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825BF210 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XGetGameRegion(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290610 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__XNotifyGetNext(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82612C88 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82620350 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__XamVoiceCreate(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826149F0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XexUnloadImage(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826462E0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__KeInitializeDpc(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5218 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_recvfrom(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5D00 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtSuspendThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822907A0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__XamContentClose(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__KeInsertQueueDpc(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B2168 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C5160 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__MmIsAddressValid(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822ECC58 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822ECC58 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822ECDA8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822ECDA8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822F13E8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822F13E8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ...
+  "__imp__NetDll_WSASendTo(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5D58 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_inet_addr(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DB0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdPersistDisplay(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AD070 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__VdQueryVideoMode(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6448 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B69C8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825BCDA8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825BEA08 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdSetDisplayMode(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6448 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XMACreateContext(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825D0858 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+  "__imp__XamInputGetState(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3558 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__ExTerminateThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A5258 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A5260 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_82646850 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__KeQuerySystemTime(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3550 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__KfAcquireSpinLock(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AC1A8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825AC2D8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B1DE0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B2168 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C4208 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_82613F70 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82613F70 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ...
+  "__imp__KfReleaseSpinLock(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AC1A8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825AC2D8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B1DE0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B2168 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C4208 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4208 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ...
+  "__imp__NetDll_WSAStartup(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5B18 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_XNetGetOpt(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5EE8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_XNetSetOpt(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5F00 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_getsockopt(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C38 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_setsockopt(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C18 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtCreateSemaphore(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3E48 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NtDuplicateObject(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82646900 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__NtReadFileScatter(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+  "__imp__RtlFreeAnsiString(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826469D0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__RtlInitAnsiString(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A32C0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825A32C0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825A3390 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A3448 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A3510 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A36D0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ...
+  "__imp__RtlRaiseException(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82292B30 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B38 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293728 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293E0C in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82646950 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__VdQueryVideoFlags(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BD458 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdShutdownEngines(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B65C8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B67F0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XMAReleaseContext(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825D0968 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+  "__imp__XamShowKeyboardUI(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3738 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__NetDll_XNetStartup(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DD8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_closesocket(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5BF0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_getsockname(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C58 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_ioctlsocket(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5C00 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtFlushBuffersFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82646A40 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__NtReleaseSemaphore(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3EE0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__RtlFillMemoryUlong(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BEF98 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XAudioEnableDucker(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XexGetModuleHandle(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5B18 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C5DD8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_82610E30 in liborbita-ppc-macos-x86_64.a[46](ppc_recomp.48.cpp.o)
+      ___imp__sub_8261FA78 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_822F13E8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+  "__imp__EtxProducerRegister(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FA78 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__ExGetXConfigSetting(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290138 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290138 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290610 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825B6C48 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__HalReturnToFirmware(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290C58 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822ECA00 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ___imp__sub_822ECA08 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+  "__imp__KeSetAffinityThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822907F8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__NetDll___WSAFDIsSet(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DD0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtFreeVirtualMemory(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290D68 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291FC0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292200 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293428 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__ObDereferenceObject(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822906A0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290720 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822907F8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825C5218 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdInitializeEngines(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6618 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XMsgCancelIORequest(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82614210 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82614900 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamGetSystemVersion(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5B18 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C5DD8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__MmFreePhysicalMemory(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3D18 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825AD070 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C07F0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C07F0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C07F0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__MmGetPhysicalAddress(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825D0858 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ___imp__sub_825D0858 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ___imp__sub_825D1390 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ___imp__sub_825D1390 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ___imp__sub_825D1390 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ___imp__sub_825D1390 in liborbita-ppc-macos-x86_64.a[42](ppc_recomp.44.cpp.o)
+      ...
+  "__imp__NetDll_WSACloseEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DC8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_XNetDnsLookup(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5EA8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtQueryDirectoryFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+  "__imp__NtQueryVirtualMemory(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__NtSetInformationFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A32C0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825A3390 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_82646588 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+      ___imp__sub_82646588 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__ObCreateSymbolicLink(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C1518 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__ObDeleteSymbolicLink(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C10C8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__RtlInitUnicodeString(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826469D0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__VdRetrainEDRAMWorker(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BF210 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XAudioGetDuckerLevel(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82612190 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamGetCurrentTitleId(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F3A8 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F8D0 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__XamLoaderLaunchTitle(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3568 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__XamVoiceSubmitPacket(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826145A0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82619CA0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp____C_specific_handler(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+  "__imp__EtxProducerUnregister(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82620B20 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__KeEnableFpuExceptions(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82641BC8 in liborbita-ppc-macos-x86_64.a[52](ppc_recomp.53.cpp.o)
+  "__imp__KeEnterCriticalRegion(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BF210 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825E6A58 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+      ___imp__sub_825E6D48 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__KeLeaveCriticalRegion(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BF210 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825E6A58 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+      ___imp__sub_825E6D48 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__KeWaitForSingleObject(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BFFC8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4FC0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C4FC0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_8261F8D0 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261FC60 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_82620350 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ...
+  "__imp__KiApcNormalRoutineNop(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__NetDll_WSACreateEvent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DC0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_XNetDnsRelease(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5EC0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__RtlCompareMemoryUlong(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822912F0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822912F0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822912F0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822912F0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291830 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291830 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__RtlNtStatusToDosError(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82294020 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82646A80 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__XamShowMessageBoxUIEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290000 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__XamUserCheckPrivilege(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamUserGetSigninState(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__KeDelayExecutionThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3228 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+  "__imp__NetDll_WSAGetLastError(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5DB8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtQueryInformationFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_82646588 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__RtlImageXexHeaderField(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290B80 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__RtlMultiByteToUnicodeN(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82646A80 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__VdInitializeRingBuffer(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioGetSpeakerConfig(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825E6BC8 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+      ___imp__sub_8261F708 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_8261F7E0 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__XamUserAreUsersFriends(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82617878 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamVoiceHeadsetPresent(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XexGetProcedureAddress(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5B18 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C5DD8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_82610E30 in liborbita-ppc-macos-x86_64.a[46](ppc_recomp.48.cpp.o)
+      ___imp__sub_8261FA78 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_82646318 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+      ___imp__sub_822F13E8 in liborbita-ppc-macos-x86_64.a[54](ppc_recomp.6.cpp.o)
+      ...
+  "__imp__KeGetCurrentProcessType(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82291DB0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B30 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__KeSetBasePriorityThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822906A0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825C5218 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__KeSetCurrentProcessType(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5608 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C5608 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtAllocateVirtualMemory(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290D68 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290D68 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290D68 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291060 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291E58 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291FC0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291FC0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82291FC0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__NtWaitForSingleObjectEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82294078 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825A3900 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_82646B58 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__RtlEnterCriticalSection(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290AA8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290B10 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B30 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B38 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293428 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82293430 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__RtlLeaveCriticalSection(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290AA8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290B10 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B30 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292B38 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822933B8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822933E0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ...
+  "__imp__XAudioGetDuckerHoldTime(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamLoaderTerminateTitle(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290390 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290390 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp___xstart in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp___xstart in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__XamNotifyCreateListener(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613768 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82646948 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__XamUserGetDeviceContext(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613B10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamVoiceIsActiveProcess(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82612938 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82617878 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__KeWaitForMultipleObjects(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825E2BF0 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+      ___imp__sub_825E6768 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__VdGetCurrentDisplayGamma(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B74A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__VdGetSystemCommandBuffer(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825AD070 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__VdSetDisplayModeOverride(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6448 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B6448 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioGetDuckerThreshold(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XAudioGetRenderDriverTic(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FC60 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__XamContentCreateInternal(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261F440 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__KeQueryBasePriorityThread(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290720 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__NetDll_XNetGetTitleXnAddr(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5ED0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtQueryFullAttributesFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A36D0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__ObReferenceObjectByHandle(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_822906A0 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82290720 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_822907F8 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_825C5218 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdIsHSIOTrainingSucceeded(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6C48 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioGetDuckerAttackTime(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__MmAllocatePhysicalMemoryEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3C20 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825A3CA8 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+      ___imp__sub_825C0770 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C08F8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NtWaitForMultipleObjectsEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A3F18 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__RtlTryEnterCriticalSection(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_823E0CF0 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_825C68E8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_82611DF8 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__VdEnableDisableClockGating(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B7AD0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioGetDuckerReleaseTime(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82616A10 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamUserReadProfileSettings(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82613BD0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+      ___imp__sub_82614AB0 in liborbita-ppc-macos-x86_64.a[47](ppc_recomp.49.cpp.o)
+  "__imp__XamVoiceGetMicArrayAudioEx(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FC60 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_82621080 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+      ___imp__sub_82621080 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__KeQueryPerformanceFrequency(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A31D0 in liborbita-ppc-macos-x86_64.a[35](ppc_recomp.38.cpp.o)
+      ___imp__sub_825AC2D8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C10C8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XamNuiGetDeviceSerialNumber(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FA78 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__XexCheckExecutablePrivilege(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82290138 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+  "__imp__NtQueryVolumeInformationFile(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825A37F0 in liborbita-ppc-macos-x86_64.a[36](ppc_recomp.39.cpp.o)
+  "__imp__RtlInitializeCriticalSection(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82292568 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_82292600 in liborbita-ppc-macos-x86_64.a[3](ppc_recomp.0.cpp.o)
+      ___imp__sub_823E0C78 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_823E0D20 in liborbita-ppc-macos-x86_64.a[14](ppc_recomp.19.cpp.o)
+      ___imp__sub_825B6C48 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B6C48 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ...
+  "__imp__RtlUnicodeStringToAnsiString(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_826469D0 in liborbita-ppc-macos-x86_64.a[53](ppc_recomp.54.cpp.o)
+  "__imp__XAudioGetVoiceCategoryVolume(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C86D8 in liborbita-ppc-macos-x86_64.a[41](ppc_recomp.43.cpp.o)
+  "__imp__KeAcquireSpinLockAtRaisedIrql(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B0C78 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioSubmitRenderDriverFrame(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825E6768 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__VdGetCurrentDisplayInformation(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6448 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825C10C8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+      ___imp__sub_825C1518 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__VdSetGraphicsInterruptCallback(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6618 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B67F0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__XAudioCaptureRenderDriverFrame(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FC60 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__KeReleaseSpinLockFromRaisedIrql(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B0C78 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__VdEnableRingBufferRPtrWriteBack(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+  "__imp__VdInitializeScalerCommandBuffer(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825BEF98 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__NetDll_XNetGetEthernetLinkStatus(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825C5EE0 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XAudioRegisterRenderDriverClient(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825E6BC8 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__XamVoiceGetMicArrayUnderrunStatus(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8261FC60 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__VdCallGraphicsNotificationRoutines(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B6368 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B63E0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825BD5F8 in liborbita-ppc-macos-x86_64.a[40](ppc_recomp.42.cpp.o)
+  "__imp__XAudioUnregisterRenderDriverClient(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825E6870 in liborbita-ppc-macos-x86_64.a[44](ppc_recomp.46.cpp.o)
+  "__imp__XAudioRegisterRenderDriverMECClient(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82621080 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__ExRegisterTitleTerminateNotification(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B5FB8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B65C8 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B6618 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B6618 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B67F0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B67F0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ...
+  "__imp__XAudioUnregisterRenderDriverMECClient(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_82620B20 in liborbita-ppc-macos-x86_64.a[49](ppc_recomp.50.cpp.o)
+  "__imp__RtlInitializeCriticalSectionAndSpinCount(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_8263AD68 in liborbita-ppc-macos-x86_64.a[52](ppc_recomp.53.cpp.o)
+      ___imp__sub_8263AD70 in liborbita-ppc-macos-x86_64.a[52](ppc_recomp.53.cpp.o)
+  "__imp__VdSetSystemCommandBufferGpuIdentifierAddress(PPCContext&, unsigned char*)", referenced from:
+      _PPCFuncMappings in liborbita-ppc-macos-x86_64.a[2](ppc_func_mapping.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B26A0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+      ___imp__sub_825B67F0 in liborbita-ppc-macos-x86_64.a[39](ppc_recomp.41.cpp.o)
+ld: symbol(s) not found for architecture x86_64
+clang++: error: linker command failed with exit code 1 (use -v to see invocation)

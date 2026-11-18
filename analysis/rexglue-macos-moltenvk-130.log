@@ -1,0 +1,571 @@
+2026-11-18 13:36:58.556 I core       t00259 module 'rexfilesystem' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexfilesystem.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.558 I core       t00259 module 'rexhid' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.558 I core       t00259 module 'rexapu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.559 I core       t00259 module 'rexui' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.559 I core       t00259 module 'rexgpu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.560 I core       t00259 module 'rexxam' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxam.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.560 I core       t00259 module 'rexxbdm' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxbdm.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.560 I core       t00259 module 'rexkernel' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexkernel.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.560 I core       t00259 open file limit is 1048575, hard limit unlimited
+2026-11-18 13:36:58.568 I core       t00259 module 'rexapu-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.569 I core       t00259 module 'rexhid-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.570 I core       t00259 module 'rexui-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.579 I core       t00259 module 'rexgpu-xenos-vulkan' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu-xenos-vulkan.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:36:58.608 W hid        t00259 SDL GameControllerDB: file '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/gamecontrollerdb.txt' does not exist.
+2026-11-18 13:36:58.608 I hid        t00259 SDL input driver initialized
+2026-11-18 13:36:58.825 I ui         t00259 SDL video driver: cocoa
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+2026-11-18 13:36:59.334 I ui         t00259 Loaded Vulkan runtime from /Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libvulkan.1.dylib
+[mvk-info] MoltenVK version 1.3.0, supporting Vulkan version 1.3.313.
+	The following 126 Vulkan extensions are supported:
+	VK_KHR_16bit_storage v1
+	VK_KHR_8bit_storage v1
+	VK_KHR_bind_memory2 v1
+	VK_KHR_buffer_device_address v1
+	VK_KHR_calibrated_timestamps v1
+	VK_KHR_copy_commands2 v1
+	VK_KHR_create_renderpass2 v1
+	VK_KHR_dedicated_allocation v3
+	VK_KHR_deferred_host_operations v4
+	VK_KHR_depth_stencil_resolve v1
+	VK_KHR_descriptor_update_template v1
+	VK_KHR_device_group v4
+	VK_KHR_device_group_creation v1
+	VK_KHR_driver_properties v1
+	VK_KHR_dynamic_rendering v1
+	VK_KHR_external_fence v1
+	VK_KHR_external_fence_capabilities v1
+	VK_KHR_external_memory v1
+	VK_KHR_external_memory_capabilities v1
+	VK_KHR_external_semaphore v1
+	VK_KHR_external_semaphore_capabilities v1
+	VK_KHR_fragment_shader_barycentric v1
+	VK_KHR_format_feature_flags2 v2
+	VK_KHR_get_memory_requirements2 v1
+	VK_KHR_get_physical_device_properties2 v2
+	VK_KHR_get_surface_capabilities2 v1
+	VK_KHR_imageless_framebuffer v1
+	VK_KHR_image_format_list v1
+	VK_KHR_incremental_present v2
+	VK_KHR_index_type_uint8 v1
+	VK_KHR_load_store_op_none v1
+	VK_KHR_maintenance1 v2
+	VK_KHR_maintenance2 v1
+	VK_KHR_maintenance3 v1
+	VK_KHR_maintenance4 v2
+	VK_KHR_maintenance6 v1
+	VK_KHR_maintenance7 v1
+	VK_KHR_map_memory2 v1
+	VK_KHR_multiview v1
+	VK_KHR_portability_subset v1
+	VK_KHR_push_descriptor v2
+	VK_KHR_relaxed_block_layout v1
+	VK_KHR_sampler_mirror_clamp_to_edge v3
+	VK_KHR_sampler_ycbcr_conversion v14
+	VK_KHR_separate_depth_stencil_layouts v1
+	VK_KHR_shader_draw_parameters v1
+	VK_KHR_shader_expect_assume v1
+	VK_KHR_shader_float_controls v4
+	VK_KHR_shader_float16_int8 v1
+	VK_KHR_shader_integer_dot_product v1
+	VK_KHR_shader_non_semantic_info v1
+	VK_KHR_shader_subgroup_extended_types v1
+	VK_KHR_shader_subgroup_rotate v2
+	VK_KHR_shader_terminate_invocation v1
+	VK_KHR_spirv_1_4 v1
+	VK_KHR_storage_buffer_storage_class v1
+	VK_KHR_surface v25
+	VK_KHR_swapchain v70
+	VK_KHR_swapchain_mutable_format v1
+	VK_KHR_synchronization2 v1
+	VK_KHR_timeline_semaphore v2
+	VK_KHR_uniform_buffer_standard_layout v1
+	VK_KHR_variable_pointers v1
+	VK_KHR_vertex_attribute_divisor v1
+	VK_KHR_vulkan_memory_model v3
+	VK_KHR_zero_initialize_workgroup_memory v1
+	VK_EXT_4444_formats v1
+	VK_EXT_buffer_device_address v2
+	VK_EXT_calibrated_timestamps v2
+	VK_EXT_debug_marker v4
+	VK_EXT_debug_report v10
+	VK_EXT_debug_utils v2
+	VK_EXT_descriptor_indexing v2
+	VK_EXT_depth_clip_control v1
+	VK_EXT_extended_dynamic_state v1
+	VK_EXT_extended_dynamic_state2 v1
+	VK_EXT_extended_dynamic_state3 v2
+	VK_EXT_external_memory_host v1
+	VK_EXT_external_memory_metal v1
+	VK_EXT_fragment_shader_interlock v1
+	VK_EXT_hdr_metadata v3
+	VK_EXT_headless_surface v1
+	VK_EXT_host_image_copy v1
+	VK_EXT_host_query_reset v1
+	VK_EXT_image_2d_view_of_3d v1
+	VK_EXT_image_robustness v1
+	VK_EXT_index_type_uint8 v1
+	VK_EXT_inline_uniform_block v1
+	VK_EXT_layer_settings v2
+	VK_EXT_load_store_op_none v1
+	VK_EXT_memory_budget v1
+	VK_EXT_metal_objects v2
+	VK_EXT_metal_surface v1
+	VK_EXT_pipeline_creation_cache_control v3
+	VK_EXT_pipeline_creation_feedback v1
+	VK_EXT_pipeline_robustness v1
+	VK_EXT_post_depth_coverage v1
+	VK_EXT_private_data v1
+	VK_EXT_robustness2 v1
+	VK_EXT_sample_locations v1
+	VK_EXT_scalar_block_layout v1
+	VK_EXT_separate_stencil_usage v1
+	VK_EXT_shader_atomic_float v1
+	VK_EXT_shader_demote_to_helper_invocation v1
+	VK_EXT_shader_stencil_export v1
+	VK_EXT_shader_subgroup_ballot v1
+	VK_EXT_shader_subgroup_vote v1
+	VK_EXT_shader_viewport_index_layer v1
+	VK_EXT_subgroup_size_control v2
+	VK_EXT_surface_maintenance1 v1
+	VK_EXT_swapchain_colorspace v5
+	VK_EXT_swapchain_maintenance1 v1
+	VK_EXT_texel_buffer_alignment v1
+	VK_EXT_texture_compression_astc_hdr v1
+	VK_EXT_tooling_info v1
+	VK_EXT_vertex_attribute_divisor v3
+	VK_AMD_gpu_shader_half_float v2
+	VK_AMD_negative_viewport_height v1
+	VK_AMD_shader_image_load_store_lod v1
+	VK_AMD_shader_trinary_minmax v1
+	VK_IMG_format_pvrtc v1
+	VK_INTEL_shader_integer_functions2 v1
+	VK_GOOGLE_display_timing v1
+	VK_MVK_macos_surface v3
+	VK_MVK_moltenvk v37
+	VK_NV_fragment_shader_barycentric v1
+nvk: command-pool chunks carved from shared slabs (NVK_CMDMEM_SLAB_KB=1024, 16 chunks per slab, spare 4, keep 1, idle 5000 ms)
+nvk: command-pool chunk recycler off (NVK_CMDMEM_RECYCLE=0, NVK_CMDMEM_LIVE_MAX=512)
+[mvk-info] GPU device:
+	model: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+	type: Discrete
+	vendorID: 0x10de
+	deviceID: 0x1f03
+	pipelineCacheUUID: 49B97F26-0F08-0200-0000-000100000000
+	GPU memory available: 8724 MB
+	GPU memory used: 32 MB
+	Metal Shading Language 3.1
+	supports the following GPU Features:
+		GPU Family Metal 3
+		GPU Family Mac 2
+		Read-Write Texture Tier 2
+[mvk-info] Created VkInstance for Vulkan version 1.3.0, as requested by app, with the following 3 Vulkan extensions enabled:
+	VK_KHR_surface v25
+	VK_EXT_debug_utils v2
+	VK_EXT_metal_surface v1
+2026-11-18 13:36:59.373 I ui         t00259 Vulkan instance API version 1.4.363. Enabled layers and extensions:
+2026-11-18 13:36:59.373 D ui         t00259 * VK_KHR_surface
+2026-11-18 13:36:59.373 D ui         t00259 * VK_EXT_debug_utils
+2026-11-18 13:36:59.373 D ui         t00259 * VK_EXT_metal_surface
+2026-11-18 13:36:59.373 D ui         t00259 * VK_KHR_portability_enumeration
+2026-11-18 13:36:59.374 W ui         t00259 Available Vulkan physical devices (set Config::gpu.vulkan_device to force a device):
+2026-11-18 13:36:59.374 W ui         t00259 * 0: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+2026-11-18 13:36:59.374 I ui         t00259 Vulkan device 'NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))': API 1.3.0, vendor 0x10DE, device 0x1F03, driver version 0x283C
+2026-11-18 13:36:59.374 D ui         t00259 Enabled Vulkan device extensions:
+2026-11-18 13:36:59.374 D ui         t00259 * VK_KHR_portability_subset
+2026-11-18 13:36:59.374 D ui         t00259 * VK_KHR_swapchain
+2026-11-18 13:36:59.374 D ui         t00259 * VK_EXT_memory_budget
+2026-11-18 13:36:59.374 D ui         t00259 * VK_EXT_robustness2
+2026-11-18 13:36:59.374 D ui         t00259 * VK_EXT_shader_stencil_export
+2026-11-18 13:36:59.374 D ui         t00259 Vulkan device properties and enabled features:
+2026-11-18 13:36:59.374 D ui         t00259 * driverID: Moltenvk
+2026-11-18 13:36:59.374 D ui         t00259 * driverName: MoltenVK                                                                                                                                                                                                                                                       
+2026-11-18 13:36:59.374 D ui         t00259 * driverInfo: 1.3.0                                                                                                               –‡Á  ðª/¹÷  ªÖÀ!                                                   ‚)Á         ‚)Á  )Jîø                 `C   Á          €‚)
+2026-11-18 13:36:59.374 D ui         t00259 * conformanceVersion: 1.3.8.0
+2026-11-18 13:36:59.374 D ui         t00259 * maxImageDimension2D: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * maxImageDimension3D: 2048
+2026-11-18 13:36:59.374 D ui         t00259 * maxImageDimensionCube: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * maxImageArrayLayers: 2048
+2026-11-18 13:36:59.374 D ui         t00259 * maxStorageBufferRange: 4294967295
+2026-11-18 13:36:59.374 D ui         t00259 * maxSamplerAllocationCount: 1000000
+2026-11-18 13:36:59.374 D ui         t00259 * maxPerStageDescriptorSamplers: 16
+2026-11-18 13:36:59.374 D ui         t00259 * maxPerStageDescriptorStorageBuffers: 31
+2026-11-18 13:36:59.374 D ui         t00259 * maxPerStageDescriptorSampledImages: 128
+2026-11-18 13:36:59.374 D ui         t00259 * maxPerStageResources: 159
+2026-11-18 13:36:59.374 D ui         t00259 * maxVertexOutputComponents: 124
+2026-11-18 13:36:59.374 D ui         t00259 * maxTessellationEvaluationOutputComponents: 124
+2026-11-18 13:36:59.374 D ui         t00259 * maxGeometryInputComponents: 0
+2026-11-18 13:36:59.374 D ui         t00259 * maxGeometryOutputComponents: 0
+2026-11-18 13:36:59.374 D ui         t00259 * maxFragmentInputComponents: 124
+2026-11-18 13:36:59.374 D ui         t00259 * maxFragmentCombinedOutputResources: 159
+2026-11-18 13:36:59.374 D ui         t00259 * maxSamplerAnisotropy: 16
+2026-11-18 13:36:59.374 D ui         t00259 * maxViewportDimensions[0]: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * maxViewportDimensions[1]: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * minUniformBufferOffsetAlignment: 256
+2026-11-18 13:36:59.374 D ui         t00259 * minStorageBufferOffsetAlignment: 16
+2026-11-18 13:36:59.374 D ui         t00259 * maxFramebufferWidth: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * maxFramebufferHeight: 16384
+2026-11-18 13:36:59.374 D ui         t00259 * framebufferColorSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * framebufferDepthSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * framebufferStencilSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * framebufferNoAttachmentsSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * sampledImageColorSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * sampledImageIntegerSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * sampledImageDepthSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * sampledImageStencilSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:36:59.374 D ui         t00259 * standardSampleLocations: 1
+2026-11-18 13:36:59.374 D ui         t00259 * optimalBufferCopyOffsetAlignment: 256
+2026-11-18 13:36:59.374 D ui         t00259 * optimalBufferCopyRowPitchAlignment: 1
+2026-11-18 13:36:59.374 D ui         t00259 * nonCoherentAtomSize: 256
+2026-11-18 13:36:59.374 D ui         t00259 * robustBufferAccess
+2026-11-18 13:36:59.374 D ui         t00259 * fullDrawIndexUint32
+2026-11-18 13:36:59.374 D ui         t00259 * independentBlend
+2026-11-18 13:36:59.374 D ui         t00259 * tessellationShader
+2026-11-18 13:36:59.374 D ui         t00259 * sampleRateShading
+2026-11-18 13:36:59.374 D ui         t00259 * depthClamp
+2026-11-18 13:36:59.374 D ui         t00259 * fillModeNonSolid
+2026-11-18 13:36:59.374 D ui         t00259 * samplerAnisotropy
+2026-11-18 13:36:59.374 D ui         t00259 * occlusionQueryPrecise
+2026-11-18 13:36:59.374 D ui         t00259 * vertexPipelineStoresAndAtomics
+2026-11-18 13:36:59.374 D ui         t00259 * fragmentStoresAndAtomics
+2026-11-18 13:36:59.375 D ui         t00259 * shaderClipDistance
+2026-11-18 13:36:59.375 D ui         t00259 * samplerMirrorClampToEdge
+2026-11-18 13:36:59.375 D ui         t00259 * uniformBufferStandardLayout
+2026-11-18 13:36:59.375 D ui         t00259 * scalarBlockLayout
+2026-11-18 13:36:59.375 D ui         t00259 * shaderDemoteToHelperInvocation
+2026-11-18 13:36:59.375 D ui         t00259 * dynamicRendering
+2026-11-18 13:36:59.375 D ui         t00259 * constantAlphaColorBlendFactors
+2026-11-18 13:36:59.375 D ui         t00259 * imageViewFormatReinterpretation
+2026-11-18 13:36:59.375 D ui         t00259 * imageViewFormatSwizzle
+2026-11-18 13:36:59.375 D ui         t00259 * separateStencilMaskRef
+2026-11-18 13:36:59.375 D ui         t00259 * shaderSignedZeroInfNanPreserveFloat32: 1
+2026-11-18 13:36:59.375 D ui         t00259 * shaderDenormFlushToZeroFloat32: 0
+2026-11-18 13:36:59.375 D ui         t00259 * shaderRoundingModeRTEFloat32: 0
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message): vkCreateDevice layer callstack setup to: (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Application> (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Loader> (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Device> (object 0: Instance 0x7fc10281c600)
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):        Using "NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))" with driver: "/private/tmp/orbita-molten-130/MoltenVK/MoltenVK/dynamic/dylib/macOS/libMoltenVK.dylib" (object 0: Instance 0x7fc10281c600)
+[mvk-info] Vulkan semaphores using Metal implicit guarantees within a single queue.
+2026-11-18 13:36:59.375 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Vulkan semaphores using Metal implicit guarantees within a single queue. (object 0: Device 0x7fc10584c228)
+[mvk-warn] VK_ERROR_FEATURE_NOT_PRESENT: Metal does not support buffer robustness.
+2026-11-18 13:36:59.376 W gpu        t00259 Vulkan Warning ({ Validation }, ID 0: mvk-warn): VK_ERROR_FEATURE_NOT_PRESENT: Metal does not support buffer robustness. (object 0: Device 0x7fc10584c228)
+[mvk-info] Descriptor sets binding resources using discrete resource indexes.
+2026-11-18 13:36:59.376 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Descriptor sets binding resources using discrete resource indexes. (object 0: Device 0x7fc10584c228)
+[mvk-info] Created VkDevice to run on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with the following 5 Vulkan extensions enabled:
+	VK_KHR_portability_subset v1
+	VK_KHR_swapchain v70
+	VK_EXT_memory_budget v1
+	VK_EXT_robustness2 v1
+	VK_EXT_shader_stencil_export v1
+2026-11-18 13:37:00.173 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Created VkDevice to run on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with the following 5 Vulkan extensions enabled:
+	VK_KHR_portability_subset v1
+	VK_KHR_swapchain v70
+	VK_EXT_memory_budget v1
+	VK_EXT_robustness2 v1
+	VK_EXT_shader_stencil_export v1 (object 0: Device 0x7fc10584c228)
+2026-11-18 13:37:00.176 I system     t00259 Guest memory mapped at virtual base 0x00000001375E5000, physical base 0x00000002375E5000
+2026-11-18 13:37:00.181 D filesystem t00259 mounted '/Users/matiastorres/Downloads/Orbita-PC/orbita-1.1.0-XEX/orbita' at '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.181 D filesystem t00259 linked 'game:' to '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.181 D filesystem t00259 linked 'd:' to '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.181 D filesystem t00259 mounted '' at '\Device\Harddisk0'
+2026-11-18 13:37:00.181 D system     t00259 Initializing function table at 83500000, size 007908D0 for code 82290000-82648468 (+00010000 thunk reserve)
+2026-11-18 13:37:00.184 D cpu        t00259 Function table initialized for module: code=82290000-82648468, image=82000000-83500000
+2026-11-18 13:37:00.187 D system     t00259 Registered 9431 recompiled functions (0 duplicates, 0 rejected)
+2026-11-18 13:37:00.187 D system     t00259 Runtime setup complete (code 82290000 to 82648468, image 82000000 to 83500000)
+2026-11-18 13:37:00.187 D system     t00259 Codegen config skip_lr=false skip_msr=false ctr=false xer=false cr=false reserved=false non_argument=false non_volatile=false
+2026-11-18 13:37:00.187 D system     t00259 Loading XEX image game:\default.xex
+2026-11-18 13:37:00.235 W system     t00259 XEX decoded with a non retail key (1)
+2026-11-18 13:37:00.235 D filesystem t00259 '\Device\Harddisk0\Partition1\default.xexp' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x282 (XamGetSystemVersion) -> 0x82647dc4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x3 (NetDll_socket) -> 0x82647dd4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x8 (NetDll_getsockopt) -> 0x82647e14
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x9 (NetDll_getsockname) -> 0x82647e24
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0xc (NetDll_connect) -> 0x82647e44
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0xf (NetDll_select) -> 0x82647e74
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x12 (NetDll_recv) -> 0x82647e84
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x16 (NetDll_send) -> 0x82647ea4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x18 (NetDll_sendto) -> 0x82647eb4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x33 (NetDll_XNetStartup) -> 0x82647f24
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1a4 (XamLoaderLaunchTitle) -> 0x826478c4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x19 (NetDll_WSASendTo) -> 0x82647ec4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0xd (NetDll_listen) -> 0x82647e54
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x191 (XamInputGetState) -> 0x826478b4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x7 (NetDll_setsockopt) -> 0x82647e04
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x30f (XamVoiceClose) -> 0x82648014
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x3d1 (XGetVideoMode) -> 0x826478a4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x28a (XamNotifyCreateListener) -> 0x82647fb4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x44 (NetDll_XNetDnsRelease) -> 0x82647f44
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x2c1 (XamShowKeyboardUI) -> 0x826478d4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1a (NetDll_inet_addr) -> 0x82647ed4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x49 (NetDll_XNetGetTitleXnAddr) -> 0x82647f54
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x48e (XamVoiceGetMicArrayUnderrunStatus) -> 0x826480b4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x3cc (XGetGameRegion) -> 0x826476e4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x4f (NetDll_XNetSetOpt) -> 0x82647f84
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x4 (NetDll_closesocket) -> 0x82647de4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x30c (XamVoiceCreate) -> 0x82648044
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x490 (XamVoiceGetMicArrayAudioEx) -> 0x826480a4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x4b (NetDll_XNetGetEthernetLinkStatus) -> 0x82647f64
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1cf (XamGetCurrentTitleId) -> 0x82648064
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x28b (XNotifyGetNext) -> 0x82647fa4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x208 (XamUserGetDeviceContext) -> 0x82647fc4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x25a (XamContentClose) -> 0x82648074
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x14 (NetDll_recvfrom) -> 0x82647e94
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x43 (NetDll_XNetDnsLookup) -> 0x82647f34
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x219 (XamUserReadProfileSettings) -> 0x82647fe4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x271 (XamContentCreateInternal) -> 0x82648084
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x210 (XamUserGetSigninState) -> 0x82647ff4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1d (NetDll_WSACreateEvent) -> 0x82647ef4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x30d (XamVoiceHeadsetPresent) -> 0x82648004
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x8dd (XamNuiGetDeviceSerialNumber) -> 0x82648094
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x212 (XamUserCheckPrivilege) -> 0x82647fd4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x4e (NetDll_XNetGetOpt) -> 0x82647f74
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1 (NetDll_WSAStartup) -> 0x82647db4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x3cb (XGetAVPack) -> 0x826476c4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1e (NetDll_WSACloseEvent) -> 0x82647f04
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x6 (NetDll_ioctlsocket) -> 0x82647df4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x30e (XamVoiceSubmitPacket) -> 0x82648034
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x22 (NetDll___WSAFDIsSet) -> 0x82647f14
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1f8 (XMsgCancelIORequest) -> 0x82648024
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0xe (NetDll_accept) -> 0x82647e64
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x213 (XamUserAreUsersFriends) -> 0x82648054
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1a9 (XamLoaderTerminateTitle) -> 0x826476d4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0xb (NetDll_bind) -> 0x82647e34
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x497 (XamVoiceIsActiveProcess) -> 0x82647f94
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x1b (NetDll_WSAGetLastError) -> 0x82647ee4
+2026-11-18 13:37:00.248 D system     t00259 Patched function import xam:0x2dc (XamShowMessageBoxUIEx) -> 0x826476b4
+2026-11-18 13:37:00.248 D system     t00259 created symbols for import library xam with 57 imports
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x266 (KeCertMonitorData) -> 0x30005000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1be (VdGlobalDevice) -> 0xffcae000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1bf (VdGlobalXamDevice) -> 0xffcad000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1c0 (VdGpuClockInMHz) -> 0xffcac000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1c1 (VdHSIOCalibrationLock) -> 0xffcab000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x158 (XboxKrnlVersion) -> 0x3000b000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0xad (KeTimeStampBundle) -> 0x3000c000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x156 (XboxHardwareInfo) -> 0x30006000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x193 (XexExecutableModuleHandle) -> 0x30008000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1ae (ExLoadedCommandLine) -> 0x3000a000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x59 (KeDebugMonitorData) -> 0x30004000
+2026-11-18 13:37:00.248 D system     t00259 Patched variable import xboxkrnl:0x1b (ExThreadObjectType) -> 0x30002000
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xdb (NtFlushBuffersFile) -> 0x826482e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x12d (RtlInitUnicodeString) -> 0x826482d4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x127 (RtlFreeAnsiString) -> 0x826482b4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xd7 (NtCreateTimer) -> 0x826482a4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xcd (NtCancelTimer) -> 0x82648284
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x199 (XexLoadImage) -> 0x82648274
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x5d (KeEnableFpuExceptions) -> 0x82648254
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x147 (RtlUnwind) -> 0x82648244
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x153 (KeTlsFree) -> 0x82648224
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x322 (XAudioCaptureRenderDriverFrame) -> 0x826481e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x335 (EtxProducerUnregister) -> 0x826481d4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x332 (EtxProducerLog) -> 0x826481c4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x334 (EtxProducerRegister) -> 0x826481b4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x357 (XAudioGetDuckerHoldTime) -> 0x82648194
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x355 (XAudioGetDuckerReleaseTime) -> 0x82648174
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x12f (RtlInitializeCriticalSectionAndSpinCount) -> 0x82648234
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1f4 (XAudioUnregisterRenderDriverClient) -> 0x82648124
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xaf (KeWaitForMultipleObjects) -> 0x82648104
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x226 (XMAReleaseContext) -> 0x826480f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xc2 (MmMapIoSpace) -> 0x826480d4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x133 (RtlMultiByteToUnicodeN) -> 0x826482f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1f8 (XAudioGetVoiceCategoryVolume) -> 0x826480c4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x89 (KeReleaseSpinLockFromRaisedIrql) -> 0x82647b64
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xcf (NtClose) -> 0x826476f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x194 (XexCheckExecutablePrivilege) -> 0x82647724
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x3 (DbgPrint) -> 0x82647734
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x99 (KeSetBasePriorityThread) -> 0x82647764
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x81 (KeQueryBasePriorityThread) -> 0x82647784
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x97 (KeSetAffinityThread) -> 0x826477a4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x125 (RtlEnterCriticalSection) -> 0x826477c4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xce (NtClearEvent) -> 0x82647a34
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x28 (HalReturnToFirmware) -> 0x826477e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x126 (RtlFillMemoryUlong) -> 0x82647804
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x12b (RtlImageXexHeaderField) -> 0x826477d4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x66 (KeGetCurrentProcessType) -> 0x82647824
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xee (NtQueryVirtualMemory) -> 0x82647864
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x135 (RtlNtStatusToDosError) -> 0x82647884
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x18a (XeCryptRandom) -> 0x826478e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xbf (MmIsAddressValid) -> 0x826478f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x195 (XexGetModuleHandle) -> 0x82647914
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x141 (RtlTryEnterCriticalSection) -> 0x82647924
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x5a (KeDelayExecutionThread) -> 0x82647974
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x269 (VdRetrainEDRAM) -> 0x82647d04
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xdf (NtOpenFile) -> 0x82647994
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x12c (RtlInitAnsiString) -> 0x826479a4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x321 (XAudioUnregisterRenderDriverMECClient) -> 0x82648204
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xd (ExCreateThread) -> 0x82647ad4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x197 (XexGetProcedureAddress) -> 0x82647904
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xd2 (NtCreateFile) -> 0x826479b4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1ba (VdGetCurrentDisplayInformation) -> 0x82647c34
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf5 (NtResumeThread) -> 0x826479d4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xe7 (NtQueryFullAttributesFile) -> 0x826479e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x11b (RtlCompareMemoryUlong) -> 0x82647844
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xba (MmAllocatePhysicalMemoryEx) -> 0x82647a14
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xbd (MmFreePhysicalMemory) -> 0x82647a24
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x136 (RtlRaiseException) -> 0x82647874
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x10 (ExGetXConfigSetting) -> 0x82647714
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xd5 (NtCreateSemaphore) -> 0x82647a44
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x8f (KeResetEvent) -> 0x82647d34
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x154 (KeTlsGetValue) -> 0x82647954
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf3 (NtReleaseSemaphore) -> 0x82647a54
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf6 (NtSetEvent) -> 0x82647a74
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xe8 (NtQueryInformationFile) -> 0x82647a84
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x83 (KeQueryPerformanceFrequency) -> 0x82647964
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xe4 (NtQueryDirectoryFile) -> 0x82647a94
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x152 (KeTlsAlloc) -> 0x82647934
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1b6 (VdEnableRingBufferRPtrWriteBack) -> 0x82647ba4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf1 (NtReadFileScatter) -> 0x82647aa4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x6f (KeInitializeDpc) -> 0x82647d94
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1f3 (XAudioRegisterRenderDriverClient) -> 0x82648134
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x12e (RtlInitializeCriticalSection) -> 0x82647854
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x6c (KeUnlockL2) -> 0x82647d84
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xcc (NtAllocateVirtualMemory) -> 0x826477f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1f5 (XAudioSubmitRenderDriverFrame) -> 0x82648114
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x130 (RtlLeaveCriticalSection) -> 0x826477b4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x6b (KeLockL2) -> 0x82647d74
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x5f (KeEnterCriticalRegion) -> 0x82647d24
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xff (NtWriteFile) -> 0x82647a04
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xfc (NtSuspendThread) -> 0x82647794
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1a5 (__C_specific_handler) -> 0x82647744
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x26a (VdRetrainEDRAMWorker) -> 0x82647d14
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x353 (XAudioGetDuckerAttackTime) -> 0x82648184
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x104 (ObDeleteSymbolicLink) -> 0x82647d54
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c9 (VdQueryVideoFlags) -> 0x82647cd4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf7 (NtSetInformationFile) -> 0x82647984
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1b9 (VdGetCurrentDisplayGamma) -> 0x82647cb4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x142 (RtlUnicodeStringToAnsiString) -> 0x826482c4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x7d (KeLeaveCriticalRegion) -> 0x82647cf4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x350 (XAudioGetDuckerLevel) -> 0x82648154
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c6 (VdIsHSIOTrainingSucceeded) -> 0x82647ca4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x34c (XAudioGetRenderDriverTic) -> 0x826481f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xfd (NtWaitForSingleObjectEx) -> 0x82647894
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c2 (VdInitializeEngines) -> 0x82647c94
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x110 (ObReferenceObjectByHandle) -> 0x82647774
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1d5 (VdSetGraphicsInterruptCallback) -> 0x82647c84
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x84 (KeQuerySystemTime) -> 0x826479c4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x52 (KeBugCheck) -> 0x82647be4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1dc (VdShutdownEngines) -> 0x82647c74
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xb1 (KfAcquireSpinLock) -> 0x82647b14
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1d4 (VdSetDisplayModeOverride) -> 0x82647c64
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xb0 (KeWaitForSingleObject) -> 0x82647d44
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1d3 (VdSetDisplayMode) -> 0x82647c44
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1b4 (VdEnableDisableClockGating) -> 0x82647cc4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xef (NtQueryVolumeInformationFile) -> 0x826479f4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1b1 (VdCallGraphicsNotificationRoutines) -> 0x82647c24
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x320 (XAudioRegisterRenderDriverMECClient) -> 0x82648214
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xd1 (NtCreateEvent) -> 0x82647704
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x25b (VdSwap) -> 0x82647b44
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xda (NtDuplicateObject) -> 0x82647ac4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x15 (ExRegisterTitleTerminateNotification) -> 0x82647c14
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xf0 (NtReadFile) -> 0x82647ab4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xbe (MmGetPhysicalAddress) -> 0x82647bc4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x34d (XAudioEnableDucker) -> 0x82648164
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xfe (NtWaitForMultipleObjectsEx) -> 0x82647a64
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c3 (VdInitializeRingBuffer) -> 0x82647bb4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x155 (KeTlsSetValue) -> 0x82647944
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x14d (_vsnprintf) -> 0x82647bf4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x103 (ObCreateSymbolicLink) -> 0x82647d64
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c5 (VdInitializeScalerCommandBuffer) -> 0x82647ce4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x4d (KeAcquireSpinLockAtRaisedIrql) -> 0x82647b74
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x13b (sprintf) -> 0x82647c04
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1a1 (XexUnloadImage) -> 0x82648264
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0xdc (NtFreeVirtualMemory) -> 0x82647834
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x7b (KeInsertQueueDpc) -> 0x82647b84
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x224 (XMACreateContext) -> 0x826480e4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x9a (KeSetCurrentProcessType) -> 0x82647da4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1bd (VdGetSystemCommandBuffer) -> 0x82647b54
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1d9 (VdSetSystemCommandBufferGpuIdentifierAddress) -> 0x82647bd4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1ff (XAudioGetSpeakerConfig) -> 0x82648144
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x13a (_snprintf) -> 0x82647b24
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x351 (XAudioGetDuckerThreshold) -> 0x826481a4
+2026-11-18 13:37:00.249 D system     t00259 Patched function import xboxkrnl:0x1c7 (VdPersistDisplay) -> 0x82647b34
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x1df (KiApcNormalRoutineNop) -> 0x82647b94
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x9d (KeSetEvent) -> 0x82647b04
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x53 (KeBugCheckEx) -> 0x82647814
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0xb4 (KfReleaseSpinLock) -> 0x82647af4
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0xfa (NtSetTimerEx) -> 0x82648294
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x19 (ExTerminateThread) -> 0x82647ae4
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x105 (ObDereferenceObject) -> 0x82647754
+2026-11-18 13:37:00.250 D system     t00259 Patched function import xboxkrnl:0x1ca (VdQueryVideoMode) -> 0x82647c54
+2026-11-18 13:37:00.250 D system     t00259 created symbols for import library xboxkrnl with 152 imports
+2026-11-18 13:37:00.250 D system     t00259 Achievement manager: loaded 0 entries
+2026-11-18 13:37:00.250 D system     t00259   XEX image loaded successfully
+[mvk-info] Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fc103079cd0) on screen Main Screen.
+2026-11-18 13:37:00.281 I gpu        t105987 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fc103079cd0) on screen Main Screen. (object 0: SwapchainKHR 0x7fc104858010)
+2026-11-18 13:37:00.281 I ui         t105987 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+2026-11-18 13:37:00.319 D system     t00259 GPU initialized
+2026-11-18 13:37:00.319 D system     t00259 Runtime initialized successfully
+2026-11-18 13:37:00.319 D system     t00259 Runtime: Preparing module launch...
+2026-11-18 13:37:00.320 I gpu        t107523 Vulkan sparse binding is not used for shared memory emulation. Video memory usage may increase significantly because a full 512 MB buffer will be created
+2026-11-18 13:37:00.320 D system     t00259   Module prepared on thread 'Main XThread (00000000)'
+2026-11-18 13:37:00.320 D filesystem t108035 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.320 W kernel     t108035 NtCreateFile failed path='game:\XC360' -> 0xc0000022
+2026-11-18 13:37:00.320 D filesystem t108035 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.320 W kernel     t108035 NtCreateFile failed path='game:\XC360\LOG1.TXT' -> 0xc000003a
+2026-11-18 13:37:00.320 D filesystem t108035 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.320 W kernel     t108035 NtCreateFile failed path='game:\XC360\LOG.TXT' -> 0xc000003a
+2026-11-18 13:37:00.320 D filesystem t108035 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:37:00.320 W kernel     t108035 NtCreateFile failed path='game:\XC360\LOG.TXT' -> 0xc000003a
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) [boot] 1 xenos+console ok
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) 
+
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) [boot] 2 speed ok
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) 
+
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) [boot] 3 threads ok
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) 
+
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) [boot] 4 usb_init ok
+2026-11-18 13:37:00.320 D cpu        t108035 (service trap) 
+
+2026-11-18 13:37:00.329 W gpu        t107523 Vulkan geometryShader is not supported by the device. Primitive fallback conversion/expansion paths will be used
+[mvk-info] Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fc103079cd0) on screen Main Screen.
+2026-11-18 13:37:00.392 I gpu        t105987 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fc103079cd0) on screen Main Screen. (object 0: SwapchainKHR 0x7fc105865e10)
+2026-11-18 13:37:00.392 I ui         t105987 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+[mvk-error] VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error.
+2026-11-18 13:37:00.413 E gpu        t107523 Vulkan Error ({ Validation }, ID 0: mvk-error): VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error. (object 0: Pipeline 0x7fc10349f920)
+2026-11-18 13:37:00.415 E gpu        t107523 VulkanRenderTargetCache: Failed to create the resolve copy pipeline Resolve Copy Fast 32bpp 1x/2xMSAA
+2026-11-18 13:37:00.415 E gpu        t107523 Failed to initialize the render target cache
+2026-11-18 13:37:00.415 C gpu        t107523 Unable to setup command processor internal state
+==== orbita crash report, rexglue 0.11.0.0-dev.unknown ====
+exception: SIGABRT (0x6) at 0x00007ff81009d846
+guest thread 00000003 GPU Commands (00000000)
+registers:
+    rip = 0x00007ff81009d846   eflags = 0x00000246
+    rax = 0x0000000000000000
+    rcx = 0x000070000d890d08
+    rdx = 0x0000000000000000
+    rbx = 0x0000000000000006
+    rsp = 0x000070000d890d08
+    rbp = 0x000070000d890d30
+    rsi = 0x0000000000000006
+    rdi = 0x000000000001a403
+     r8 = 0x00007ff851adaf70
+     r9 = 0x0000000000000000
+    r10 = 0x00007ff851ce59c0
+    r11 = 0x0000000000000246
+    r12 = 0x00007fc1032f10b8
+    r13 = 0x00007fc1032f10bc
+    r14 = 0x000000000001a403
+    r15 = 0x0000000000000016
+stack code addresses (sp 0x000070000d890d08):
+    none
+backtrace:
+    [ 0] 0x000000010839e46e
+    [ 1] 0x000000010833dfab
+    [ 2] 0x000000010839dff5
+    [ 3] 0x000000010839e76d
+    [ 4] 0x00007ff81011131d
+    [ 5] 0x0000000000000000
+    [ 6] 0x00007ff80fff7476
+    [ 7] 0x00000001091d20c4
+    [ 8] 0x00000001090546d0
+    [ 9] 0x000000010803e1d6
+    [10] 0x000000010804fd80
+    [11] 0x00000001080512ce
+    [12] 0x00000001083a8ea7
+    [13] 0x00007ff8100d8e05
+    [14] 0x00007ff8100d4857
+==== end of crash report ====

@@ -1,0 +1,4 @@
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+/tmp/orbita-resolve.metal main0 OK
+/tmp/orbita-full8.metal main0 OK
+/tmp/orbita-fragment-fail-0.metal main0 OK

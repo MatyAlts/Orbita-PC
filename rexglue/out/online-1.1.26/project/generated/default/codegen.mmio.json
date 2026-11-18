@@ -1,0 +1,136 @@
+{
+  "declared": [],
+  "guarded": [
+    {
+      "access": "write",
+      "address": "0x825FE190",
+      "function": "0x825FE110",
+      "reason": "eieio"
+    },
+    {
+      "access": "read",
+      "address": "0x82601F60",
+      "function": "0x82601F58",
+      "reason": "offset"
+    },
+    {
+      "access": "write",
+      "address": "0x82601F70",
+      "function": "0x82601F68",
+      "reason": "offset"
+    },
+    {
+      "access": "write",
+      "address": "0x8261BCCC",
+      "function": "0x8261BBF0",
+      "reason": "offset"
+    },
+    {
+      "access": "write",
+      "address": "0x8261C524",
+      "function": "0x8261C418",
+      "reason": "offset"
+    },
+    {
+      "access": "write",
+      "address": "0x8261C65C",
+      "function": "0x8261C588",
+      "reason": "offset"
+    }
+  ],
+  "matched": [
+    {
+      "access": "write",
+      "address": "0x825F76C0",
+      "block": "GPU",
+      "function": "0x825F7628",
+      "target": "0x7FC86110"
+    },
+    {
+      "access": "write",
+      "address": "0x825F78CC",
+      "block": "GPU",
+      "function": "0x825F7758",
+      "target": "0x7FC86110"
+    },
+    {
+      "access": "write",
+      "address": "0x825FDBFC",
+      "block": "GPU",
+      "function": "0x825FDBF0",
+      "target": "0x7FC80714"
+    },
+    {
+      "access": "read",
+      "address": "0x825FDD48",
+      "block": "GPU",
+      "function": "0x825FDCD0",
+      "target": "0x7FC86544"
+    },
+    {
+      "access": "write",
+      "address": "0x825FE684",
+      "block": "GPU",
+      "function": "0x825FE408",
+      "target": "0x7FC80714"
+    },
+    {
+      "access": "write",
+      "address": "0x82602FF8",
+      "block": "GPU",
+      "function": "0x82602FF0",
+      "target": "0x7FC83214"
+    },
+    {
+      "access": "write",
+      "address": "0x82603004",
+      "block": "GPU",
+      "function": "0x82602FF0",
+      "target": "0x7FC83408"
+    },
+    {
+      "access": "read",
+      "address": "0x8260C8B8",
+      "block": "GPU",
+      "function": "0x8260C8B0",
+      "target": "0x7FC8112C"
+    },
+    {
+      "access": "read",
+      "address": "0x8260C93C",
+      "block": "GPU",
+      "function": "0x8260C8B0",
+      "target": "0x7FC80E5C"
+    },
+    {
+      "access": "read",
+      "address": "0x82610734",
+      "block": "GPU",
+      "function": "0x82610698",
+      "target": "0x7FC8112C"
+    },
+    {
+      "access": "read",
+      "address": "0x8261BB9C",
+      "block": "APU",
+      "function": "0x8261BB90",
+      "target": "0x7FEA1800"
+    },
+    {
+      "access": "write",
+      "address": "0x8261C444",
+      "block": "APU",
+      "function": "0x8261C418",
+      "target": "0x7FEA1804"
+    },
+    {
+      "access": "write",
+      "address": "0x8261C560",
+      "block": "APU",
+      "function": "0x8261C418",
+      "target": "0x7FEA1804"
+    }
+  ],
+  "unserved": [],
+  "unsupported": []
+}

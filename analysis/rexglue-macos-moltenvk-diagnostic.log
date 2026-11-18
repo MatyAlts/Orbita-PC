@@ -1,0 +1,1932 @@
+2026-11-18 13:35:52.814 I core       t00259 module 'rexfilesystem' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexfilesystem.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.815 I core       t00259 module 'rexhid' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.816 I core       t00259 module 'rexapu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.816 I core       t00259 module 'rexui' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.817 I core       t00259 module 'rexgpu' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.817 I core       t00259 module 'rexxam' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxam.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.817 I core       t00259 module 'rexxbdm' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexxbdm.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.817 I core       t00259 module 'rexkernel' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexkernel.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.818 I core       t00259 open file limit is 1048575, hard limit unlimited
+2026-11-18 13:35:52.825 I core       t00259 module 'rexapu-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexapu-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.826 I core       t00259 module 'rexhid-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexhid-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.827 I core       t00259 module 'rexui-sdl3' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexui-sdl3.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.830 I core       t00259 module 'rexgpu-xenos-vulkan' loaded from '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/librexgpu-xenos-vulkan.dylib', SDK build 0.11.0.0-dev.unknown
+2026-11-18 13:35:52.860 W hid        t00259 SDL GameControllerDB: file '/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/gamecontrollerdb.txt' does not exist.
+2026-11-18 13:35:52.860 I hid        t00259 SDL input driver initialized
+2026-11-18 13:35:53.154 I ui         t00259 SDL video driver: cocoa
+nvrm: upload queue async copy engine: found (engine type 0xb, 3D class 0xc597)
+2026-11-18 13:35:53.641 I ui         t00259 Loaded Vulkan runtime from /Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libvulkan.1.dylib
+[mvk-info] MoltenVK version 1.4.2, supporting Vulkan version 1.4.357.
+	The following 153 Vulkan extensions are supported:
+	VK_KHR_16bit_storage v1
+	VK_KHR_8bit_storage v1
+	VK_KHR_bind_memory2 v1
+	VK_KHR_buffer_device_address v1
+	VK_KHR_calibrated_timestamps v1
+	VK_KHR_copy_commands2 v1
+	VK_KHR_create_renderpass2 v1
+	VK_KHR_dedicated_allocation v3
+	VK_KHR_deferred_host_operations v4
+	VK_KHR_depth_stencil_resolve v1
+	VK_KHR_descriptor_update_template v1
+	VK_KHR_device_group v4
+	VK_KHR_device_group_creation v1
+	VK_KHR_driver_properties v1
+	VK_KHR_dynamic_rendering v1
+	VK_KHR_dynamic_rendering_local_read v1
+	VK_KHR_external_fence v1
+	VK_KHR_external_fence_capabilities v1
+	VK_KHR_external_memory v1
+	VK_KHR_external_memory_capabilities v1
+	VK_KHR_external_semaphore v1
+	VK_KHR_external_semaphore_capabilities v1
+	VK_KHR_format_feature_flags2 v2
+	VK_KHR_fragment_shader_barycentric v1
+	VK_KHR_get_memory_requirements2 v1
+	VK_KHR_get_physical_device_properties2 v2
+	VK_KHR_get_surface_capabilities2 v1
+	VK_KHR_global_priority v1
+	VK_KHR_image_format_list v1
+	VK_KHR_imageless_framebuffer v1
+	VK_KHR_incremental_present v2
+	VK_KHR_index_type_uint8 v1
+	VK_KHR_line_rasterization v1
+	VK_KHR_load_store_op_none v1
+	VK_KHR_maintenance1 v2
+	VK_KHR_maintenance2 v1
+	VK_KHR_maintenance3 v1
+	VK_KHR_maintenance4 v2
+	VK_KHR_maintenance5 v1
+	VK_KHR_maintenance6 v1
+	VK_KHR_maintenance7 v1
+	VK_KHR_maintenance8 v1
+	VK_KHR_maintenance9 v1
+	VK_KHR_map_memory2 v1
+	VK_KHR_multiview v1
+	VK_KHR_portability_subset v1
+	VK_KHR_present_id v1
+	VK_KHR_present_id2 v1
+	VK_KHR_present_wait v1
+	VK_KHR_present_wait2 v1
+	VK_KHR_push_descriptor v2
+	VK_KHR_relaxed_block_layout v1
+	VK_KHR_robustness2 v1
+	VK_KHR_sampler_mirror_clamp_to_edge v3
+	VK_KHR_sampler_ycbcr_conversion v14
+	VK_KHR_separate_depth_stencil_layouts v1
+	VK_KHR_shader_draw_parameters v1
+	VK_KHR_shader_expect_assume v1
+	VK_KHR_shader_float_controls v4
+	VK_KHR_shader_float_controls2 v1
+	VK_KHR_shader_float16_int8 v1
+	VK_KHR_shader_fma v1
+	VK_KHR_shader_integer_dot_product v1
+	VK_KHR_shader_maximal_reconvergence v1
+	VK_KHR_shader_non_semantic_info v1
+	VK_KHR_shader_quad_control v1
+	VK_KHR_shader_relaxed_extended_instruction v1
+	VK_KHR_shader_subgroup_extended_types v1
+	VK_KHR_shader_subgroup_rotate v2
+	VK_KHR_shader_subgroup_uniform_control_flow v1
+	VK_KHR_shader_terminate_invocation v1
+	VK_KHR_spirv_1_4 v1
+	VK_KHR_storage_buffer_storage_class v1
+	VK_KHR_surface v25
+	VK_KHR_surface_maintenance1 v1
+	VK_KHR_surface_protected_capabilities v1
+	VK_KHR_swapchain v70
+	VK_KHR_swapchain_maintenance1 v1
+	VK_KHR_swapchain_mutable_format v1
+	VK_KHR_synchronization2 v1
+	VK_KHR_timeline_semaphore v2
+	VK_KHR_uniform_buffer_standard_layout v1
+	VK_KHR_variable_pointers v1
+	VK_KHR_vertex_attribute_divisor v1
+	VK_KHR_vulkan_memory_model v3
+	VK_KHR_zero_initialize_workgroup_memory v1
+	VK_EXT_4444_formats v1
+	VK_EXT_buffer_device_address v2
+	VK_EXT_calibrated_timestamps v2
+	VK_EXT_debug_marker v4
+	VK_EXT_debug_report v10
+	VK_EXT_debug_utils v2
+	VK_EXT_depth_clip_control v1
+	VK_EXT_descriptor_indexing v2
+	VK_EXT_extended_dynamic_state v1
+	VK_EXT_extended_dynamic_state2 v1
+	VK_EXT_extended_dynamic_state3 v2
+	VK_EXT_external_memory_host v1
+	VK_EXT_external_memory_metal v1
+	VK_EXT_fragment_shader_interlock v1
+	VK_EXT_global_priority v2
+	VK_EXT_global_priority_query v1
+	VK_EXT_hdr_metadata v3
+	VK_EXT_headless_surface v1
+	VK_EXT_host_image_copy v1
+	VK_EXT_host_query_reset v1
+	VK_EXT_image_2d_view_of_3d v1
+	VK_EXT_image_robustness v1
+	VK_EXT_index_type_uint8 v1
+	VK_EXT_inline_uniform_block v1
+	VK_EXT_layer_settings v2
+	VK_EXT_legacy_dithering v2
+	VK_EXT_line_rasterization v1
+	VK_EXT_load_store_op_none v1
+	VK_EXT_memory_budget v1
+	VK_EXT_metal_objects v2
+	VK_EXT_metal_surface v1
+	VK_EXT_non_seamless_cube_map v1
+	VK_EXT_pipeline_creation_cache_control v3
+	VK_EXT_pipeline_creation_feedback v1
+	VK_EXT_pipeline_robustness v1
+	VK_EXT_post_depth_coverage v1
+	VK_EXT_primitive_topology_list_restart v1
+	VK_EXT_private_data v1
+	VK_EXT_provoking_vertex v1
+	VK_EXT_robustness2 v1
+	VK_EXT_sample_locations v1
+	VK_EXT_scalar_block_layout v1
+	VK_EXT_separate_stencil_usage v1
+	VK_EXT_shader_atomic_float v1
+	VK_EXT_shader_demote_to_helper_invocation v1
+	VK_EXT_shader_stencil_export v1
+	VK_EXT_shader_subgroup_ballot v1
+	VK_EXT_shader_subgroup_vote v1
+	VK_EXT_shader_viewport_index_layer v1
+	VK_EXT_subgroup_size_control v2
+	VK_EXT_surface_maintenance1 v1
+	VK_EXT_swapchain_colorspace v5
+	VK_EXT_swapchain_maintenance1 v1
+	VK_EXT_texel_buffer_alignment v1
+	VK_EXT_texture_compression_astc_hdr v1
+	VK_EXT_tooling_info v1
+	VK_EXT_vertex_attribute_divisor v3
+	VK_AMD_gpu_shader_half_float v2
+	VK_AMD_negative_viewport_height v1
+	VK_AMD_shader_image_load_store_lod v1
+	VK_AMD_shader_trinary_minmax v1
+	VK_GOOGLE_display_timing v1
+	VK_IMG_format_pvrtc v1
+	VK_INTEL_shader_integer_functions2 v1
+	VK_MVK_macos_surface v3
+	VK_MVK_moltenvk v37
+	VK_NV_fragment_shader_barycentric v1
+[mvk-info] maximumConcurrentCompilationTaskCount 2
+nvk: command-pool chunks carved from shared slabs (NVK_CMDMEM_SLAB_KB=1024, 16 chunks per slab, spare 4, keep 1, idle 5000 ms)
+nvk: command-pool chunk recycler off (NVK_CMDMEM_RECYCLE=0, NVK_CMDMEM_LIVE_MAX=512)
+[mvk-info] GPU device:
+	model: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+	type: Discrete
+	vendorID: 0x10de
+	deviceID: 0x1f03
+	pipelineCacheUUID: DB660224-0F08-0200-0000-000100000000
+	GPU memory available: 8724 MB
+	GPU memory used: 32 MB
+	Metal Shading Language 3.2
+	supports the following GPU Features:
+		GPU Family Metal 3
+		GPU Family Mac 1
+		GPU Family Mac 2
+		Read-Write Texture Tier 2
+[mvk-info] Created VkInstance for Vulkan version 1.3.357, as requested by app, with the following 3 Vulkan extensions enabled:
+	VK_KHR_surface v25
+	VK_EXT_debug_utils v2
+	VK_EXT_metal_surface v1
+2026-11-18 13:35:53.674 I ui         t00259 Vulkan instance API version 1.4.363. Enabled layers and extensions:
+2026-11-18 13:35:53.674 D ui         t00259 * VK_KHR_surface
+2026-11-18 13:35:53.674 D ui         t00259 * VK_EXT_debug_utils
+2026-11-18 13:35:53.674 D ui         t00259 * VK_EXT_metal_surface
+2026-11-18 13:35:53.674 D ui         t00259 * VK_KHR_portability_enumeration
+2026-11-18 13:35:53.674 W ui         t00259 Available Vulkan physical devices (set Config::gpu.vulkan_device to force a device):
+2026-11-18 13:35:53.674 W ui         t00259 * 0: NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))
+2026-11-18 13:35:53.675 I ui         t00259 Vulkan device 'NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))': API 1.3.357, vendor 0x10DE, device 0x1F03, driver version 0x28A2
+2026-11-18 13:35:53.675 D ui         t00259 Enabled Vulkan device extensions:
+2026-11-18 13:35:53.675 D ui         t00259 * VK_KHR_portability_subset
+2026-11-18 13:35:53.675 D ui         t00259 * VK_KHR_swapchain
+2026-11-18 13:35:53.675 D ui         t00259 * VK_EXT_memory_budget
+2026-11-18 13:35:53.675 D ui         t00259 * VK_EXT_robustness2
+2026-11-18 13:35:53.675 D ui         t00259 * VK_EXT_shader_stencil_export
+2026-11-18 13:35:53.675 D ui         t00259 Vulkan device properties and enabled features:
+2026-11-18 13:35:53.675 D ui         t00259 * driverID: Moltenvk
+2026-11-18 13:35:53.675 D ui         t00259 * driverName: MoltenVK                                                                                                                                                                                                                                                       
+2026-11-18 13:35:53.675 D ui         t00259 * driverInfo: 1.4.2                               ]Òi(    ÎG±˜  zç4(                                   [ «©  ˛h	¯    ∆                          †      ∏ﬂ≠Q¯  †ÍG±˜  ÕÔ¯                                              ¿Õ…«©   ™¶   `¡…«©         `¡…
+2026-11-18 13:35:53.675 D ui         t00259 * conformanceVersion: 1.4.4.0
+2026-11-18 13:35:53.675 D ui         t00259 * maxImageDimension2D: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * maxImageDimension3D: 2048
+2026-11-18 13:35:53.675 D ui         t00259 * maxImageDimensionCube: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * maxImageArrayLayers: 2048
+2026-11-18 13:35:53.675 D ui         t00259 * maxStorageBufferRange: 4294967295
+2026-11-18 13:35:53.675 D ui         t00259 * maxSamplerAllocationCount: 1000000
+2026-11-18 13:35:53.675 D ui         t00259 * maxPerStageDescriptorSamplers: 16
+2026-11-18 13:35:53.675 D ui         t00259 * maxPerStageDescriptorStorageBuffers: 31
+2026-11-18 13:35:53.675 D ui         t00259 * maxPerStageDescriptorSampledImages: 128
+2026-11-18 13:35:53.675 D ui         t00259 * maxPerStageResources: 159
+2026-11-18 13:35:53.675 D ui         t00259 * maxVertexOutputComponents: 124
+2026-11-18 13:35:53.675 D ui         t00259 * maxTessellationEvaluationOutputComponents: 124
+2026-11-18 13:35:53.675 D ui         t00259 * maxGeometryInputComponents: 0
+2026-11-18 13:35:53.675 D ui         t00259 * maxGeometryOutputComponents: 0
+2026-11-18 13:35:53.675 D ui         t00259 * maxFragmentInputComponents: 124
+2026-11-18 13:35:53.675 D ui         t00259 * maxFragmentCombinedOutputResources: 159
+2026-11-18 13:35:53.675 D ui         t00259 * maxSamplerAnisotropy: 16
+2026-11-18 13:35:53.675 D ui         t00259 * maxViewportDimensions[0]: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * maxViewportDimensions[1]: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * minUniformBufferOffsetAlignment: 256
+2026-11-18 13:35:53.675 D ui         t00259 * minStorageBufferOffsetAlignment: 16
+2026-11-18 13:35:53.675 D ui         t00259 * maxFramebufferWidth: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * maxFramebufferHeight: 16384
+2026-11-18 13:35:53.675 D ui         t00259 * framebufferColorSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * framebufferDepthSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * framebufferStencilSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * framebufferNoAttachmentsSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * sampledImageColorSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * sampledImageIntegerSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * sampledImageDepthSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * sampledImageStencilSampleCounts: { 1 | 2 | 4 | 8 }
+2026-11-18 13:35:53.675 D ui         t00259 * standardSampleLocations: 1
+2026-11-18 13:35:53.675 D ui         t00259 * optimalBufferCopyOffsetAlignment: 256
+2026-11-18 13:35:53.675 D ui         t00259 * optimalBufferCopyRowPitchAlignment: 1
+2026-11-18 13:35:53.675 D ui         t00259 * nonCoherentAtomSize: 256
+2026-11-18 13:35:53.675 D ui         t00259 * robustBufferAccess
+2026-11-18 13:35:53.675 D ui         t00259 * fullDrawIndexUint32
+2026-11-18 13:35:53.675 D ui         t00259 * independentBlend
+2026-11-18 13:35:53.675 D ui         t00259 * tessellationShader
+2026-11-18 13:35:53.675 D ui         t00259 * sampleRateShading
+2026-11-18 13:35:53.675 D ui         t00259 * depthClamp
+2026-11-18 13:35:53.675 D ui         t00259 * fillModeNonSolid
+2026-11-18 13:35:53.675 D ui         t00259 * samplerAnisotropy
+2026-11-18 13:35:53.675 D ui         t00259 * occlusionQueryPrecise
+2026-11-18 13:35:53.675 D ui         t00259 * vertexPipelineStoresAndAtomics
+2026-11-18 13:35:53.675 D ui         t00259 * fragmentStoresAndAtomics
+2026-11-18 13:35:53.675 D ui         t00259 * shaderClipDistance
+2026-11-18 13:35:53.675 D ui         t00259 * samplerMirrorClampToEdge
+2026-11-18 13:35:53.675 D ui         t00259 * uniformBufferStandardLayout
+2026-11-18 13:35:53.675 D ui         t00259 * scalarBlockLayout
+2026-11-18 13:35:53.675 D ui         t00259 * shaderDemoteToHelperInvocation
+2026-11-18 13:35:53.675 D ui         t00259 * dynamicRendering
+2026-11-18 13:35:53.675 D ui         t00259 * constantAlphaColorBlendFactors
+2026-11-18 13:35:53.675 D ui         t00259 * imageViewFormatReinterpretation
+2026-11-18 13:35:53.675 D ui         t00259 * imageViewFormatSwizzle
+2026-11-18 13:35:53.675 D ui         t00259 * separateStencilMaskRef
+2026-11-18 13:35:53.675 D ui         t00259 * shaderSignedZeroInfNanPreserveFloat32: 1
+2026-11-18 13:35:53.675 D ui         t00259 * shaderDenormFlushToZeroFloat32: 0
+2026-11-18 13:35:53.675 D ui         t00259 * shaderRoundingModeRTEFloat32: 1
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message): vkCreateDevice layer callstack setup to: (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Application> (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Loader> (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):      || (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):    <Device> (object 0: Instance 0x7fa9ca82d800)
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: Loader Message):        Using "NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A))" with driver: "/Users/matiastorres/Downloads/Orbita-PC/rexglue/out/mac-amd64/vulkan/lib/libMoltenVK.dylib" (object 0: Instance 0x7fa9ca82d800)
+[mvk-info] Vulkan semaphores using Metal implicit guarantees within a single queue.
+2026-11-18 13:35:53.675 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Vulkan semaphores using Metal implicit guarantees within a single queue. (object 0: Device 0x7fa9c9067858)
+[mvk-warn] VK_ERROR_FEATURE_NOT_PRESENT: Non-Apple GPUs do not fully support robustness.
+2026-11-18 13:35:53.675 W gpu        t00259 Vulkan Warning ({ Validation }, ID 0: mvk-warn): VK_ERROR_FEATURE_NOT_PRESENT: Non-Apple GPUs do not fully support robustness. (object 0: Device 0x7fa9c9067858)
+[mvk-info] Descriptor sets binding resources using discrete resource indexes.
+2026-11-18 13:35:53.676 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Descriptor sets binding resources using discrete resource indexes. (object 0: Device 0x7fa9c9067858)
+[mvk-info] Created VkDevice to run on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with the following 5 Vulkan extensions enabled:
+	VK_KHR_portability_subset v1
+	VK_KHR_swapchain v70
+	VK_EXT_memory_budget v1
+	VK_EXT_robustness2 v1
+	VK_EXT_shader_stencil_export v1
+2026-11-18 13:35:53.717 I gpu        t00259 Vulkan Info ({ General }, ID 0: mvk-info): Created VkDevice to run on GPU NVIDIA GeForce RTX 2060 (NVMTL over NVIDIA GeForce RTX 2060 (NVK TU106-A)) with the following 5 Vulkan extensions enabled:
+	VK_KHR_portability_subset v1
+	VK_KHR_swapchain v70
+	VK_EXT_memory_budget v1
+	VK_EXT_robustness2 v1
+	VK_EXT_shader_stencil_export v1 (object 0: Device 0x7fa9c9067858)
+2026-11-18 13:35:53.719 I system     t00259 Guest memory mapped at virtual base 0x000000012D93D000, physical base 0x000000022D93D000
+2026-11-18 13:35:53.723 D filesystem t00259 mounted '/Users/matiastorres/Downloads/Orbita-PC/orbita-1.1.0-XEX/orbita' at '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.723 D filesystem t00259 linked 'game:' to '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.723 D filesystem t00259 linked 'd:' to '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.723 D filesystem t00259 mounted '' at '\Device\Harddisk0'
+2026-11-18 13:35:53.723 D system     t00259 Initializing function table at 83500000, size 007908D0 for code 82290000-82648468 (+00010000 thunk reserve)
+2026-11-18 13:35:53.727 D cpu        t00259 Function table initialized for module: code=82290000-82648468, image=82000000-83500000
+2026-11-18 13:35:53.729 D system     t00259 Registered 9431 recompiled functions (0 duplicates, 0 rejected)
+2026-11-18 13:35:53.729 D system     t00259 Runtime setup complete (code 82290000 to 82648468, image 82000000 to 83500000)
+2026-11-18 13:35:53.729 D system     t00259 Codegen config skip_lr=false skip_msr=false ctr=false xer=false cr=false reserved=false non_argument=false non_volatile=false
+2026-11-18 13:35:53.729 D system     t00259 Loading XEX image game:\default.xex
+2026-11-18 13:35:53.747 W system     t00259 XEX decoded with a non retail key (1)
+2026-11-18 13:35:53.747 D filesystem t00259 '\Device\Harddisk0\Partition1\default.xexp' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x282 (XamGetSystemVersion) -> 0x82647dc4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x3 (NetDll_socket) -> 0x82647dd4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x8 (NetDll_getsockopt) -> 0x82647e14
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x9 (NetDll_getsockname) -> 0x82647e24
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0xc (NetDll_connect) -> 0x82647e44
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0xf (NetDll_select) -> 0x82647e74
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x12 (NetDll_recv) -> 0x82647e84
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x16 (NetDll_send) -> 0x82647ea4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x18 (NetDll_sendto) -> 0x82647eb4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x33 (NetDll_XNetStartup) -> 0x82647f24
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x1a4 (XamLoaderLaunchTitle) -> 0x826478c4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x19 (NetDll_WSASendTo) -> 0x82647ec4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0xd (NetDll_listen) -> 0x82647e54
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x191 (XamInputGetState) -> 0x826478b4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x7 (NetDll_setsockopt) -> 0x82647e04
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x30f (XamVoiceClose) -> 0x82648014
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x3d1 (XGetVideoMode) -> 0x826478a4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x28a (XamNotifyCreateListener) -> 0x82647fb4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x44 (NetDll_XNetDnsRelease) -> 0x82647f44
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x2c1 (XamShowKeyboardUI) -> 0x826478d4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x1a (NetDll_inet_addr) -> 0x82647ed4
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x49 (NetDll_XNetGetTitleXnAddr) -> 0x82647f54
+2026-11-18 13:35:53.760 D system     t00259 Patched function import xam:0x48e (XamVoiceGetMicArrayUnderrunStatus) -> 0x826480b4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x3cc (XGetGameRegion) -> 0x826476e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x4f (NetDll_XNetSetOpt) -> 0x82647f84
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x4 (NetDll_closesocket) -> 0x82647de4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x30c (XamVoiceCreate) -> 0x82648044
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x490 (XamVoiceGetMicArrayAudioEx) -> 0x826480a4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x4b (NetDll_XNetGetEthernetLinkStatus) -> 0x82647f64
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1cf (XamGetCurrentTitleId) -> 0x82648064
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x28b (XNotifyGetNext) -> 0x82647fa4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x208 (XamUserGetDeviceContext) -> 0x82647fc4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x25a (XamContentClose) -> 0x82648074
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x14 (NetDll_recvfrom) -> 0x82647e94
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x43 (NetDll_XNetDnsLookup) -> 0x82647f34
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x219 (XamUserReadProfileSettings) -> 0x82647fe4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x271 (XamContentCreateInternal) -> 0x82648084
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x210 (XamUserGetSigninState) -> 0x82647ff4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1d (NetDll_WSACreateEvent) -> 0x82647ef4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x30d (XamVoiceHeadsetPresent) -> 0x82648004
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x8dd (XamNuiGetDeviceSerialNumber) -> 0x82648094
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x212 (XamUserCheckPrivilege) -> 0x82647fd4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x4e (NetDll_XNetGetOpt) -> 0x82647f74
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1 (NetDll_WSAStartup) -> 0x82647db4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x3cb (XGetAVPack) -> 0x826476c4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1e (NetDll_WSACloseEvent) -> 0x82647f04
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x6 (NetDll_ioctlsocket) -> 0x82647df4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x30e (XamVoiceSubmitPacket) -> 0x82648034
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x22 (NetDll___WSAFDIsSet) -> 0x82647f14
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1f8 (XMsgCancelIORequest) -> 0x82648024
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0xe (NetDll_accept) -> 0x82647e64
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x213 (XamUserAreUsersFriends) -> 0x82648054
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1a9 (XamLoaderTerminateTitle) -> 0x826476d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0xb (NetDll_bind) -> 0x82647e34
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x497 (XamVoiceIsActiveProcess) -> 0x82647f94
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x1b (NetDll_WSAGetLastError) -> 0x82647ee4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xam:0x2dc (XamShowMessageBoxUIEx) -> 0x826476b4
+2026-11-18 13:35:53.761 D system     t00259 created symbols for import library xam with 57 imports
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x266 (KeCertMonitorData) -> 0x30005000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1be (VdGlobalDevice) -> 0xffcae000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1bf (VdGlobalXamDevice) -> 0xffcad000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1c0 (VdGpuClockInMHz) -> 0xffcac000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1c1 (VdHSIOCalibrationLock) -> 0xffcab000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x158 (XboxKrnlVersion) -> 0x3000b000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0xad (KeTimeStampBundle) -> 0x3000c000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x156 (XboxHardwareInfo) -> 0x30006000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x193 (XexExecutableModuleHandle) -> 0x30008000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1ae (ExLoadedCommandLine) -> 0x3000a000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x59 (KeDebugMonitorData) -> 0x30004000
+2026-11-18 13:35:53.761 D system     t00259 Patched variable import xboxkrnl:0x1b (ExThreadObjectType) -> 0x30002000
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xdb (NtFlushBuffersFile) -> 0x826482e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x12d (RtlInitUnicodeString) -> 0x826482d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x127 (RtlFreeAnsiString) -> 0x826482b4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xd7 (NtCreateTimer) -> 0x826482a4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xcd (NtCancelTimer) -> 0x82648284
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x199 (XexLoadImage) -> 0x82648274
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x5d (KeEnableFpuExceptions) -> 0x82648254
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x147 (RtlUnwind) -> 0x82648244
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x153 (KeTlsFree) -> 0x82648224
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x322 (XAudioCaptureRenderDriverFrame) -> 0x826481e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x335 (EtxProducerUnregister) -> 0x826481d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x332 (EtxProducerLog) -> 0x826481c4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x334 (EtxProducerRegister) -> 0x826481b4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x357 (XAudioGetDuckerHoldTime) -> 0x82648194
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x355 (XAudioGetDuckerReleaseTime) -> 0x82648174
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x12f (RtlInitializeCriticalSectionAndSpinCount) -> 0x82648234
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1f4 (XAudioUnregisterRenderDriverClient) -> 0x82648124
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xaf (KeWaitForMultipleObjects) -> 0x82648104
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x226 (XMAReleaseContext) -> 0x826480f4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xc2 (MmMapIoSpace) -> 0x826480d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x133 (RtlMultiByteToUnicodeN) -> 0x826482f4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1f8 (XAudioGetVoiceCategoryVolume) -> 0x826480c4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x89 (KeReleaseSpinLockFromRaisedIrql) -> 0x82647b64
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xcf (NtClose) -> 0x826476f4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x194 (XexCheckExecutablePrivilege) -> 0x82647724
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x3 (DbgPrint) -> 0x82647734
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x99 (KeSetBasePriorityThread) -> 0x82647764
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x81 (KeQueryBasePriorityThread) -> 0x82647784
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x97 (KeSetAffinityThread) -> 0x826477a4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x125 (RtlEnterCriticalSection) -> 0x826477c4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xce (NtClearEvent) -> 0x82647a34
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x28 (HalReturnToFirmware) -> 0x826477e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x126 (RtlFillMemoryUlong) -> 0x82647804
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x12b (RtlImageXexHeaderField) -> 0x826477d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x66 (KeGetCurrentProcessType) -> 0x82647824
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xee (NtQueryVirtualMemory) -> 0x82647864
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x135 (RtlNtStatusToDosError) -> 0x82647884
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x18a (XeCryptRandom) -> 0x826478e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xbf (MmIsAddressValid) -> 0x826478f4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x195 (XexGetModuleHandle) -> 0x82647914
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x141 (RtlTryEnterCriticalSection) -> 0x82647924
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x5a (KeDelayExecutionThread) -> 0x82647974
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x269 (VdRetrainEDRAM) -> 0x82647d04
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xdf (NtOpenFile) -> 0x82647994
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x12c (RtlInitAnsiString) -> 0x826479a4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x321 (XAudioUnregisterRenderDriverMECClient) -> 0x82648204
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xd (ExCreateThread) -> 0x82647ad4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x197 (XexGetProcedureAddress) -> 0x82647904
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xd2 (NtCreateFile) -> 0x826479b4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1ba (VdGetCurrentDisplayInformation) -> 0x82647c34
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xf5 (NtResumeThread) -> 0x826479d4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xe7 (NtQueryFullAttributesFile) -> 0x826479e4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x11b (RtlCompareMemoryUlong) -> 0x82647844
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xba (MmAllocatePhysicalMemoryEx) -> 0x82647a14
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xbd (MmFreePhysicalMemory) -> 0x82647a24
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x136 (RtlRaiseException) -> 0x82647874
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x10 (ExGetXConfigSetting) -> 0x82647714
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xd5 (NtCreateSemaphore) -> 0x82647a44
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x8f (KeResetEvent) -> 0x82647d34
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x154 (KeTlsGetValue) -> 0x82647954
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xf3 (NtReleaseSemaphore) -> 0x82647a54
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xf6 (NtSetEvent) -> 0x82647a74
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xe8 (NtQueryInformationFile) -> 0x82647a84
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x83 (KeQueryPerformanceFrequency) -> 0x82647964
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xe4 (NtQueryDirectoryFile) -> 0x82647a94
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x152 (KeTlsAlloc) -> 0x82647934
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1b6 (VdEnableRingBufferRPtrWriteBack) -> 0x82647ba4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xf1 (NtReadFileScatter) -> 0x82647aa4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x6f (KeInitializeDpc) -> 0x82647d94
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1f3 (XAudioRegisterRenderDriverClient) -> 0x82648134
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x12e (RtlInitializeCriticalSection) -> 0x82647854
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x6c (KeUnlockL2) -> 0x82647d84
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0xcc (NtAllocateVirtualMemory) -> 0x826477f4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x1f5 (XAudioSubmitRenderDriverFrame) -> 0x82648114
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x130 (RtlLeaveCriticalSection) -> 0x826477b4
+2026-11-18 13:35:53.761 D system     t00259 Patched function import xboxkrnl:0x6b (KeLockL2) -> 0x82647d74
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x5f (KeEnterCriticalRegion) -> 0x82647d24
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xff (NtWriteFile) -> 0x82647a04
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xfc (NtSuspendThread) -> 0x82647794
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1a5 (__C_specific_handler) -> 0x82647744
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x26a (VdRetrainEDRAMWorker) -> 0x82647d14
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x353 (XAudioGetDuckerAttackTime) -> 0x82648184
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x104 (ObDeleteSymbolicLink) -> 0x82647d54
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c9 (VdQueryVideoFlags) -> 0x82647cd4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xf7 (NtSetInformationFile) -> 0x82647984
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1b9 (VdGetCurrentDisplayGamma) -> 0x82647cb4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x142 (RtlUnicodeStringToAnsiString) -> 0x826482c4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x7d (KeLeaveCriticalRegion) -> 0x82647cf4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x350 (XAudioGetDuckerLevel) -> 0x82648154
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c6 (VdIsHSIOTrainingSucceeded) -> 0x82647ca4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x34c (XAudioGetRenderDriverTic) -> 0x826481f4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xfd (NtWaitForSingleObjectEx) -> 0x82647894
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c2 (VdInitializeEngines) -> 0x82647c94
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x110 (ObReferenceObjectByHandle) -> 0x82647774
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1d5 (VdSetGraphicsInterruptCallback) -> 0x82647c84
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x84 (KeQuerySystemTime) -> 0x826479c4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x52 (KeBugCheck) -> 0x82647be4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1dc (VdShutdownEngines) -> 0x82647c74
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xb1 (KfAcquireSpinLock) -> 0x82647b14
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1d4 (VdSetDisplayModeOverride) -> 0x82647c64
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xb0 (KeWaitForSingleObject) -> 0x82647d44
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1d3 (VdSetDisplayMode) -> 0x82647c44
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1b4 (VdEnableDisableClockGating) -> 0x82647cc4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xef (NtQueryVolumeInformationFile) -> 0x826479f4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1b1 (VdCallGraphicsNotificationRoutines) -> 0x82647c24
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x320 (XAudioRegisterRenderDriverMECClient) -> 0x82648214
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xd1 (NtCreateEvent) -> 0x82647704
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x25b (VdSwap) -> 0x82647b44
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xda (NtDuplicateObject) -> 0x82647ac4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x15 (ExRegisterTitleTerminateNotification) -> 0x82647c14
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xf0 (NtReadFile) -> 0x82647ab4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xbe (MmGetPhysicalAddress) -> 0x82647bc4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x34d (XAudioEnableDucker) -> 0x82648164
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xfe (NtWaitForMultipleObjectsEx) -> 0x82647a64
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c3 (VdInitializeRingBuffer) -> 0x82647bb4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x155 (KeTlsSetValue) -> 0x82647944
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x14d (_vsnprintf) -> 0x82647bf4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x103 (ObCreateSymbolicLink) -> 0x82647d64
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c5 (VdInitializeScalerCommandBuffer) -> 0x82647ce4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x4d (KeAcquireSpinLockAtRaisedIrql) -> 0x82647b74
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x13b (sprintf) -> 0x82647c04
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1a1 (XexUnloadImage) -> 0x82648264
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xdc (NtFreeVirtualMemory) -> 0x82647834
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x7b (KeInsertQueueDpc) -> 0x82647b84
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x224 (XMACreateContext) -> 0x826480e4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x9a (KeSetCurrentProcessType) -> 0x82647da4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1bd (VdGetSystemCommandBuffer) -> 0x82647b54
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1d9 (VdSetSystemCommandBufferGpuIdentifierAddress) -> 0x82647bd4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1ff (XAudioGetSpeakerConfig) -> 0x82648144
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x13a (_snprintf) -> 0x82647b24
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x351 (XAudioGetDuckerThreshold) -> 0x826481a4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1c7 (VdPersistDisplay) -> 0x82647b34
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1df (KiApcNormalRoutineNop) -> 0x82647b94
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x9d (KeSetEvent) -> 0x82647b04
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x53 (KeBugCheckEx) -> 0x82647814
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xb4 (KfReleaseSpinLock) -> 0x82647af4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0xfa (NtSetTimerEx) -> 0x82648294
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x19 (ExTerminateThread) -> 0x82647ae4
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x105 (ObDereferenceObject) -> 0x82647754
+2026-11-18 13:35:53.762 D system     t00259 Patched function import xboxkrnl:0x1ca (VdQueryVideoMode) -> 0x82647c54
+2026-11-18 13:35:53.762 D system     t00259 created symbols for import library xboxkrnl with 152 imports
+2026-11-18 13:35:53.763 D system     t00259 Achievement manager: loaded 0 entries
+2026-11-18 13:35:53.763 D system     t00259   XEX image loaded successfully
+[mvk-info] Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9c6fa55b0) on screen Main Screen.
+2026-11-18 13:35:53.823 I gpu        t103683 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9c6fa55b0) on screen Main Screen. (object 0: SwapchainKHR 0x7fa9c907d210)
+2026-11-18 13:35:53.823 I ui         t103683 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+2026-11-18 13:35:53.831 I gpu        t111363 Vulkan sparse binding is not used for shared memory emulation. Video memory usage may increase significantly because a full 512 MB buffer will be created
+2026-11-18 13:35:53.831 D system     t00259 GPU initialized
+2026-11-18 13:35:53.831 D system     t00259 Runtime initialized successfully
+2026-11-18 13:35:53.831 D system     t00259 Runtime: Preparing module launch...
+2026-11-18 13:35:53.832 D system     t00259   Module prepared on thread 'Main XThread (00000000)'
+2026-11-18 13:35:53.832 D filesystem t106499 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.832 W kernel     t106499 NtCreateFile failed path='game:\XC360' -> 0xc0000022
+2026-11-18 13:35:53.832 D filesystem t106499 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.832 W kernel     t106499 NtCreateFile failed path='game:\XC360\LOG1.TXT' -> 0xc000003a
+2026-11-18 13:35:53.832 D filesystem t106499 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.832 W kernel     t106499 NtCreateFile failed path='game:\XC360\LOG.TXT' -> 0xc000003a
+2026-11-18 13:35:53.833 D filesystem t106499 'game:\XC360' is not on mount '\Device\Harddisk0\Partition1'
+2026-11-18 13:35:53.833 W kernel     t106499 NtCreateFile failed path='game:\XC360\LOG.TXT' -> 0xc000003a
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) [boot] 1 xenos+console ok
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) 
+
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) [boot] 2 speed ok
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) 
+
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) [boot] 3 threads ok
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) 
+
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) [boot] 4 usb_init ok
+2026-11-18 13:35:53.833 D cpu        t106499 (service trap) 
+
+2026-11-18 13:35:53.840 W gpu        t111363 Vulkan geometryShader is not supported by the device. Primitive fallback conversion/expansion paths will be used
+[mvk-info] Converting SPIR-V:
+; SPIR-V
+; Version: 1.0
+; Generator: Khronos Glslang Reference Front End; 11
+; Bound: 25204
+; Schema: 0
+               OpCapability Shader
+          %1 = OpExtInstImport "GLSL.std.450"
+               OpMemoryModel Logical GLSL450
+               OpEntryPoint GLCompute %5663 "main" %3912
+               OpExecutionMode %5663 LocalSize 8 8 1
+               OpDecorate %1036 Block
+               OpMemberDecorate %1036 0 Offset 0
+               OpMemberDecorate %1036 1 Offset 4
+               OpMemberDecorate %1036 2 Offset 8
+               OpMemberDecorate %1036 3 Offset 12
+               OpMemberDecorate %1036 4 Offset 16
+               OpDecorate %3912 BuiltIn GlobalInvocationId
+               OpDecorate %2012 ArrayStride 16
+               OpDecorate %1972 BufferBlock
+               OpMemberDecorate %1972 0 NonWritable
+               OpMemberDecorate %1972 0 Offset 0
+               OpDecorate %3271 NonWritable
+               OpDecorate %3271 Binding 0
+               OpDecorate %3271 DescriptorSet 0
+               OpDecorate %2013 ArrayStride 16
+               OpDecorate %1973 BufferBlock
+               OpMemberDecorate %1973 0 NonReadable
+               OpMemberDecorate %1973 0 Offset 0
+               OpDecorate %5522 NonReadable
+               OpDecorate %5522 Binding 0
+               OpDecorate %5522 DescriptorSet 1
+               OpDecorate %2759 BuiltIn WorkgroupSize
+          %8 = OpTypeVoid
+       %1282 = OpTypeFunction %8
+         %11 = OpTypeInt 32 0
+         %17 = OpTypeVector %11 2
+         %23 = OpTypeVector %11 4
+          %9 = OpTypeBool
+         %12 = OpTypeInt 32 1
+         %18 = OpTypeVector %12 2
+         %22 = OpTypeVector %12 3
+       %2573 = OpConstant %11 1
+       %2576 = OpConstant %11 2
+       %2214 = OpConstant %11 16711935
+       %2594 = OpConstant %11 8
+       %1533 = OpConstant %11 4278255360
+       %2579 = OpConstant %11 3
+       %2618 = OpConstant %11 16
+       %1837 = OpConstantComposite %17 %2576 %2573
+         %15 = OpTypeVector %9 2
+       %2570 = OpConstant %11 0
+       %1807 = OpConstantComposite %17 %2570 %2570
+       %1828 = OpConstantComposite %17 %2573 %2573
+       %1816 = OpConstantComposite %17 %2573 %2570
+       %2810 = OpConstant %11 80
+       %2719 = OpConstantComposite %17 %2810 %2618
+       %2586 = OpConstant %12 5
+       %2585 = OpConstant %11 5
+       %2591 = OpConstant %11 7
+       %2592 = OpConstant %12 7
+       %2613 = OpConstant %12 14
+       %2577 = OpConstant %12 2
+       %2523 = OpConstant %12 -16
+       %2574 = OpConstant %12 1
+       %2616 = OpConstant %12 15
+       %2583 = OpConstant %12 4
+       %1035 = OpConstant %12 -512
+       %2580 = OpConstant %12 3
+       %2619 = OpConstant %12 16
+        %904 = OpConstant %12 448
+       %2595 = OpConstant %12 8
+       %2589 = OpConstant %12 6
+       %2760 = OpConstant %12 63
+       %2582 = OpConstant %11 4
+       %1931 = OpConstant %12 268435455
+       %2565 = OpConstant %12 -2
+       %1036 = OpTypeStruct %11 %11 %11 %11 %11
+       %1672 = OpTypePointer PushConstant %1036
+       %3305 = OpVariable %1672 PushConstant
+       %2571 = OpConstant %12 0
+        %648 = OpTypePointer PushConstant %11
+       %2628 = OpConstant %11 1023
+       %2600 = OpConstant %11 10
+       %2814 = OpConstant %11 4096
+       %2609 = OpConstant %11 13
+       %2689 = OpConstant %11 2047
+       %2642 = OpConstant %11 24
+       %2615 = OpConstant %11 15
+       %2654 = OpConstant %11 28
+       %1855 = OpConstantComposite %17 %2570 %2582
+       %2342 = OpConstant %11 16777216
+       %2630 = OpConstant %11 20
+       %2275 = OpConstantComposite %17 %2630 %2642
+         %20 = OpTypeVector %11 3
+        %324 = OpConstant %11 255
+       %2900 = OpConstant %11 3222273024
+        %657 = OpTypePointer Input %20
+       %3912 = OpVariable %657 Input
+        %649 = OpTypePointer Input %11
+       %1834 = OpConstantComposite %17 %2579 %2570
+       %2012 = OpTypeRuntimeArray %23
+       %1972 = OpTypeStruct %2012
+       %2610 = OpTypePointer Uniform %1972
+       %3271 = OpVariable %2610 Uniform
+        %660 = OpTypePointer Uniform %23
+       %2013 = OpTypeRuntimeArray %23
+       %1973 = OpTypeStruct %2013
+       %2611 = OpTypePointer Uniform %1973
+       %5522 = OpVariable %2611 Uniform
+       %2759 = OpConstantComposite %20 %2594 %2594 %2573
+       %1954 = OpConstantComposite %17 %2615 %2573
+       %1870 = OpConstantComposite %17 %2579 %2579
+       %2122 = OpConstantComposite %17 %2615 %2615
+       %1838 = OpConstantComposite %23 %1533 %1533 %1533 %1533
+       %1611 = OpConstantComposite %23 %324 %324 %324 %324
+        %749 = OpConstantComposite %23 %2618 %2618 %2618 %2618
+       %2352 = OpConstantComposite %23 %2900 %2900 %2900 %2900
+        %929 = OpConstantComposite %23 %2628 %2628 %2628 %2628
+        %965 = OpConstantComposite %23 %2630 %2630 %2630 %2630
+       %2597 = OpConstant %11 9
+       %2510 = OpConstantComposite %23 %2214 %2214 %2214 %2214
+        %317 = OpConstantComposite %23 %2594 %2594 %2594 %2594
+       %2690 = OpConstant %11 40
+       %2691 = OpConstant %12 40
+       %2451 = OpConstant %12 -40
+        %388 = OpConstant %11 1280
+       %2158 = OpConstant %11 2621440
+       %1927 = OpConstantFalse %9
+       %5663 = OpFunction %8 None %1282
+      %15110 = OpLabel
+               OpSelectionMerge %19578 None
+               OpSwitch %2570 %11880
+      %11880 = OpLabel
+      %22245 = OpAccessChain %648 %3305 %2571
+      %15627 = OpLoad %11 %22245
+      %22700 = OpAccessChain %648 %3305 %2574
+      %20824 = OpLoad %11 %22700
+      %20561 = OpBitwiseAnd %11 %15627 %2628
+      %20073 = OpShiftRightLogical %11 %15627 %2600
+       %7177 = OpBitwiseAnd %11 %20073 %2579
+      %23023 = OpBitwiseAnd %11 %15627 %2814
+      %20495 = OpINotEqual %9 %23023 %2570
+      %10307 = OpShiftRightLogical %11 %15627 %2609
+      %24434 = OpBitwiseAnd %11 %10307 %2689
+      %18836 = OpShiftRightLogical %11 %15627 %2642
+       %9130 = OpBitwiseAnd %11 %18836 %2615
+       %8871 = OpCompositeConstruct %17 %20824 %20824
+       %9576 = OpShiftRightLogical %17 %8871 %1855
+      %23379 = OpBitwiseAnd %17 %9576 %1954
+      %16207 = OpShiftLeftLogical %17 %23379 %1870
+      %23019 = OpIMul %17 %16207 %1828
+      %12819 = OpShiftRightLogical %11 %20824 %2585
+      %16204 = OpBitwiseAnd %11 %12819 %2689
+      %18732 = OpAccessChain %648 %3305 %2577
+      %24236 = OpLoad %11 %18732
+      %22701 = OpAccessChain %648 %3305 %2580
+      %20919 = OpLoad %11 %22701
+      %19164 = OpBitwiseAnd %11 %24236 %2591
+      %21999 = OpBitwiseAnd %11 %24236 %2594
+      %20496 = OpINotEqual %9 %21999 %2570
+      %10402 = OpShiftRightLogical %11 %24236 %2582
+      %23037 = OpBitwiseAnd %11 %10402 %2591
+      %23118 = OpBitwiseAnd %11 %24236 %2342
+      %19573 = OpINotEqual %9 %23118 %2570
+       %8003 = OpBitwiseAnd %11 %20919 %2628
+      %15783 = OpShiftLeftLogical %11 %8003 %2585
+      %22591 = OpShiftRightLogical %11 %20919 %2600
+      %19390 = OpBitwiseAnd %11 %22591 %2628
+      %25203 = OpShiftLeftLogical %11 %19390 %2585
+      %10422 = OpCompositeConstruct %17 %20919 %20919
+      %10385 = OpShiftRightLogical %17 %10422 %2275
+      %23380 = OpBitwiseAnd %17 %10385 %2122
+      %16208 = OpShiftLeftLogical %17 %23380 %1870
+      %23020 = OpIMul %17 %16208 %1828
+      %12820 = OpShiftRightLogical %11 %20919 %2654
+      %16205 = OpBitwiseAnd %11 %12820 %2591
+      %18733 = OpAccessChain %648 %3305 %2583
+      %24237 = OpLoad %11 %18733
+      %22225 = OpAccessChain %649 %3912 %2570
+       %7085 = OpLoad %11 %22225
+       %7405 = OpUGreaterThanEqual %9 %7085 %16204
+               OpSelectionMerge %17447 DontFlatten
+               OpBranchConditional %7405 %21992 %17447
+      %21992 = OpLabel
+               OpBranch %19578
+      %17447 = OpLabel
+      %14637 = OpLoad %20 %3912
+      %18505 = OpVectorShuffle %17 %14637 %14637 0 1
+       %9840 = OpShiftLeftLogical %17 %18505 %1834
+      %24498 = OpCompositeExtract %11 %9840 0
+       %7150 = OpCompositeExtract %11 %9840 1
+      %24446 = OpExtInst %11 %1 UMax %7150 %2570
+      %20975 = OpCompositeConstruct %17 %24498 %24446
+      %21036 = OpIAdd %17 %20975 %23019
+      %16075 = OpULessThanEqual %9 %16205 %2579
+               OpSelectionMerge %23776 None
+               OpBranchConditional %16075 %10990 %15087
+      %15087 = OpLabel
+      %13566 = OpIEqual %9 %16205 %2585
+       %8438 = OpSelect %11 %13566 %2576 %2570
+               OpBranch %23776
+      %10990 = OpLabel
+               OpBranch %23776
+      %23776 = OpLabel
+      %19300 = OpPhi %11 %16205 %10990 %8438 %15087
+      %16830 = OpCompositeConstruct %17 %7177 %7177
+      %11801 = OpUGreaterThanEqual %15 %16830 %1837
+      %19381 = OpSelect %17 %11801 %1828 %1807
+      %10986 = OpShiftLeftLogical %17 %21036 %19381
+      %24669 = OpCompositeConstruct %17 %19300 %19300
+       %9093 = OpShiftRightLogical %17 %24669 %1816
+      %16110 = OpBitwiseAnd %17 %9093 %1828
+      %17779 = OpIAdd %17 %10986 %16110
+      %24270 = OpUDiv %17 %17779 %2719
+      %12360 = OpCompositeExtract %11 %24270 1
+      %11046 = OpIMul %11 %12360 %20561
+      %24665 = OpCompositeExtract %11 %24270 0
+      %21536 = OpIAdd %11 %11046 %24665
+       %8742 = OpIAdd %11 %24434 %21536
+       %6459 = OpIMul %17 %24270 %2719
+      %14279 = OpISub %17 %17779 %6459
+               OpSelectionMerge %19725 None
+               OpBranchConditional %20495 %10558 %19725
+      %10558 = OpLabel
+      %11791 = OpCompositeExtract %11 %14279 0
+      %24981 = OpBitcast %12 %11791
+       %7841 = OpUGreaterThanEqual %9 %11791 %2690
+      %22568 = OpSelect %12 %7841 %2451 %2691
+      %11768 = OpIAdd %12 %24981 %22568
+       %8071 = OpBitcast %11 %11768
+      %21574 = OpCompositeInsert %17 %8071 %14279 0
+               OpBranch %19725
+      %19725 = OpLabel
+       %8537 = OpPhi %17 %14279 %23776 %21574 %10558
+       %6671 = OpIMul %11 %8742 %388
+      %13892 = OpCompositeExtract %11 %8537 1
+      %15890 = OpIMul %11 %13892 %2810
+      %24666 = OpCompositeExtract %11 %8537 0
+      %21631 = OpIAdd %11 %15890 %24666
+       %9094 = OpIAdd %11 %6671 %21631
+       %8177 = OpUMod %11 %9094 %2158
+      %18580 = OpShiftRightLogical %11 %8177 %2576
+      %17174 = OpAccessChain %660 %3271 %2571 %18580
+      %12609 = OpLoad %23 %17174
+      %11687 = OpIAdd %11 %18580 %2573
+       %7197 = OpAccessChain %660 %3271 %2571 %11687
+      %18360 = OpLoad %23 %7197
+      %15472 = OpIEqual %9 %24498 %2570
+      %15603 = OpSelect %9 %15472 %1927 %15472
+               OpSelectionMerge %21910 DontFlatten
+               OpBranchConditional %15603 %9760 %21910
+       %9760 = OpLabel
+      %20482 = OpCompositeExtract %11 %12609 1
+      %14335 = OpCompositeInsert %23 %20482 %12609 0
+               OpBranch %21910
+      %21910 = OpLabel
+      %10924 = OpPhi %23 %12609 %19725 %14335 %9760
+               OpSelectionMerge %21263 DontFlatten
+               OpBranchConditional %19573 %22395 %21263
+      %22395 = OpLabel
+               OpSelectionMerge %14836 None
+               OpSwitch %9130 %14836 0 %21920 1 %21920 2 %10391 3 %10391 10 %10391 12 %10391
+      %10391 = OpLabel
+      %15273 = OpBitwiseAnd %23 %10924 %2352
+      %23564 = OpBitwiseAnd %23 %10924 %929
+      %24837 = OpShiftLeftLogical %23 %23564 %965
+      %18005 = OpBitwiseOr %23 %15273 %24837
+      %23170 = OpShiftRightLogical %23 %10924 %965
+       %6442 = OpBitwiseAnd %23 %23170 %929
+      %15589 = OpBitwiseOr %23 %18005 %6442
+      %19519 = OpBitwiseAnd %23 %18360 %2352
+      %17946 = OpBitwiseAnd %23 %18360 %929
+      %24838 = OpShiftLeftLogical %23 %17946 %965
+      %18006 = OpBitwiseOr %23 %19519 %24838
+      %23171 = OpShiftRightLogical %23 %18360 %965
+       %7392 = OpBitwiseAnd %23 %23171 %929
+       %7870 = OpBitwiseOr %23 %18006 %7392
+               OpBranch %14836
+      %21920 = OpLabel
+      %20117 = OpBitwiseAnd %23 %10924 %1838
+      %23565 = OpBitwiseAnd %23 %10924 %1611
+      %24839 = OpShiftLeftLogical %23 %23565 %749
+      %18007 = OpBitwiseOr %23 %20117 %24839
+      %23172 = OpShiftRightLogical %23 %10924 %749
+       %6443 = OpBitwiseAnd %23 %23172 %1611
+      %15590 = OpBitwiseOr %23 %18007 %6443
+      %19520 = OpBitwiseAnd %23 %18360 %1838
+      %17947 = OpBitwiseAnd %23 %18360 %1611
+      %24840 = OpShiftLeftLogical %23 %17947 %749
+      %18008 = OpBitwiseOr %23 %19520 %24840
+      %23173 = OpShiftRightLogical %23 %18360 %749
+       %7393 = OpBitwiseAnd %23 %23173 %1611
+       %7871 = OpBitwiseOr %23 %18008 %7393
+               OpBranch %14836
+      %14836 = OpLabel
+      %11251 = OpPhi %23 %18360 %22395 %7871 %21920 %7870 %10391
+      %13709 = OpPhi %23 %10924 %22395 %15590 %21920 %15589 %10391
+               OpBranch %21263
+      %21263 = OpLabel
+       %8952 = OpPhi %23 %18360 %21910 %11251 %14836
+      %22009 = OpPhi %23 %10924 %21910 %13709 %14836
+       %7319 = OpIAdd %17 %9840 %23020
+               OpSelectionMerge %21237 DontFlatten
+               OpBranchConditional %20496 %10574 %21373
+      %21373 = OpLabel
+      %10608 = OpBitcast %18 %7319
+      %17090 = OpCompositeExtract %12 %10608 0
+       %9469 = OpShiftRightArithmetic %12 %17090 %2586
+      %10055 = OpCompositeExtract %12 %10608 1
+      %16476 = OpShiftRightArithmetic %12 %10055 %2586
+      %23373 = OpShiftRightLogical %11 %15783 %2585
+       %6314 = OpBitcast %12 %23373
+      %21319 = OpIMul %12 %16476 %6314
+      %16222 = OpIAdd %12 %9469 %21319
+      %19086 = OpShiftLeftLogical %12 %16222 %2597
+      %10934 = OpBitwiseAnd %12 %17090 %2592
+      %12600 = OpBitwiseAnd %12 %10055 %2613
+      %17741 = OpShiftLeftLogical %12 %12600 %2577
+      %17303 = OpIAdd %12 %10934 %17741
+       %6375 = OpShiftLeftLogical %12 %17303 %2576
+      %10161 = OpBitwiseAnd %12 %6375 %2523
+      %12150 = OpShiftLeftLogical %12 %10161 %2574
+      %15435 = OpIAdd %12 %19086 %12150
+      %13207 = OpBitwiseAnd %12 %6375 %2616
+      %19760 = OpIAdd %12 %15435 %13207
+      %18356 = OpBitwiseAnd %12 %10055 %2574
+      %21578 = OpShiftLeftLogical %12 %18356 %2583
+      %16727 = OpIAdd %12 %19760 %21578
+      %20514 = OpBitwiseAnd %12 %16727 %1035
+       %9238 = OpShiftLeftLogical %12 %20514 %2580
+      %18995 = OpBitwiseAnd %12 %10055 %2619
+      %12151 = OpShiftLeftLogical %12 %18995 %2592
+      %16728 = OpIAdd %12 %9238 %12151
+      %19165 = OpBitwiseAnd %12 %16727 %904
+      %21579 = OpShiftLeftLogical %12 %19165 %2577
+      %16708 = OpIAdd %12 %16728 %21579
+      %20611 = OpBitwiseAnd %12 %10055 %2595
+      %16831 = OpShiftRightArithmetic %12 %20611 %2577
+       %7916 = OpShiftRightArithmetic %12 %17090 %2580
+      %13750 = OpIAdd %12 %16831 %7916
+      %21587 = OpBitwiseAnd %12 %13750 %2580
+      %21580 = OpShiftLeftLogical %12 %21587 %2589
+      %15436 = OpIAdd %12 %16708 %21580
+      %11782 = OpBitwiseAnd %12 %16727 %2760
+      %14671 = OpIAdd %12 %15436 %11782
+      %22127 = OpBitcast %11 %14671
+               OpBranch %21237
+      %10574 = OpLabel
+      %19866 = OpCompositeExtract %11 %7319 0
+      %11267 = OpCompositeExtract %11 %7319 1
+       %8414 = OpCompositeConstruct %20 %19866 %11267 %23037
+      %20125 = OpBitcast %22 %8414
+      %10438 = OpCompositeExtract %12 %20125 1
+       %9470 = OpShiftRightArithmetic %12 %10438 %2583
+      %10056 = OpCompositeExtract %12 %20125 2
+      %16477 = OpShiftRightArithmetic %12 %10056 %2577
+      %23374 = OpShiftRightLogical %11 %25203 %2582
+       %6315 = OpBitcast %12 %23374
+      %21281 = OpIMul %12 %16477 %6315
+      %15143 = OpIAdd %12 %9470 %21281
+       %9032 = OpShiftRightLogical %11 %15783 %2585
+      %12427 = OpBitcast %12 %9032
+      %10360 = OpIMul %12 %15143 %12427
+      %25154 = OpCompositeExtract %12 %20125 0
+      %20423 = OpShiftRightArithmetic %12 %25154 %2586
+      %18940 = OpIAdd %12 %20423 %10360
+       %8797 = OpShiftLeftLogical %12 %18940 %2594
+      %11510 = OpBitwiseAnd %12 %8797 %1931
+      %18938 = OpShiftLeftLogical %12 %11510 %2574
+      %19768 = OpBitwiseAnd %12 %25154 %2592
+      %12601 = OpBitwiseAnd %12 %10438 %2589
+      %17742 = OpShiftLeftLogical %12 %12601 %2577
+      %17227 = OpIAdd %12 %19768 %17742
+       %7048 = OpShiftLeftLogical %12 %17227 %2594
+      %24035 = OpShiftRightArithmetic %12 %7048 %2589
+       %8725 = OpShiftRightArithmetic %12 %10438 %2580
+      %13731 = OpIAdd %12 %8725 %16477
+      %23052 = OpBitwiseAnd %12 %13731 %2574
+      %16658 = OpShiftRightArithmetic %12 %25154 %2580
+      %18794 = OpShiftLeftLogical %12 %23052 %2574
+      %13501 = OpIAdd %12 %16658 %18794
+      %19166 = OpBitwiseAnd %12 %13501 %2580
+      %21581 = OpShiftLeftLogical %12 %19166 %2574
+      %15437 = OpIAdd %12 %23052 %21581
+      %13150 = OpBitwiseAnd %12 %24035 %2523
+      %20336 = OpIAdd %12 %18938 %13150
+      %23345 = OpShiftLeftLogical %12 %20336 %2574
+      %23274 = OpBitwiseAnd %12 %24035 %2616
+      %10332 = OpIAdd %12 %23345 %23274
+      %18357 = OpBitwiseAnd %12 %10056 %2580
+      %21582 = OpShiftLeftLogical %12 %18357 %2594
+      %16729 = OpIAdd %12 %10332 %21582
+      %19167 = OpBitwiseAnd %12 %10438 %2574
+      %21583 = OpShiftLeftLogical %12 %19167 %2583
+      %16730 = OpIAdd %12 %16729 %21583
+      %20438 = OpBitwiseAnd %12 %15437 %2574
+       %9987 = OpShiftLeftLogical %12 %20438 %2580
+      %13106 = OpShiftRightArithmetic %12 %16730 %2589
+      %14038 = OpBitwiseAnd %12 %13106 %2592
+      %13330 = OpIAdd %12 %9987 %14038
+      %23346 = OpShiftLeftLogical %12 %13330 %2580
+      %23217 = OpBitwiseAnd %12 %15437 %2565
+      %10908 = OpIAdd %12 %23346 %23217
+      %23347 = OpShiftLeftLogical %12 %10908 %2577
+      %23218 = OpBitwiseAnd %12 %16730 %1035
+      %10909 = OpIAdd %12 %23347 %23218
+      %23348 = OpShiftLeftLogical %12 %10909 %2580
+      %21849 = OpBitwiseAnd %12 %16730 %2760
+      %24314 = OpIAdd %12 %23348 %21849
+      %22128 = OpBitcast %11 %24314
+               OpBranch %21237
+      %21237 = OpLabel
+      %11376 = OpPhi %11 %22128 %10574 %22127 %21373
+      %20616 = OpIAdd %11 %11376 %24237
+      %18675 = OpShiftRightLogical %11 %20616 %2582
+      %12010 = OpIEqual %9 %19164 %2573
+      %22390 = OpIEqual %9 %19164 %2576
+      %22150 = OpLogicalOr %9 %12010 %22390
+               OpSelectionMerge %13411 None
+               OpBranchConditional %22150 %10583 %13411
+      %10583 = OpLabel
+      %18271 = OpBitwiseAnd %23 %22009 %2510
+       %9425 = OpShiftLeftLogical %23 %18271 %317
+      %20652 = OpBitwiseAnd %23 %22009 %1838
+      %17549 = OpShiftRightLogical %23 %20652 %317
+      %16376 = OpBitwiseOr %23 %9425 %17549
+               OpBranch %13411
+      %13411 = OpLabel
+      %22649 = OpPhi %23 %22009 %21237 %16376 %10583
+      %19638 = OpIEqual %9 %19164 %2579
+      %15139 = OpLogicalOr %9 %22390 %19638
+               OpSelectionMerge %11416 None
+               OpBranchConditional %15139 %11064 %11416
+      %11064 = OpLabel
+      %24087 = OpShiftLeftLogical %23 %22649 %749
+      %15335 = OpShiftRightLogical %23 %22649 %749
+      %10728 = OpBitwiseOr %23 %24087 %15335
+               OpBranch %11416
+      %11416 = OpLabel
+      %19767 = OpPhi %23 %22649 %13411 %10728 %11064
+      %24825 = OpAccessChain %660 %5522 %2571 %18675
+               OpStore %24825 %19767
+      %21685 = OpIAdd %11 %18675 %2576
+               OpSelectionMerge %14874 None
+               OpBranchConditional %22150 %10584 %14874
+      %10584 = OpLabel
+      %18272 = OpBitwiseAnd %23 %8952 %2510
+       %9426 = OpShiftLeftLogical %23 %18272 %317
+      %20653 = OpBitwiseAnd %23 %8952 %1838
+      %17550 = OpShiftRightLogical %23 %20653 %317
+      %16377 = OpBitwiseOr %23 %9426 %17550
+               OpBranch %14874
+      %14874 = OpLabel
+      %10925 = OpPhi %23 %8952 %11416 %16377 %10584
+               OpSelectionMerge %11417 None
+               OpBranchConditional %15139 %11065 %11417
+      %11065 = OpLabel
+      %24088 = OpShiftLeftLogical %23 %10925 %749
+      %15336 = OpShiftRightLogical %23 %10925 %749
+      %10729 = OpBitwiseOr %23 %24088 %15336
+               OpBranch %11417
+      %11417 = OpLabel
+      %19769 = OpPhi %23 %10925 %14874 %10729 %11065
+       %8053 = OpAccessChain %660 %5522 %2571 %21685
+               OpStore %8053 %19769
+               OpBranch %19578
+      %19578 = OpLabel
+               OpReturn
+               OpFunctionEnd
+
+End SPIR-V
+
+Converted MSL:
+#include <metal_stdlib>
+#include <simd/simd.h>
+
+using namespace metal;
+
+struct _1036
+{
+    uint _m0;
+    uint _m1;
+    uint _m2;
+    uint _m3;
+    uint _m4;
+};
+
+struct _1972
+{
+    uint4 _m0[1];
+};
+
+struct _1973
+{
+    uint4 _m0[1];
+};
+
+constant uint3 gl_WorkGroupSize [[maybe_unused]] = uint3(8u, 8u, 1u);
+
+kernel void main0(constant _1036& _3305 [[buffer(0)]], device _1972& _3271 [[buffer(1)]], device _1973& _5522 [[buffer(2)]], uint3 gl_GlobalInvocationID [[thread_position_in_grid]])
+{
+    do
+    {
+        uint _19164 = _3305._m2 & 7u;
+        uint _15783 = (_3305._m3 & 1023u) << 5u;
+        uint _16205 = (_3305._m3 >> 28u) & 7u;
+        if (gl_GlobalInvocationID.x >= ((_3305._m1 >> 5u) & 2047u))
+        {
+            break;
+        }
+        uint2 _9840 = gl_GlobalInvocationID.xy << uint2(3u, 0u);
+        uint _24498 = _9840.x;
+        uint _19300;
+        if (_16205 <= 3u)
+        {
+            _19300 = _16205;
+        }
+        else
+        {
+            _19300 = (_16205 == 5u) ? 2u : 0u;
+        }
+        uint2 _17779 = ((uint2(_24498, max(_9840.y, 0u)) + ((((uint2(_3305._m1) >> uint2(0u, 4u)) & uint2(15u, 1u)) << uint2(3u)) * uint2(1u))) << uint2(uint2((_3305._m0 >> 10u) & 3u) >= uint2(2u, 1u))) + ((uint2(_19300) >> uint2(1u, 0u)) & uint2(1u));
+        uint2 _24270 = _17779 / uint2(80u, 16u);
+        uint2 _14279 = _17779 - (_24270 * uint2(80u, 16u));
+        uint2 _8537;
+        if ((_3305._m0 & 4096u) != 0u)
+        {
+            uint _11791 = _14279.x;
+            uint2 _21574 = _14279;
+            _21574.x = uint(int(_11791) + ((_11791 >= 40u) ? (-40) : 40));
+            _8537 = _21574;
+        }
+        else
+        {
+            _8537 = _14279;
+        }
+        uint _18580 = ((((((_3305._m0 >> 13u) & 2047u) + ((_24270.y * (_3305._m0 & 1023u)) + _24270.x)) * 1280u) + ((_8537.y * 80u) + _8537.x)) % 2621440u) >> 2u;
+        uint4 _12609 = _3271._m0[_18580];
+        uint _11687 = _18580 + 1u;
+        bool _15472 = _24498 == 0u;
+        uint4 _10924;
+        if (_15472 ? false : _15472)
+        {
+            uint4 _14335 = _12609;
+            _14335.x = _12609.y;
+            _10924 = _14335;
+        }
+        else
+        {
+            _10924 = _12609;
+        }
+        uint4 _8952;
+        uint4 _22009;
+        if ((_3305._m2 & 16777216u) != 0u)
+        {
+            uint4 _11251;
+            uint4 _13709;
+            switch ((_3305._m0 >> 24u) & 15u)
+            {
+                case 0u:
+                case 1u:
+                {
+                    _11251 = ((_3271._m0[_11687] & uint4(4278255360u)) | ((_3271._m0[_11687] & uint4(255u)) << uint4(16u))) | ((_3271._m0[_11687] >> uint4(16u)) & uint4(255u));
+                    _13709 = ((_10924 & uint4(4278255360u)) | ((_10924 & uint4(255u)) << uint4(16u))) | ((_10924 >> uint4(16u)) & uint4(255u));
+                    break;
+                }
+                case 2u:
+                case 3u:
+                case 10u:
+                case 12u:
+                {
+                    _11251 = ((_3271._m0[_11687] & uint4(3222273024u)) | ((_3271._m0[_11687] & uint4(1023u)) << uint4(20u))) | ((_3271._m0[_11687] >> uint4(20u)) & uint4(1023u));
+                    _13709 = ((_10924 & uint4(3222273024u)) | ((_10924 & uint4(1023u)) << uint4(20u))) | ((_10924 >> uint4(20u)) & uint4(1023u));
+                    break;
+                }
+                default:
+                {
+                    _11251 = _3271._m0[_11687];
+                    _13709 = _10924;
+                    break;
+                }
+            }
+            _8952 = _11251;
+            _22009 = _13709;
+        }
+        else
+        {
+            _8952 = _3271._m0[_11687];
+            _22009 = _10924;
+        }
+        uint2 _7319 = _9840 + ((((uint2(_3305._m3) >> uint2(20u, 24u)) & uint2(15u)) << uint2(3u)) * uint2(1u));
+        uint _11376;
+        if ((_3305._m2 & 8u) != 0u)
+        {
+            int3 _20125 = int3(uint3(_7319, (_3305._m2 >> 4u) & 7u));
+            int _10438 = _20125.y;
+            int _10056 = _20125.z;
+            int _16477 = _10056 >> 2;
+            int _25154 = _20125.x;
+            int _24035 = (((_25154 & 7) + ((_10438 & 6) << 2)) << int(8u)) >> 6;
+            int _23052 = ((_10438 >> 3) + _16477) & 1;
+            int _15437 = _23052 + ((((_25154 >> 3) + (_23052 << 1)) & 3) << 1);
+            int _16730 = (((((((((_25154 >> 5) + (((_10438 >> 4) + (_16477 * int((((_3305._m3 >> 10u) & 1023u) << 5u) >> 4u))) * int(_15783 >> 5u))) << int(8u)) & 268435455) << 1) + (_24035 & (-16))) << 1) + (_24035 & 15)) + ((_10056 & 3) << int(8u))) + ((_10438 & 1) << 4);
+            _11376 = uint(((((((((_15437 & 1) << 3) + ((_16730 >> 6) & 7)) << 3) + (_15437 & (-2))) << 2) + (_16730 & (-512))) << 3) + (_16730 & 63));
+        }
+        else
+        {
+            int2 _10608 = int2(_7319);
+            int _17090 = _10608.x;
+            int _10055 = _10608.y;
+            int _6375 = ((_17090 & 7) + ((_10055 & 14) << 2)) << int(2u);
+            int _16727 = (((((_17090 >> 5) + ((_10055 >> 5) * int(_15783 >> 5u))) << int(9u)) + ((_6375 & (-16)) << 1)) + (_6375 & 15)) + ((_10055 & 1) << 4);
+            _11376 = uint((((((_16727 & (-512)) << 3) + ((_10055 & 16) << 7)) + ((_16727 & 448) << 2)) + (((((_10055 & 8) >> 2) + (_17090 >> 3)) & 3) << 6)) + (_16727 & 63));
+        }
+        uint _18675 = (_11376 + _3305._m4) >> 4u;
+        bool _22390 = _19164 == 2u;
+        bool _22150 = (_19164 == 1u) || _22390;
+        uint4 _22649;
+        if (_22150)
+        {
+            _22649 = ((_22009 & uint4(16711935u)) << uint4(8u)) | ((_22009 & uint4(4278255360u)) >> uint4(8u));
+        }
+        else
+        {
+            _22649 = _22009;
+        }
+        bool _15139 = _22390 || (_19164 == 3u);
+        uint4 _19767;
+        if (_15139)
+        {
+            _19767 = (_22649 << uint4(16u)) | (_22649 >> uint4(16u));
+        }
+        else
+        {
+            _19767 = _22649;
+        }
+        _5522._m0[_18675] = _19767;
+        uint4 _10925;
+        if (_22150)
+        {
+            _10925 = ((_8952 & uint4(16711935u)) << uint4(8u)) | ((_8952 & uint4(4278255360u)) >> uint4(8u));
+        }
+        else
+        {
+            _10925 = _8952;
+        }
+        uint4 _19769;
+        if (_15139)
+        {
+            _19769 = (_10925 << uint4(16u)) | (_10925 >> uint4(16u));
+        }
+        else
+        {
+            _19769 = _10925;
+        }
+        _5522._m0[_18675 + 2u] = _19769;
+        break;
+    } while(false);
+}
+
+
+End MSL
+
+
+2026-11-18 13:35:53.850 I gpu        t111363 Vulkan Info ({ General }, ID 0: mvk-info): Converting SPIR-V:
+; SPIR-V
+; Version: 1.0
+; Generator: Khronos Glslang Reference Front End; 11
+; Bound: 25204
+; Schema: 0
+               OpCapability Shader
+          %1 = OpExtInstImport "GLSL.std.450"
+               OpMemoryModel Logical GLSL450
+               OpEntryPoint GLCompute %5663 "main" %3912
+               OpExecutionMode %5663 LocalSize 8 8 1
+               OpDecorate %1036 Block
+               OpMemberDecorate %1036 0 Offset 0
+               OpMemberDecorate %1036 1 Offset 4
+               OpMemberDecorate %1036 2 Offset 8
+               OpMemberDecorate %1036 3 Offset 12
+               OpMemberDecorate %1036 4 Offset 16
+               OpDecorate %3912 BuiltIn GlobalInvocationId
+               OpDecorate %2012 ArrayStride 16
+               OpDecorate %1972 BufferBlock
+               OpMemberDecorate %1972 0 NonWritable
+               OpMemberDecorate %1972 0 Offset 0
+               OpDecorate %3271 NonWritable
+               OpDecorate %3271 Binding 0
+               OpDecorate %3271 DescriptorSet 0
+               OpDecorate %2013 ArrayStride 16
+               OpDecorate %1973 BufferBlock
+               OpMemberDecorate %1973 0 NonReadable
+               OpMemberDecorate %1973 0 Offset 0
+               OpDecorate %5522 NonReadable
+               OpDecorate %5522 Binding 0
+               OpDecorate %5522 DescriptorSet 1
+               OpDecorate %2759 BuiltIn WorkgroupSize
+          %8 = OpTypeVoid
+       %1282 = OpTypeFunction %8
+         %11 = OpTypeInt 32 0
+         %17 = OpTypeVector %11 2
+         %23 = OpTypeVector %11 4
+          %9 = OpTypeBool
+         %12 = OpTypeInt 32 1
+         %18 = OpTypeVector %12 2
+         %22 = OpTypeVector %12 3
+       %2573 = OpConstant %11 1
+       %2576 = OpConstant %11 2
+       %2214 = OpConstant %11 16711935
+       %2594 = OpConstant %11 8
+       %1533 = OpConstant %11 4278255360
+       %2579 = OpConstant %11 3
+       %2618 = OpConstant %11 16
+       %1837 = OpConstantComposite %17 %2576 %2573
+         %15 = OpTypeVector %9 2
+       %2570 = OpConstant %11 0
+       %1807 = OpConstantComposite %17 %2570 %2570
+       %1828 = OpConstantComposite %17 %2573 %2573
+       %1816 = OpConstantComposite %17 %2573 %2570
+       %2810 = OpConstant %11 80
+       %2719 = OpConstantComposite %17 %2810 %2618
+       %2586 = OpConstant %12 5
+       %2585 = OpConstant %11 5
+       %2591 = OpConstant %11 7
+       %2592 = OpConstant %12 7
+       %2613 = OpConstant %12 14
+       %2577 = OpConstant %12 2
+       %2523 = OpConstant %12 -16
+       %2574 = OpConstant %12 1
+       %2616 = OpConstant %12 15
+       %2583 = OpConstant %12 4
+       %1035 = OpConstant %12 -512
+       %2580 = OpConstant %12 3
+       %2619 = OpConstant %12 16
+        %904 = OpConstant %12 448
+       %2595 = OpConstant %12 8
+       %2589 = OpConstant %12 6
+       %2760 = OpConstant %12 63
+       %2582 = OpConstant %11 4
+       %1931 = OpConstant %12 268435455
+       %2565 = OpConstant %12 -2
+       %1036 = OpTypeStruct %11 %11 %11 %11 %11
+       %1672 = OpTypePointer PushConstant %1036
+       %3305 = OpVariable %1672 PushConstant
+       %2571 = OpConstant %12 0
+        %648 = OpTypePointer PushConstant %11
+       %2628 = OpConstant %11 1023
+       %2600 = OpConstant %11 10
+       %2814 = OpConstant %11 4096
+       %2609 = OpConstant %11 13
+       %2689 = OpConstant %11 2047
+       %2642 = OpConstant %11 24
+       %2615 = OpConstant %11 15
+       %2654 = OpConstant %11 28
+       %1855 = OpConstantComposite %17 %2570 %2582
+       %2342 = OpConstant %11 16777216
+       %2630 = OpConstant %11 20
+       %2275 = OpConstantComposite %17 %2630 %2642
+         %20 = OpTypeVector %11 3
+        %324 = OpConstant %11 255
+       %2900 = OpConstant %11 3222273024
+        %657 = OpTypePointer Input %20
+       %3912 = OpVariable %657 Input
+        %649 = OpTypePointer Input %11
+       %1834 = OpConstantComposite %17 %2579 %2570
+       %2012 = OpTypeRuntimeArray %23
+       %1972 = OpTypeStruct %2012
+       %2610 = OpTypePointer Uniform %1972
+       %3271 = OpVariable %2610 Uniform
+        %660 = OpTypePointer Uniform %23
+       %2013 = OpTypeRuntimeArray %23
+       %1973 = OpTypeStruct %2013
+       %2611 = OpTypePointer Uniform %1973
+       %5522 = OpVariable %2611 Uniform
+       %2759 = OpConstantComposite %20 %2594 %2594 %2573
+       %1954 = OpConstantComposite %17 %2615 %2573
+       %1870 = OpConstantComposite %17 %2579 %2579
+       %2122 = OpConstantComposite %17 %2615 %2615
+       %1838 = OpConstantComposite %23 %1533 %1533 %1533 %1533
+       %1611 = OpConstantComposite %23 %324 %324 %324 %324
+        %749 = OpConstantComposite %23 %2618 %2618 %2618 %2618
+       %2352 = OpConstantComposite %23 %2900 %2900 %2900 %2900
+        %929 = OpConstantComposite %23 %2628 %2628 %2628 %2628
+        %965 = OpConstantComposite %23 %2630 %2630 %2630 %2630
+       %2597 = OpConstant %11 9
+       %2510 = OpConstantComposite %23 %2214 %2214 %2214 %2214
+        %317 = OpConstantComposite %23 %2594 %2594 %2594 %2594
+       %2690 = OpConstant %11 40
+       %2691 = OpConstant %12 40
+       %2451 = OpConstant %12 -40
+        %388 = OpConstant %11 1280
+       %2158 = OpConstant %11 2621440
+       %1927 = OpConstantFalse %9
+       %5663 = OpFunction %8 None %1282
+      %15110 = OpLabel
+               OpSelectionMerge %19578 None
+               OpSwitch %2570 %11880
+      %11880 = OpLabel
+      %22245 = OpAccessChain %648 %3305 %2571
+      %15627 = OpLoad %11 %22245
+      %22700 = OpAccessChain %648 %3305 %2574
+      %20824 = OpLoad %11 %22700
+      %20561 = OpBitwiseAnd %11 %15627 %2628
+      %20073 = OpShiftRightLogical %11 %15627 %2600
+       %7177 = OpBitwiseAnd %11 %20073 %2579
+      %23023 = OpBitwiseAnd %11 %15627 %2814
+      %20495 = OpINotEqual %9 %23023 %2570
+      %10307 = OpShiftRightLogical %11 %15627 %2609
+      %24434 = OpBitwiseAnd %11 %10307 %2689
+      %18836 = OpShiftRightLogical %11 %15627 %2642
+       %9130 = OpBitwiseAnd %11 %18836 %2615
+       %8871 = OpCompositeConstruct %17 %20824 %20824
+       %9576 = OpShiftRightLogical %17 %8871 %1855
+      %23379 = OpBitwiseAnd %17 %9576 %1954
+      %16207 = OpShiftLeftLogical %17 %23379 %1870
+      %23019 = OpIMul %17 %16207 %1828
+      %12819 = OpShiftRightLogical %11 %20824 %2585
+      %16204 = OpBitwiseAnd %11 %12819 %2689
+      %18732 = OpAccessChain %648 %3305 %2577
+      %24236 = OpLoad %11 %18732
+      %22701 = OpAccessChain %648 %3305 %2580
+      %20919 = OpLoad %11 %22701
+      %19164 = OpBitwiseAnd %11 %24236 %2591
+      %21999 = OpBitwiseAnd %11 %24236 %2594
+      %20496 = OpINotEqual %9 %21999 %2570
+      %10402 = OpShiftRightLogical %11 %24236 %2582
+      %23037 = OpBitwiseAnd %11 %10402 %2591
+      %23118 = OpBitwiseAnd %11 %24236 %2342
+      %19573 = OpINotEqual %9 %23118 %2570
+       %8003 = OpBitwiseAnd %11 %20919 %2628
+      %15783 = OpShiftLeftLogical %11 %8003 %2585
+      %22591 = OpShiftRightLogical %11 %20919 %2600
+      %19390 = OpBitwiseAnd %11 %22591 %2628
+      %25203 = OpShiftLeftLogical %11 %19390 %2585
+      %10422 = OpCompositeConstruct %17 %20919 %20919
+      %10385 = OpShiftRightLogical %17 %10422 %2275
+      %23380 = OpBitwiseAnd %17 %10385 %2122
+      %16208 = OpShiftLeftLogical %17 %23380 %1870
+      %23020 = OpIMul %17 %16208 %1828
+      %12820 = OpShiftRightLogical %11 %20919 %2654
+      %16205 = OpBitwiseAnd %11 %12820 %2591
+      %18733 = OpAccessChain %648 %3305 %2583
+      %24237 = OpLoad %11 %18733
+      %22225 = OpAccessChain %649 %3912 %2570
+       %7085 = OpLoad %11 %22225
+       %7405 = OpUGreaterThanEqual %9 %7085 %16204
+               OpSelectionMerge %17447 DontFlatten
+               OpBranchConditional %7405 %21992 %17447
+      %21992 = OpLabel
+               OpBranch %19578
+      %17447 = OpLabel
+      %14637 = OpLoad %20 %3912
+      %18505 = OpVectorShuffle %17 %14637 %14637 0 1
+       %9840 = OpShiftLeftLogical %17 %18505 %1834
+      %24498 = OpCompositeExtract %11 %9840 0
+       %7150 = OpCompositeExtract %11 %9840 1
+      %24446 = OpExtInst %11 %1 UMax %7150 %2570
+      %20975 = OpCompositeConstruct %17 %24498 %24446
+      %21036 = OpIAdd %17 %20975 %23019
+      %16075 = OpULessThanEqual %9 %16205 %2579
+               OpSelectionMerge %23776 None
+               OpBranchConditional %16075 %10990 %15087
+      %15087 = OpLabel
+      %13566 = OpIEqual %9 %16205 %2585
+       %8438 = OpSelect %11 %13566 %2576 %2570
+               OpBranch %23776
+      %10990 = OpLabel
+               OpBranch %23776
+      %23776 = OpLabel
+      %19300 = OpPhi %11 %16205 %10990 %8438 %15087
+      %16830 = OpCompositeConstruct %17 %7177 %7177
+      %11801 = OpUGreaterThanEqual %15 %16830 %1837
+      %19381 = OpSelect %17 %11801 %1828 %1807
+      %10986 = OpShiftLeftLogical %17 %21036 %19381
+      %24669 = OpCompositeConstruct %17 %19300 %19300
+       %9093 = OpShiftRightLogical %17 %24669 %1816
+      %16110 = OpBitwiseAnd %17 %9093 %1828
+      %17779 = OpIAdd %17 %10986 %16110
+      %24270 = OpUDiv %17 %17779 %2719
+      %12360 = OpCompositeExtract %11 %24270 1
+      %11046 = OpIMul %11 %12360 %20561
+      %24665 = OpCompositeExtract %11 %24270 0
+      %21536 = OpIAdd %11 %11046 %24665
+       %8742 = OpIAdd %11 %24434 %21536
+       %6459 = OpIMul %17 %24270 %2719
+      %14279 = OpISub %17 %17779 %6459
+               OpSelectionMerge %19725 None
+               OpBranchConditional %20495 %10558 %19725
+      %10558 = OpLabel
+      %11791 = OpCompositeExtract %11 %14279 0
+      %24981 = OpBitcast %12 %11791
+       %7841 = OpUGreaterThanEqual %9 %11791 %2690
+      %22568 = OpSelect %12 %7841 %2451 %2691
+      %11768 = OpIAdd %12 %24981 %22568
+       %8071 = OpBitcast %11 %11768
+      %21574 = OpCompositeInsert %17 %8071 %14279 0
+               OpBranch %19725
+      %19725 = OpLabel
+       %8537 = OpPhi %17 %14279 %23776 %21574 %10558
+       %6671 = OpIMul %11 %8742 %388
+      %13892 = OpCompositeExtract %11 %8537 1
+      %15890 = OpIMul %11 %13892 %2810
+      %24666 = OpCompositeExtract %11 %8537 0
+      %21631 = OpIAdd %11 %15890 %24666
+       %9094 = OpIAdd %11 %6671 %21631
+       %8177 = OpUMod %11 %9094 %2158
+      %18580 = OpShiftRightLogical %11 %8177 %2576
+      %17174 = OpAccessChain %660 %3271 %2571 %18580
+      %12609 = OpLoad %23 %17174
+      %11687 = OpIAdd %11 %18580 %2573
+       %7197 = OpAccessChain %660 %3271 %2571 %11687
+      %18360 = OpLoad %23 %7197
+      %15472 = OpIEqual %9 %24498 %2570
+      %15603 = OpSelect %9 %15472 %1927 %15472
+               OpSelectionMerge %21910 DontFlatten
+               OpBranchConditional %15603 %9760 %21910
+       %9760 = OpLabel
+      %20482 = OpCompositeExtract %11 %12609 1
+      %14335 = OpCompositeInsert %23 %20482 %12609 0
+               OpBranch %21910
+      %21910 = OpLabel
+      %10924 = OpPhi %23 %12609 %19725 %14335 %9760
+               OpSelectionMerge %21263 DontFlatten
+               OpBranchConditional %19573 %22395 %21263
+      %22395 = OpLabel
+               OpSelectionMerge %14836 None
+               OpSwitch %9130 %14836 0 %21920 1 %21920 2 %10391 3 %10391 10 %10391 12 %10391
+      %10391 = OpLabel
+      %15273 = OpBitwiseAnd %23 %10924 %2352
+      %23564 = OpBitwiseAnd %23 %10924 %929
+      %24837 = OpShiftLeftLogical %23 %23564 %965
+      %18005 = OpBitwiseOr %23 %15273 %24837
+      %23170 = OpShiftRightLogical %23 %10924 %965
+       %6442 = OpBitwiseAnd %23 %23170 %929
+      %15589 = OpBitwiseOr %23 %18005 %6442
+      %19519 = OpBitwiseAnd %23 %18360 %2352
+      %17946 = OpBitwiseAnd %23 %18360 %929
+      %24838 = OpShiftLeftLogical %23 %17946 %965
+      %18006 = OpBitwiseOr %23 %19519 %24838
+      %23171 = OpShiftRightLogical %23 %18360 %965
+       %7392 = OpBitwiseAnd %23 %23171 %929
+       %7870 = OpBitwiseOr %23 %18006 %7392
+               OpBranch %14836
+      %21920 = OpLabel
+      %20117 = OpBitwiseAnd %23 %10924 %1838
+      %23565 = OpBitwiseAnd %23 %10924 %1611
+      %24839 = OpShiftLeftLogical %23 %23565 %749
+      %18007 = OpBitwiseOr %23 %20117 %24839
+      %23172 = OpShiftRightLogical %23 %10924 %749
+       %6443 = OpBitwiseAnd %23 %23172 %1611
+      %15590 = OpBitwiseOr %23 %18007 %6443
+      %19520 = OpBitwiseAnd %23 %18360 %1838
+      %17947 = OpBitwiseAnd %23 %18360 %1611
+      %24840 = OpShiftLeftLogical %23 %17947 %749
+      %18008 = OpBitwiseOr %23 %19520 %24840
+      %23173 = OpShiftRightLogical %23 %18360 %749
+       %7393 = OpBitwiseAnd %23 %23173 %1611
+       %7871 = OpBitwiseOr %23 %18008 %7393
+               OpBranch %14836
+      %14836 = OpLabel
+      %11251 = OpPhi %23 %18360 %22395 %7871 %21920 %7870 %10391
+      %13709 = OpPhi %23 %10924 %22395 %15590 %21920 %15589 %10391
+               OpBranch %21263
+      %21263 = OpLabel
+       %8952 = OpPhi %23 %18360 %21910 %11251 %14836
+      %22009 = OpPhi %23 %10924 %21910 %13709 %14836
+       %7319 = OpIAdd %17 %9840 %23020
+               OpSelectionMerge %21237 DontFlatten
+               OpBranchConditional %20496 %10574 %21373
+      %21373 = OpLabel
+      %10608 = OpBitcast %18 %7319
+      %17090 = OpCompositeExtract %12 %10608 0
+       %9469 = OpShiftRightArithmetic %12 %17090 %2586
+      %10055 = OpCompositeExtract %12 %10608 1
+      %16476 = OpShiftRightArithmetic %12 %10055 %2586
+      %23373 = OpShiftRightLogical %11 %15783 %2585
+       %6314 = OpBitcast %12 %23373
+      %21319 = OpIMul %12 %16476 %6314
+      %16222 = OpIAdd %12 %9469 %21319
+      %19086 = OpShiftLeftLogical %12 %16222 %2597
+      %10934 = OpBitwiseAnd %12 %17090 %2592
+      %12600 = OpBitwiseAnd %12 %10055 %2613
+      %17741 = OpShiftLeftLogical %12 %12600 %2577
+      %17303 = OpIAdd %12 %10934 %17741
+       %6375 = OpShiftLeftLogical %12 %17303 %2576
+      %10161 = OpBitwiseAnd %12 %6375 %2523
+      %12150 = OpShiftLeftLogical %12 %10161 %2574
+      %15435 = OpIAdd %12 %19086 %12150
+      %13207 = OpBitwiseAnd %12 %6375 %2616
+      %19760 = OpIAdd %12 %15435 %13207
+      %18356 = OpBitwiseAnd %12 %10055 %2574
+      %21578 = OpShiftLeftLogical %12 %18356 %2583
+      %16727 = OpIAdd %12 %19760 %21578
+      %20514 = OpBitwiseAnd %12 %16727 %1035
+       %9238 = OpShiftLeftLogical %12 %20514 %2580
+      %18995 = OpBitwiseAnd %12 %10055 %2619
+      %12151 = OpShiftLeftLogical %12 %18995 %2592
+      %16728 = OpIAdd %12 %9238 %12151
+      %19165 = OpBitwiseAnd %12 %16727 %904
+      %21579 = OpShiftLeftLogical %12 %19165 %2577
+      %16708 = OpIAdd %12 %16728 %21579
+      %20611 = OpBitwiseAnd %12 %10055 %2595
+      %16831 = OpShiftRightArithmetic %12 %20611 %2577
+       %7916 = OpShiftRightArithmetic %12 %17090 %2580
+      %13750 = OpIAdd %12 %16831 %7916
+      %21587 = OpBitwiseAnd %12 %13750 %2580
+      %21580 = OpShiftLeftLogical %12 %21587 %2589
+      %15436 = OpIAdd %12 %16708 %21580
+      %11782 = OpBitwiseAnd %12 %16727 %2760
+      %14671 = OpIAdd %12 %15436 %11782
+      %22127 = OpBitcast %11 %14671
+               OpBranch %21237
+      %10574 = OpLabel
+      %19866 = OpCompositeExtract %11 %7319 0
+      %11267 = OpCompositeExtract %11 %7319 1
+       %8414 = OpCompositeConstruct %20 %19866 %11267 %23037
+      %20125 = OpBitcast %22 %8414
+      %10438 = OpCompositeExtract %12 %20125 1
+       %9470 = OpShiftRightArithmetic %12 %10438 %2583
+      %10056 = OpCompositeExtract %12 %20125 2
+      %16477 = OpShiftRightArithmetic %12 %10056 %2577
+      %23374 = OpShiftRightLogical %11 %25203 %2582
+       %6315 = OpBitcast %12 %23374
+      %21281 = OpIMul %12 %16477 %6315
+      %15143 = OpIAdd %12 %9470 %21281
+       %9032 = OpShiftRightLogical %11 %15783 %2585
+      %12427 = OpBitcast %12 %9032
+      %10360 = OpIMul %12 %15143 %12427
+      %25154 = OpCompositeExtract %12 %20125 0
+      %20423 = OpShiftRightArithmetic %12 %25154 %2586
+      %18940 = OpIAdd %12 %20423 %10360
+       %8797 = OpShiftLeftLogical %12 %18940 %2594
+      %11510 = OpBitwiseAnd %12 %8797 %1931
+      %18938 = OpShiftLeftLogical %12 %11510 %2574
+      %19768 = OpBitwiseAnd %12 %25154 %2592
+      %12601 = OpBitwiseAnd %12 %10438 %2589
+      %17742 = OpShiftLeftLogical %12 %12601 %2577
+      %17227 = OpIAdd %12 %19768 %17742
+       %7048 = OpShiftLeftLogical %12 %17227 %2594
+      %24035 = OpShiftRightArithmetic %12 %7048 %2589
+       %8725 = OpShiftRightArithmetic %12 %10438 %2580
+      %13731 = OpIAdd %12 %8725 %16477
+      %23052 = OpBitwiseAnd %12 %13731 %2574
+      %16658 = OpShiftRightArithmetic %12 %25154 %2580
+      %18794 = OpShiftLeftLogical %12 %23052 %2574
+      %13501 = OpIAdd %12 %16658 %18794
+      %19166 = OpBitwiseAnd %12 %13501 %2580
+      %21581 = OpShiftLeftLogical %12 %19166 %2574
+      %15437 = OpIAdd %12 %23052 %21581
+      %13150 = OpBitwiseAnd %12 %24035 %2523
+      %20336 = OpIAdd %12 %18938 %13150
+      %23345 = OpShiftLeftLogical %12 %20336 %2574
+      %23274 = OpBitwiseAnd %12 %24035 %2616
+      %10332 = OpIAdd %12 %23345 %23274
+      %18357 = OpBitwiseAnd %12 %10056 %2580
+      %21582 = OpShiftLeftLogical %12 %18357 %2594
+      %16729 = OpIAdd %12 %10332 %21582
+      %19167 = OpBitwiseAnd %12 %10438 %2574
+      %21583 = OpShiftLeftLogical %12 %19167 %2583
+      %16730 = OpIAdd %12 %16729 %21583
+      %20438 = OpBitwiseAnd %12 %15437 %2574
+       %9987 = OpShiftLeftLogical %12 %20438 %2580
+      %13106 = OpShiftRightArithmetic %12 %16730 %2589
+      %14038 = OpBitwiseAnd %12 %13106 %2592
+      %13330 = OpIAdd %12 %9987 %14038
+      %23346 = OpShiftLeftLogical %12 %13330 %2580
+      %23217 = OpBitwiseAnd %12 %15437 %2565
+      %10908 = OpIAdd %12 %23346 %23217
+      %23347 = OpShiftLeftLogical %12 %10908 %2577
+      %23218 = OpBitwiseAnd %12 %16730 %1035
+      %10909 = OpIAdd %12 %23347 %23218
+      %23348 = OpShiftLeftLogical %12 %10909 %2580
+      %21849 = OpBitwiseAnd %12 %16730 %2760
+      %24314 = OpIAdd %12 %23348 %21849
+      %22128 = OpBitcast %11 %24314
+               OpBranch %21237
+      %21237 = OpLabel
+      %11376 = OpPhi %11 %22128 %10574 %22127 %21373
+      %20616 = OpIAdd %11 %11376 %24237
+      %18675 = OpShiftRightLogical %11 %20616 %2582
+      %12010 = OpIEqual %9 %19164 %2573
+      %22390 = OpIEqual %9 %19164 %2576
+      %22150 = OpLogicalOr %9 %12010 %22390
+               OpSelectionMerge %13411 None
+               OpBranchConditional %22150 %10583 %13411
+      %10583 = OpLabel
+      %18271 = OpBitwiseAnd %23 %22009 %2510
+       %9425 = OpShiftLeftLogical %23 %18271 %317
+      %20652 = OpBitwiseAnd %23 %22009 %1838
+      %17549 = OpShiftRightLogical %23 %20652 %317
+      %16376 = OpBitwiseOr %23 %9425 %17549
+               OpBranch %13411
+      %13411 = OpLabel
+      %22649 = OpPhi %23 %22009 %21237 %16376 %10583
+      %19638 = OpIEqual %9 %19164 %2579
+      %15139 = OpLogicalOr %9 %22390 %19638
+               OpSelectionMerge %11416 None
+               OpBranchConditional %15139 %11064 %11416
+      %11064 = OpLabel
+      %24087 = OpShiftLeftLogical %23 %22649 %749
+      %15335 = OpShiftRightLogical %23 %22649 %749
+      %10728 = OpBitwiseOr %23 %24087 %15335
+               OpBranch %11416
+      %11416 = OpLabel
+      %19767 = OpPhi %23 %22649 %13411 %10728 %11064
+      %24825 = OpAccessChain %660 %5522 %2571 %18675
+               OpStore %24825 %19767
+      %21685 = OpIAdd %11 %18675 %2576
+               OpSelectionMerge %14874 None
+               OpBranchConditional %22150 %10584 %14874
+      %10584 = OpLabel
+      %18272 = OpBitwiseAnd %23 %8952 %2510
+       %9426 = OpShiftLeftLogical %23 %18272 %317
+      %20653 = OpBitwiseAnd %23 %8952 %1838
+      %17550 = OpShiftRightLogical %23 %20653 %317
+      %16377 = OpBitwiseOr %23 %9426 %17550
+               OpBranch %14874
+      %14874 = OpLabel
+      %10925 = OpPhi %23 %8952 %11416 %16377 %10584
+               OpSelectionMerge %11417 None
+               OpBranchConditional %15139 %11065 %11417
+      %11065 = OpLabel
+      %24088 = OpShiftLeftLogical %23 %10925 %749
+      %15336 = OpShiftRightLogical %23 %10925 %749
+      %10729 = OpBitwiseOr %23 %24088 %15336
+               OpBranch %11417
+      %11417 = OpLabel
+      %19769 = OpPhi %23 %10925 %14874 %10729 %11065
+       %8053 = OpAccessChain %660 %5522 %2571 %21685
+               OpStore %8053 %19769
+               OpBranch %19578
+      %19578 = OpLabel
+               OpReturn
+               OpFunctionEnd
+
+End SPIR-V
+
+Converted MSL:
+#include <metal_stdlib>
+#include <simd/simd.h>
+
+using namespace metal;
+
+struct _1036
+{
+    uint _m0;
+    uint _m1;
+    uint _m2;
+    uint _m3;
+    uint _m4;
+};
+
+struct _1972
+{
+    uint4 _m0[1];
+};
+
+struct _1973
+{
+    uint4 _m0[1];
+};
+
+constant uint3 gl_WorkGroupSize [[maybe_unused]] = uint3(8u, 8u, 1u);
+
+kernel void main0(constant _1036& _3305 [[buffer(0)]], device _1972& _3271 [[buffer(1)]], device _1973& _5522 [[buffer(2)]], uint3 gl_GlobalInvocationID [[thread_position_in_grid]])
+{
+    do
+    {
+        uint _19164 = _3305._m2 & 7u;
+        uint _15783 = (_3305._m3 & 1023u) << 5u;
+        uint _16205 = (_3305._m3 >> 28u) & 7u;
+        if (gl_GlobalInvocationID.x >= ((_3305._m1 >> 5u) & 2047u))
+        {
+            break;
+        }
+        uint2 _9840 = gl_GlobalInvocationID.xy << uint2(3u, 0u);
+        uint _24498 = _9840.x;
+        uint _19300;
+        if (_16205 <= 3u)
+        {
+            _19300 = _16205;
+        }
+        else
+        {
+            _19300 = (_16205 == 5u) ? 2u : 0u;
+        }
+        uint2 _17779 = ((uint2(_24498, max(_9840.y, 0u)) + ((((uint2(_3305._m1) >> uint2(0u, 4u)) & uint2(15u, 1u)) << uint2(3u)) * uint2(1u))) << uint2(uint2((_3305._m0 >> 10u) & 3u) >= uint2(2u, 1u))) + ((uint2(_19300) >> uint2(1u, 0u)) & uint2(1u));
+        uint2 _24270 = _17779 / uint2(80u, 16u);
+        uint2 _14279 = _17779 - (_24270 * uint2(80u, 16u));
+        uint2 _8537;
+        if ((_3305._m0 & 4096u) != 0u)
+        {
+            uint _11791 = _14279.x;
+            uint2 _21574 = _14279;
+            _21574.x = uint(int(_11791) + ((_11791 >= 40u) ? (-40) : 40));
+            _8537 = _21574;
+        }
+        else
+        {
+            _8537 = _14279;
+        }
+        uint _18580 = ((((((_3305._m0 >> 13u) & 2047u) + ((_24270.y * (_3305._m0 & 1023u)) + _24270.x)) * 1280u) + ((_8537.y * 80u) + _8537.x)) % 2621440u) >> 2u;
+        uint4 _12609 = _3271._m0[_18580];
+        uint _11687 = _18580 + 1u;
+        bool _15472 = _24498 == 0u;
+        uint4 _10924;
+        if (_15472 ? false : _15472)
+        {
+            uint4 _14335 = _12609;
+            _14335.x = _12609.y;
+            _10924 = _14335;
+        }
+        else
+        {
+            _10924 = _12609;
+        }
+        uint4 _8952;
+        uint4 _22009;
+        if ((_3305._m2 & 16777216u) != 0u)
+        {
+            uint4 _11251;
+            uint4 _13709;
+            switch ((_3305._m0 >> 24u) & 15u)
+            {
+                case 0u:
+                case 1u:
+                {
+                    _11251 = ((_3271._m0[_11687] & uint4(4278255360u)) | ((_3271._m0[_11687] & uint4(255u)) << uint4(16u))) | ((_3271._m0[_11687] >> uint4(16u)) & uint4(255u));
+                    _13709 = ((_10924 & uint4(4278255360u)) | ((_10924 & uint4(255u)) << uint4(16u))) | ((_10924 >> uint4(16u)) & uint4(255u));
+                    break;
+                }
+                case 2u:
+                case 3u:
+                case 10u:
+                case 12u:
+                {
+                    _11251 = ((_3271._m0[_11687] & uint4(3222273024u)) | ((_3271._m0[_11687] & uint4(1023u)) << uint4(20u))) | ((_3271._m0[_11687] >> uint4(20u)) & uint4(1023u));
+                    _13709 = ((_10924 & uint4(3222273024u)) | ((_10924 & uint4(1023u)) << uint4(20u))) | ((_10924 >> uint4(20u)) & uint4(1023u));
+                    break;
+                }
+                default:
+                {
+                    _11251 = _3271._m0[_11687];
+                    _13709 = _10924;
+                    break;
+                }
+            }
+            _8952 = _11251;
+            _22009 = _13709;
+        }
+        else
+        {
+            _8952 = _3271._m0[_11687];
+            _22009 = _10924;
+        }
+        uint2 _7319 = _9840 + ((((uint2(_3305._m3) >> uint2(20u, 24u)) & uint2(15u)) << uint2(3u)) * uint2(1u));
+        uint _11376;
+        if ((_3305._m2 & 8u) != 0u)
+        {
+            int3 _20125 = int3(uint3(_7319, (_3305._m2 >> 4u) & 7u));
+            int _10438 = _20125.y;
+            int _10056 = _20125.z;
+            int _16477 = _10056 >> 2;
+            int _25154 = _20125.x;
+            int _24035 = (((_25154 & 7) + ((_10438 & 6) << 2)) << int(8u)) >> 6;
+            int _23052 = ((_10438 >> 3) + _16477) & 1;
+            int _15437 = _23052 + ((((_25154 >> 3) + (_23052 << 1)) & 3) << 1);
+            int _16730 = (((((((((_25154 >> 5) + (((_10438 >> 4) + (_16477 * int((((_3305._m3 >> 10u) & 1023u) << 5u) >> 4u))) * int(_15783 >> 5u))) << int(8u)) & 268435455) << 1) + (_24035 & (-16))) << 1) + (_24035 & 15)) + ((_10056 & 3) << int(8u))) + ((_10438 & 1) << 4);
+            _11376 = uint(((((((((_15437 & 1) << 3) + ((_16730 >> 6) & 7)) << 3) + (_15437 & (-2))) << 2) + (_16730 & (-512))) << 3) + (_16730 & 63));
+        }
+        else
+        {
+            int2 _10608 = int2(_7319);
+            int _17090 = _10608.x;
+            int _10055 = _10608.y;
+            int _6375 = ((_17090 & 7) + ((_10055 & 14) << 2)) << int(2u);
+            int _16727 = (((((_17090 >> 5) + ((_10055 >> 5) * int(_15783 >> 5u))) << int(9u)) + ((_6375 & (-16)) << 1)) + (_6375 & 15)) + ((_10055 & 1) << 4);
+            _11376 = uint((((((_16727 & (-512)) << 3) + ((_10055 & 16) << 7)) + ((_16727 & 448) << 2)) + (((((_10055 & 8) >> 2) + (_17090 >> 3)) & 3) << 6)) + (_16727 & 63));
+        }
+        uint _18675 = (_11376 + _3305._m4) >> 4u;
+        bool _22390 = _19164 == 2u;
+        bool _22150 = (_19164 == 1u) || _22390;
+        uint4 _22649;
+        if (_22150)
+        {
+            _22649 = ((_22009 & uint4(16711935u)) << uint4(8u)) | ((_22009 & uint4(4278255360u)) >> uint4(8u));
+        }
+        else
+        {
+            _22649 = _22009;
+        }
+        bool _15139 = _22390 || (_19164 == 3u);
+        uint4 _19767;
+        if (_15139)
+        {
+            _19767 = (_22649 << uint4(16u)) | (_22649 >> uint4(16u));
+        }
+        else
+        {
+            _19767 = _22649;
+        }
+        _5522._m0[_18675] = _19767;
+        uint4 _10925;
+        if (_22150)
+        {
+            _10925 = ((_8952 & uint4(16711935u)) << uint4(8u)) | ((_8952 & uint4(4278255360u)) >> uint4(8u));
+        }
+        else
+        {
+            _10925 = _8952;
+        }
+        uint4 _19769;
+        if (_15139)
+        {
+            _19769 = (_10925 << uint4(16u)) | (_10925 >> uint4(16u));
+        }
+        else
+        {
+            _19769 = _10925;
+        }
+        _5522._m0[_18675 + 2u] = _19769;
+        break;
+    } while(false);
+}
+
+
+End MSL
+
+ (object 0: ShaderModule 0x7fa9c7bc9f00)
+[mvk-info] Compiling Metal shader with MathMode Fast, MathFloatingPointFunctions Fast, and PreserveInvariance disabled.
+2026-11-18 13:35:53.851 I gpu        t06403 Vulkan Info ({ General }, ID 0: mvk-info): Compiling Metal shader with MathMode Fast, MathFloatingPointFunctions Fast, and PreserveInvariance disabled. (object 0: ShaderModule 0x7fa9c7bc9f00)
+[mvk-info] Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9c6fa55b0) on screen Main Screen.
+2026-11-18 13:35:53.930 I gpu        t103683 Vulkan Info ({ General }, ID 0: mvk-info): Created 3 swapchain images with size (1280, 720) and contents scale 1.0 in layer CAMetalLayer: SDL3_cocoametalview (0x7fa9c6fa55b0) on screen Main Screen. (object 0: SwapchainKHR 0x7fa9cb858810)
+2026-11-18 13:35:53.930 I ui         t103683 VulkanPresenter: Created 1280x720 swapchain with format 44, color space 0, presentation mode 2
+[mvk-error] VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error.
+2026-11-18 13:35:54.194 E gpu        t111363 Vulkan Error ({ Validation }, ID 0: mvk-error): VK_ERROR_INITIALIZATION_FAILED: Compute shader function could not be compiled into pipeline. See previous logged error. (object 0: Pipeline 0x7fa9c7bc9fe0)
+2026-11-18 13:35:54.194 E gpu        t111363 VulkanRenderTargetCache: Failed to create the resolve copy pipeline Resolve Copy Fast 32bpp 1x/2xMSAA
+2026-11-18 13:35:54.194 E gpu        t111363 Failed to initialize the render target cache
+2026-11-18 13:35:54.194 C gpu        t111363 Unable to setup command processor internal state
+==== orbita crash report, rexglue 0.11.0.0-dev.unknown ====
+exception: SIGABRT (0x6) at 0x00007ff81009d846
+guest thread 00000003 GPU Commands (00000000)
+registers:
+    rip = 0x00007ff81009d846   eflags = 0x00000246
+    rax = 0x0000000000000000
+    rcx = 0x000070000c19fd08
+    rdx = 0x0000000000000000
+    rbx = 0x0000000000000006
+    rsp = 0x000070000c19fd08
+    rbp = 0x000070000c19fd30
+    rsi = 0x0000000000000006
+    rdi = 0x000000000001b303
+     r8 = 0x00007ff851adaf70
+     r9 = 0x0000000000000000
+    r10 = 0x00007ff851ce59c0
+    r11 = 0x0000000000000246
+    r12 = 0x00007fa9c7cc2178
+    r13 = 0x00007fa9c7cc217c
+    r14 = 0x000000000001b303
+    r15 = 0x0000000000000016
+stack code addresses (sp 0x000070000c19fd08):
+    none
+backtrace:
+    [ 0] 0x000000011021a46e
+    [ 1] 0x00000001101b9fab
+    [ 2] 0x0000000110219ff5
+    [ 3] 0x000000011021a76d
+    [ 4] 0x00007ff81011131d
+    [ 5] 0x0000000000000000
+    [ 6] 0x00007ff80fff7476
+    [ 7] 0x000000011104e0c4
+    [ 8] 0x0000000110ed06d0
+    [ 9] 0x000000010feba1d6
+    [10] 0x000000010fecbd80
+    [11] 0x000000010fecd2ce
+    [12] 0x0000000110224ea7
+    [13] 0x00007ff8100d8e05
+    [14] 0x00007ff8100d4857
+==== end of crash report ====
